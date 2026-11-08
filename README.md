@@ -1,4 +1,4 @@
-# Base de recettes : catalogue, référentiel et schéma Supabase
+# Cuisine : catalogue de recettes, référentiel et schéma Supabase
 
 Catalogue de 503 recettes du quotidien en français, avec un référentiel de 343 ingrédients, et le schéma Supabase de l'appli (groupes, swipes, matchs, menus, liste de courses, import par lien).
 
