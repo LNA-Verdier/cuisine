@@ -1,0 +1,739 @@
+#! Plats : poissons et fruits de mer
+## Saumon en papillote, riz et citron | plat | facile | 10 | 20 | 4 | française | four,léger
+saumon_pave 4
+citron 1
+aneth 0.5 botte
+courgette 2
+huile_olive 2 cas
+riz 300 g
+sel qs
+poivre qs
+- Déposer chaque pavé sur une feuille de papier cuisson avec des rondelles de courgette et de citron, l'aneth et un filet d'huile.
+- Fermer les papillotes et cuire 20 minutes à 200 °C.
+- Servir avec le riz.
+
+## Pavé de saumon, crème d'épinards au citron | plat | facile | 10 | 15 | 4 | française | rapide
+saumon_pave 4
+creme_liquide 20 cl
+citron 1
+echalote 1
+epinard 200 g
+beurre 20 g
+pomme_de_terre_grenaille 600 g
+sel qs
+- Cuire les pommes de terre 20 minutes à l'eau.
+- Cuire les pavés côté peau 6 minutes, retourner 2 minutes.
+- Faire fondre échalote et épinards au beurre, ajouter crème et jus de citron, réduire 3 minutes.
+- Napper le saumon de sauce et servir avec les pommes de terre.
+
+## Tagliatelles au saumon | plat | facile | 10 | 15 | 4 | italienne | rapide
+tagliatelles 350 g
+saumon_pave 2
+creme_liquide 20 cl
+citron 0.5
+aneth 0.5 botte
+poivre qs
+- Cuire les pâtes.
+- Cuire le saumon en dés 3 minutes à la poêle.
+- Ajouter la crème, le zeste de citron et l'aneth.
+- Mélanger avec les pâtes.
+
+## Pâtes au saumon fumé et petits pois | plat | facile | 5 | 12 | 4 | française | rapide
+penne 350 g
+saumon_fume 4 tranche
+petit_pois_surg 200 g
+creme_legere 20 cl
+ciboulette 0.5 botte
+poivre qs
+- Cuire les pâtes, ajouter les petits pois 4 minutes avant la fin.
+- Chauffer la crème avec la ciboulette.
+- Mélanger avec les pâtes et le saumon fumé en lanières.
+
+## Quiche saumon épinards | plat | facile | 15 | 40 | 6 | française | four
+pate_brisee 1
+saumon_pave 2
+epinard_surg 300 g
+oeuf 3
+creme_liquide 20 cl
+lait 10 cl
+emmental_rape 50 g
+sel qs
+poivre qs
+- Décongeler et bien presser les épinards.
+- Étaler la pâte, répartir épinards et saumon en dés.
+- Battre œufs, crème, lait et fromage, verser.
+- Cuire 40 minutes à 180 °C.
+
+## Poké bowl au saumon | plat | facile | 20 | 15 | 4 | hawaïenne | frais,été
+riz 300 g
+saumon_pave 2
+avocat 1
+concombre 0.5
+edamame_surg 150 g
+carotte 1
+sauce_soja 4 cas
+vinaigre_cidre 2 cas
+sucre 1 cas
+graines_sesame 1 cas
+- Cuire le riz, l'assaisonner de vinaigre et sucre, laisser tiédir.
+- Couper le saumon très frais en dés et le mariner 10 minutes dans la sauce soja.
+- Cuire les edamame 3 minutes.
+- Composer les bols avec riz, saumon, avocat, concombre, carotte râpée et edamame. Parsemer de sésame.
+
+## Saumon teriyaki et légumes sautés | plat | facile | 10 | 15 | 4 | japonaise | rapide
+saumon_pave 4
+sauce_soja 4 cas
+miel 2 cas
+gingembre 10 g
+brocoli 1
+carotte 2
+riz 300 g
+graines_sesame 1 cas
+- Cuire le riz.
+- Saisir le saumon côté peau, retourner, ajouter sauce soja, miel et gingembre et laisser laquer.
+- Faire sauter brocoli et carottes 6 minutes.
+- Servir parsemé de sésame.
+
+## Gratin de saumon et pommes de terre | plat | facile | 20 | 40 | 4 | française | four,familial
+saumon_pave 2
+pomme_de_terre 800 g
+creme_liquide 25 cl
+lait 15 cl
+aneth 0.5 botte
+emmental_rape 60 g
+sel qs
+- Couper les pommes de terre en fines rondelles et le saumon en cubes.
+- Alterner dans un plat, verser crème et lait mélangés à l'aneth.
+- Parsemer de fromage, cuire 40 minutes à 190 °C.
+
+## Cabillaud à la provençale | plat | facile | 15 | 25 | 4 | provençale | été
+cabillaud 4
+tomate 4
+olive_noire 60 g
+oignon 1
+ail 2 gousse
+herbes_provence 1 cac
+huile_olive 3 cas
+riz 300 g
+sel qs
+- Faire revenir oignon et ail, ajouter les tomates en dés et les herbes, cuire 10 minutes.
+- Ajouter les olives et poser le cabillaud sur la sauce.
+- Couvrir et cuire 10 minutes à feu doux.
+- Servir avec le riz.
+
+## Cabillaud, purée de brocoli | plat | facile | 10 | 20 | 4 | française | léger
+cabillaud 4
+brocoli 1
+pomme_de_terre 300 g
+beurre 30 g
+citron 0.5
+sel qs
+poivre qs
+- Cuire brocoli et pommes de terre 15 minutes à l'eau, mixer avec le beurre.
+- Cuire le cabillaud à la vapeur 8 minutes.
+- Arroser de jus de citron et servir sur la purée.
+
+## Fish and chips | plat | moyen | 20 | 25 | 4 | anglaise | friture
+poisson_blanc 500 g
+farine 150 g
+biere 20 cl
+levure_chimique 0.5 sachet
+pomme_de_terre 1 kg
+huile_tournesol 6 cas (bain de friture, quantité absorbée)
+citron 1
+mayonnaise 3 cas
+sel qs
+- Préparer les frites et les cuire en deux bains.
+- Mélanger farine, levure, bière froide et sel pour une pâte épaisse.
+- Tremper le poisson en morceaux dans la pâte et frire 4 minutes à 180 °C.
+- Servir avec citron et sauce.
+
+## Brandade de morue façon parmentier | plat | moyen | 25 | 30 | 6 | provençale | four
+poisson_blanc 600 g
+pomme_de_terre 1 kg
+lait 30 cl
+huile_olive 8 cl
+ail 3 gousse
+persil 0.5 botte
+chapelure 20 g
+sel qs
+- Pocher le poisson 8 minutes dans le lait avec l'ail.
+- Cuire les pommes de terre et les écraser avec l'huile et un peu de lait de cuisson.
+- Mélanger avec le poisson effeuillé et le persil.
+- Mettre en plat, parsemer de chapelure et gratiner 20 minutes à 200 °C.
+
+## Colin sauce beurre blanc | plat | moyen | 10 | 20 | 4 | française | classique
+colin 4
+echalote 2
+vin_blanc 10 cl
+vinaigre 2 cas
+beurre 100 g
+pomme_de_terre 800 g
+sel qs
+- Cuire les pommes de terre à la vapeur.
+- Réduire échalotes, vin et vinaigre presque à sec, puis monter au beurre froid en fouettant.
+- Cuire le colin 8 minutes à la vapeur.
+- Napper de sauce et servir.
+
+## Filets de poisson panés, purée | plat | facile | 15 | 25 | 4 | française | enfants
+poisson_blanc 480 g
+oeuf 1
+chapelure 80 g
+farine 30 g
+pomme_de_terre 800 g
+lait 20 cl
+beurre 40 g
+huile_tournesol 3 cas
+citron 1
+sel qs
+- Préparer une purée avec pommes de terre, lait et beurre.
+- Paner les filets farine, œuf, chapelure.
+- Les cuire 4 minutes par face dans l'huile.
+- Servir avec la purée et le citron.
+
+## Curry de poisson au lait de coco | plat | facile | 15 | 20 | 4 | indienne | épicé
+poisson_blanc 600 g
+lait_coco 40 cl
+tomate_concassee 200 g
+oignon 1
+ail 2 gousse
+gingembre 10 g
+curry 2 cac
+coriandre 0.5 botte
+riz_basmati 300 g
+huile_tournesol 2 cas
+sel qs
+- Faire revenir oignon, ail et gingembre, ajouter le curry.
+- Ajouter tomates et lait de coco, mijoter 10 minutes.
+- Ajouter le poisson en gros cubes, cuire 7 minutes à frémissement.
+- Parsemer de coriandre et servir avec le riz.
+
+## Moules marinières frites | plat | facile | 15 | 15 | 4 | belge | convivial
+moule 2 kg
+echalote 3
+vin_blanc 20 cl
+beurre 30 g
+persil 0.5 botte
+pomme_de_terre 1 kg
+huile_tournesol 4 cas (bain de friture, quantité absorbée)
+poivre qs
+- Gratter et rincer les moules.
+- Faire suer les échalotes au beurre, ajouter vin et moules, couvrir.
+- Cuire 6 minutes à feu vif en secouant, jusqu'à ouverture. Parsemer de persil.
+- Servir avec des frites maison.
+
+## Moules à la crème et au curry | plat | facile | 15 | 15 | 4 | française | rapide
+moule 2 kg
+creme_liquide 20 cl
+curry 2 cac
+oignon 1
+vin_blanc 10 cl
+beurre 20 g
+baguette 1
+- Faire revenir l'oignon au beurre avec le curry.
+- Ajouter vin et moules, couvrir et cuire 6 minutes.
+- Ajouter la crème, mélanger et servir avec du pain.
+
+## Crevettes sautées à l'ail et persil | plat | facile | 10 | 10 | 4 | française | rapide
+crevette_crue 400 g
+ail 4 gousse
+persil 0.5 botte
+beurre 30 g
+huile_olive 2 cas
+citron 1
+riz 300 g
+piment_espelette 1 pincee
+- Cuire le riz.
+- Saisir les crevettes dans l'huile et le beurre 3 minutes.
+- Ajouter ail et persil hachés, piment et jus de citron, mélanger 1 minute.
+
+## Curry de crevettes coco | plat | facile | 10 | 20 | 4 | thaïlandaise | épicé
+crevette_crue 400 g
+lait_coco 40 cl
+pate_curry 2 cas
+poivron_rouge 1
+courgette 1
+citron_vert 1
+coriandre 0.5 botte
+riz 300 g
+- Chauffer la pâte de curry avec un peu de lait de coco.
+- Ajouter le reste du lait de coco et les légumes en dés, cuire 10 minutes.
+- Ajouter les crevettes, cuire 4 minutes.
+- Finir avec citron vert et coriandre, servir avec le riz.
+
+## Risotto aux crevettes et citron | plat | moyen | 10 | 25 | 4 | italienne | réconfortant
+riz_arborio 300 g
+crevette_crue 300 g
+citron 1
+oignon 1
+vin_blanc 10 cl
+bouillon_legumes 2 cube
+parmesan 40 g
+beurre 30 g
+- Préparer 1 litre de bouillon chaud.
+- Faire nacrer le riz avec l'oignon, déglacer au vin.
+- Ajouter le bouillon louche par louche pendant 18 minutes.
+- Ajouter crevettes, zeste et jus de citron, beurre et parmesan, cuire 3 minutes.
+
+## Spaghetti aux crevettes et tomates cerises | plat | facile | 10 | 15 | 4 | italienne | été
+spaghetti 350 g
+crevette_crue 300 g
+tomate_cerise 300 g
+ail 2 gousse
+piment_poudre 1 pincee
+basilic 0.5 pot
+huile_olive 3 cas
+sel qs
+- Cuire les pâtes.
+- Faire revenir l'ail et le piment dans l'huile, ajouter les tomates coupées en deux.
+- Ajouter les crevettes, cuire 3 minutes.
+- Mélanger avec les pâtes et le basilic.
+
+## Thon à la tomate et aux poivrons | plat | facile | 10 | 25 | 4 | espagnole | économique
+thon 280 g
+poivron_rouge 2
+oignon 1
+tomate_concassee 400 g
+paprika 1 cac
+huile_olive 2 cas
+riz 300 g
+sel qs
+- Faire revenir oignon et poivrons en lanières 10 minutes.
+- Ajouter tomates et paprika, mijoter 10 minutes.
+- Ajouter le thon émietté, réchauffer 3 minutes. Servir avec le riz.
+
+## Pâtes au thon et à la tomate | plat | facile | 5 | 15 | 4 | italienne | rapide,économique
+penne 350 g
+thon 140 g
+coulis_tomate 400 g
+oignon 1
+olive_noire 50 g
+capres 1 cas
+huile_olive 2 cas
+origan 1 cac
+- Faire revenir l'oignon, ajouter coulis et origan, mijoter 10 minutes.
+- Ajouter thon émietté, olives et câpres.
+- Mélanger avec les pâtes cuites.
+
+## Gratin de pâtes au thon | plat | facile | 10 | 30 | 4 | française | four,économique
+coquillettes 300 g
+thon 140 g
+creme_legere 20 cl
+tomate_concassee 200 g
+emmental_rape 80 g
+oeuf 1
+sel qs
+- Cuire les pâtes 2 minutes de moins que le temps indiqué.
+- Mélanger avec thon, tomates, crème, œuf et moitié du fromage.
+- Couvrir du reste de fromage, gratiner 20 minutes à 200 °C.
+
+## Tarte au thon et à la moutarde | plat | facile | 10 | 35 | 6 | française | four,économique
+pate_brisee 1
+thon 140 g
+tomate 3
+moutarde 2 cas
+emmental_rape 60 g
+herbes_provence 1 cac
+oeuf 2
+creme_liquide 10 cl
+- Étaler la pâte, la badigeonner de moutarde.
+- Répartir le thon émietté, puis les rondelles de tomates.
+- Battre œufs, crème et fromage, verser, parsemer d'herbes.
+- Cuire 35 minutes à 190 °C.
+
+## Rillettes de thon et pain grillé | entree | facile | 10 | 0 | 4 | française | apéro,sans-cuisson
+thon 140 g
+st_moret 100 g
+citron 0.5
+ciboulette 0.5 botte
+pain_campagne 8 tranche
+poivre qs
+- Écraser le thon avec le fromage frais, le jus de citron et la ciboulette ciselée.
+- Poivrer et réserver au frais.
+- Servir sur des tranches de pain grillé.
+
+## Maquereaux au four, pommes de terre | plat | facile | 10 | 30 | 4 | bretonne | four,économique
+maquereau 4
+pomme_de_terre 800 g
+citron 1
+thym 1 cac
+huile_olive 3 cas
+sel qs
+- Disposer pommes de terre en rondelles dans un plat avec l'huile, cuire 15 minutes à 200 °C.
+- Poser les maquereaux vidés dessus avec citron et thym.
+- Poursuivre 15 minutes.
+
+## Sardines grillées, salade de tomates | plat | facile | 10 | 10 | 4 | portugaise | barbecue,été
+sardine 800 g
+tomate 4
+oignon_rouge 1
+huile_olive 3 cas
+citron 1
+fleur_sel qs
+baguette 1
+- Griller les sardines 3 minutes par face.
+- Préparer une salade de tomates et d'oignon à l'huile d'olive.
+- Servir avec citron, fleur de sel et pain.
+
+## Dorade au four et fenouil | plat | facile | 15 | 30 | 4 | méditerranéenne | four
+dorade 2
+fenouil 2
+citron 1
+huile_olive 3 cas
+thym 1 cac
+vin_blanc 10 cl
+sel qs
+- Émincer le fenouil et le disposer dans un plat avec l'huile.
+- Poser les dorades garnies de citron et de thym.
+- Arroser de vin blanc, cuire 30 minutes à 200 °C.
+
+## Truite aux amandes | plat | facile | 10 | 15 | 4 | française | classique
+truite 4
+amande_effilee 50 g
+beurre 50 g
+farine 30 g
+citron 1
+haricot_vert_surg 400 g
+sel qs
+- Fariner les filets de truite.
+- Les cuire au beurre 3 minutes par face, réserver.
+- Dorer les amandes dans le beurre de cuisson, ajouter le jus de citron.
+- Napper la truite, servir avec les haricots verts.
+
+## Poisson blanc à la crème de poireaux | plat | facile | 15 | 25 | 4 | française | hiver
+poisson_blanc 480 g
+poireau 3
+creme_liquide 20 cl
+beurre 20 g
+vin_blanc 10 cl
+riz 300 g
+sel qs
+- Faire fondre les poireaux émincés au beurre 15 minutes.
+- Ajouter vin et crème, poser le poisson dessus.
+- Couvrir et cuire 8 minutes à feu doux. Servir avec le riz.
+
+## Parmentier de poisson | plat | facile | 20 | 30 | 4 | française | four,familial
+poisson_blanc 480 g
+pomme_de_terre 800 g
+lait 25 cl
+beurre 30 g
+epinard_surg 300 g
+emmental_rape 60 g
+muscade 1 pincee
+sel qs
+- Pocher le poisson 8 minutes dans le lait.
+- Préparer une purée avec pommes de terre, beurre et lait de cuisson.
+- Monter en couches épinards, poisson effeuillé et purée.
+- Parsemer de fromage, gratiner 20 minutes à 200 °C.
+
+## Accras de morue | entree | moyen | 25 | 15 | 6 | antillaise | apéro,friture
+poisson_blanc 300 g
+farine 200 g
+oeuf 1
+levure_chimique 1 sachet
+oignon_nouveau 0.5
+ail 2 gousse
+persil 0.5 botte
+piment_frais 1
+huile_tournesol 6 cas (bain de friture, quantité absorbée)
+sel qs
+- Pocher le poisson 8 minutes, l'effeuiller.
+- Mélanger farine, levure, œuf et 20 cl d'eau, ajouter le poisson et les aromates hachés.
+- Faire frire des cuillerées de pâte 3 minutes dans l'huile chaude.
+- Égoutter sur du papier absorbant.
+
+## Tacos de poisson | plat | facile | 20 | 10 | 4 | mexicaine | été
+poisson_blanc 480 g
+tortilla 8
+chou_rouge 200 g
+citron_vert 2
+creme_fraiche 100 g
+paprika 1 cac
+cumin 1 cac
+coriandre 0.5 botte
+huile_tournesol 2 cas
+sel qs
+- Assaisonner le poisson d'épices et le cuire à la poêle, l'émietter.
+- Mélanger chou rouge émincé et jus de citron vert.
+- Garnir les tortillas chaudes de poisson, chou, crème et coriandre.
+
+## Calamars à la plancha | plat | facile | 10 | 10 | 4 | espagnole | été
+calamar 600 g
+ail 3 gousse
+persil 0.5 botte
+citron 1
+huile_olive 3 cas
+riz 250 g
+piment_espelette 1 pincee
+- Saisir les calamars à feu très vif 3 minutes dans l'huile.
+- Ajouter ail et persil hachés, piment et jus de citron.
+- Servir avec le riz.
+
+## Saint-Jacques poêlées, fondue de poireaux | plat | moyen | 15 | 25 | 4 | française | festif
+noix_st_jacques 300 g
+poireau 3
+creme_liquide 15 cl
+beurre 40 g
+citron 0.5
+riz 250 g
+sel qs
+- Fondre les poireaux émincés au beurre 20 minutes, ajouter la crème.
+- Saisir les noix de Saint-Jacques 1 minute par face dans le beurre très chaud.
+- Servir sur les poireaux avec un trait de citron et le riz.
+
+## Bouillabaisse simplifiée | plat | difficile | 30 | 40 | 6 | provençale | festif
+poisson_blanc 800 g
+moule 500 g
+pomme_de_terre 600 g
+fenouil 1
+tomate_concassee 400 g
+oignon 1
+ail 3 gousse
+safran 1 dose
+huile_olive 4 cas
+baguette 1
+mayonnaise 4 cas
+sel qs
+- Faire revenir oignon, fenouil et ail dans l'huile, ajouter tomates et safran.
+- Couvrir de 1,5 litre d'eau, ajouter les pommes de terre en rondelles, cuire 20 minutes.
+- Ajouter le poisson en morceaux puis les moules, cuire 8 minutes.
+- Servir avec le pain grillé et la mayonnaise relevée d'ail.
+
+## Soupe thaï aux crevettes | soupe | facile | 15 | 15 | 4 | thaïlandaise | épicé
+crevette_crue 300 g
+lait_coco 40 cl
+bouillon_volaille 1 cube
+champignon 150 g
+citron_vert 2
+nuoc_mam 2 cas
+gingembre 15 g
+pate_curry 1 cas
+coriandre 0.5 botte
+- Chauffer 60 cl d'eau avec le cube, le gingembre et la pâte de curry.
+- Ajouter lait de coco et champignons, cuire 8 minutes.
+- Ajouter les crevettes 3 minutes, puis le nuoc-mâm et le citron vert.
+- Servir avec la coriandre.
+
+## Salade niçoise | salade | facile | 20 | 10 | 4 | provençale | été,sans-four
+thon 140 g
+oeuf 4
+tomate 4
+haricot_vert 200 g
+olive_noire 60 g
+poivron_vert 1
+oignon_rouge 1
+salade 1
+huile_olive 4 cas
+vinaigre 1 cas
+sel qs
+- Cuire les œufs 9 minutes et les haricots 6 minutes.
+- Disposer la salade, les tomates en quartiers, le poivron et l'oignon émincés.
+- Ajouter haricots, thon, olives et œufs en quartiers.
+- Arroser de vinaigrette.
+
+## Saumon grillé, lentilles vertes | plat | facile | 10 | 25 | 4 | française | équilibré
+saumon_pave 4
+lentilles_vertes 250 g
+echalote 1
+moutarde 1 cas
+vinaigre 2 cas
+huile_olive 3 cas
+persil 0.5 botte
+sel qs
+- Cuire les lentilles 25 minutes à l'eau.
+- Assaisonner de moutarde, vinaigre, huile, échalote et persil.
+- Griller le saumon 4 minutes par face et servir sur les lentilles.
+
+## Gravlax de saumon | entree | moyen | 15 | 0 | 6 | scandinave | festif,sans-cuisson
+saumon_pave 4
+sucre 60 g
+sel 60 g
+aneth 1 botte
+poivre qs
+citron 1
+- Mélanger sucre, sel, poivre et aneth haché.
+- Recouvrir le saumon de ce mélange, filmer et réfrigérer 24 h en retournant à mi-temps.
+- Rincer, sécher et trancher finement. Servir avec citron.
+
+## Tartare de saumon à l'avocat | entree | facile | 20 | 0 | 4 | française | frais,sans-cuisson
+saumon_pave 2
+avocat 1
+citron_vert 1
+echalote 1
+ciboulette 0.5 botte
+huile_olive 1 cas
+sel qs
+- Couper le saumon très frais et l'avocat en petits dés.
+- Mélanger avec échalote ciselée, ciboulette, jus de citron vert et huile.
+- Saler et dresser à l'emporte-pièce.
+
+## Crumble de poisson aux légumes | plat | facile | 20 | 30 | 4 | française | four
+poisson_blanc 480 g
+courgette 2
+tomate 2
+farine 80 g
+beurre 60 g
+parmesan 40 g
+herbes_provence 1 cac
+sel qs
+- Disposer légumes en dés et poisson en morceaux dans un plat, saler.
+- Sabler farine, beurre froid et parmesan du bout des doigts.
+- Parsemer sur le plat avec les herbes et cuire 30 minutes à 190 °C.
+
+## Brochettes de crevettes et ananas | plat | facile | 15 | 10 | 4 | asiatique | barbecue,été
+crevette_crue 400 g
+ananas 0.5
+poivron_rouge 1
+sauce_soja 3 cas
+miel 1 cas
+riz 300 g
+- Mariner les crevettes dans sauce soja et miel.
+- Monter les brochettes en alternant crevettes, ananas et poivron.
+- Griller 6 à 8 minutes. Servir avec le riz.
+
+## Lieu noir sauce vierge | plat | facile | 15 | 15 | 4 | française | été,léger
+colin 4
+tomate 3
+basilic 0.5 pot
+citron 1
+huile_olive 6 cas
+echalote 1
+quinoa 250 g
+sel qs
+- Cuire le quinoa.
+- Préparer la sauce vierge : tomates en petits dés, échalote, basilic, jus de citron et huile.
+- Cuire le poisson à la poêle 4 minutes par face.
+- Napper de sauce vierge et servir avec le quinoa.
+
+## Sardines à la tomate sur toasts | plat | facile | 10 | 10 | 4 | portugaise | rapide,économique
+sardine_conserve 230 g
+pain_campagne 8 tranche
+tomate 3
+ail 1 gousse
+huile_olive 2 cas
+salade 0.5
+- Griller le pain, le frotter à l'ail.
+- Garnir de tomates en tranches et de sardines égouttées.
+- Arroser d'huile et passer 5 minutes au four. Servir avec la salade.
+
+## Cake au thon et olives | entree | facile | 15 | 45 | 8 | française | apéro,pique-nique
+farine 180 g
+oeuf 3
+levure_chimique 1 sachet
+lait 10 cl
+huile_olive 10 cl
+thon 140 g
+olive_verte 100 g
+emmental_rape 100 g
+sel qs
+- Mélanger farine, levure et œufs, puis le lait et l'huile.
+- Ajouter le thon, les olives et le fromage.
+- Cuire 45 minutes à 180 °C dans un moule à cake.
+
+## Riz sauté aux crevettes | plat | facile | 10 | 10 | 4 | chinoise | wok,rapide
+riz 300 g
+crevette_crue 300 g
+oeuf 2
+petit_pois_surg 150 g
+carotte 1
+sauce_soja 3 cas
+oignon_nouveau 0.5
+huile_tournesol 2 cas
+- Utiliser du riz cuit refroidi.
+- Faire sauter crevettes et carotte en dés, ajouter petits pois.
+- Ajouter le riz, la sauce soja, puis les œufs brouillés et l'oignon nouveau.
+
+## Omelette aux crevettes et ciboulette | plat | facile | 5 | 8 | 2 | française | rapide
+oeuf 5
+crevette 100 g
+ciboulette 0.5 botte
+beurre 15 g
+salade 0.5
+sel qs
+- Battre les œufs avec sel et ciboulette.
+- Cuire au beurre, ajouter les crevettes au centre et plier.
+- Servir avec la salade.
+
+## Cabillaud en croûte de chorizo | plat | facile | 10 | 20 | 4 | espagnole | four
+cabillaud 4
+chorizo 60 g
+chapelure 30 g
+huile_olive 2 cas
+pomme_de_terre_grenaille 600 g
+- Rôtir les pommes de terre 25 minutes à 200 °C.
+- Mixer chorizo et chapelure, en couvrir le cabillaud.
+- Cuire 12 minutes au four avec les pommes de terre.
+
+## Saumon gravlax en poke au riz vinaigré | plat | facile | 15 | 15 | 4 | japonaise | frais
+riz 300 g
+saumon_fume 4 tranche
+concombre 1
+radis 0.5 botte
+avocat 1
+vinaigre_cidre 3 cas
+sucre 1 cas
+sauce_soja 3 cas
+graines_sesame 1 cas
+- Cuire le riz et l'assaisonner de vinaigre et sucre.
+- Couper concombre, radis et avocat.
+- Disposer en bols avec le saumon fumé, arroser de sauce soja et parsemer de sésame.
+
+## Encornets à l'armoricaine | plat | moyen | 15 | 40 | 4 | bretonne | mijoté
+calamar 600 g
+tomate_concassee 400 g
+oignon 1
+ail 2 gousse
+vin_blanc 15 cl
+concentre_tomate 1 cas
+piment_espelette 1 cac
+huile_olive 2 cas
+riz 300 g
+- Saisir les encornets dans l'huile, réserver.
+- Faire revenir oignon et ail, ajouter tomates, concentré, vin et piment.
+- Remettre les encornets et mijoter 35 minutes. Servir avec le riz.
+
+## Colin aux légumes vapeur et beurre citronné | plat | facile | 10 | 20 | 4 | française | léger
+colin 4
+carotte 3
+courgette 2
+pomme_de_terre 400 g
+beurre 40 g
+citron 1
+sel qs
+- Cuire les légumes à la vapeur 15 minutes, ajouter le poisson pour les 8 dernières minutes.
+- Faire fondre le beurre avec le jus et le zeste de citron.
+- Arroser le tout et servir.
+
+## Tartines de maquereau et fromage frais | entree | facile | 10 | 0 | 4 | française | apéro,rapide
+maquereau_conserve 176 g
+st_moret 100 g
+pain_campagne 8 tranche
+radis 0.5 botte
+ciboulette 0.5 botte
+- Tartiner le pain de fromage frais.
+- Ajouter le maquereau émietté, les radis en rondelles et la ciboulette.
+
+## Nouilles soba au saumon | plat | facile | 10 | 15 | 4 | japonaise | rapide
+nouilles_ble 250 g
+saumon_pave 2
+edamame_surg 150 g
+sauce_soja 4 cas
+huile_sesame 1 cas
+gingembre 10 g
+oignon_nouveau 0.5
+- Cuire les nouilles et les edamame.
+- Cuire le saumon et l'émietter.
+- Mélanger le tout avec sauce soja, huile de sésame, gingembre et oignon nouveau.
+
+## Croquettes de saumon et pommes de terre | plat | facile | 20 | 15 | 4 | française | enfants
+saumon_pave 2
+pomme_de_terre 500 g
+oeuf 1
+chapelure 60 g
+aneth 0.5 botte
+huile_tournesol 3 cas
+salade 0.5
+sel qs
+- Cuire et écraser les pommes de terre, ajouter le saumon cuit émietté, l'œuf et l'aneth.
+- Former des galettes et les passer dans la chapelure.
+- Dorer 4 minutes par face. Servir avec la salade.

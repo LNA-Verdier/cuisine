@@ -1,0 +1,879 @@
+#! Plats : bœuf, veau, agneau, porc
+## Bœuf bourguignon | plat | moyen | 30 | 180 | 6 | française | mijoté,hiver,familial,batch
+boeuf_bourguignon 1.2 kg
+lardons 150 g
+carotte 3
+oignon 2
+ail 2 gousse
+champignon 250 g
+vin_rouge 75 cl
+farine 2 cas
+bouillon_boeuf 1 cube
+thym 1 cac
+laurier 2 feuille
+huile_tournesol 2 cas
+sel qs
+poivre qs
+- Couper la viande en gros cubes, émincer les oignons, couper les carottes en rondelles.
+- Faire dorer la viande en plusieurs fois dans une cocotte avec l'huile, puis réserver.
+- Faire revenir oignons et lardons, remettre la viande, saupoudrer de farine et mélanger 2 minutes.
+- Mouiller avec le vin et le bouillon émietté dans 30 cl d'eau, ajouter carottes, ail, thym et laurier.
+- Couvrir et laisser mijoter 2 h 30 à feu doux. Ajouter les champignons poêlés 30 minutes avant la fin.
+
+## Pot-au-feu | plat | facile | 30 | 210 | 6 | française | mijoté,hiver,familial
+boeuf_pot_au_feu 1.5 kg
+carotte 6
+poireau 3
+navet 4
+pomme_de_terre 800 g
+oignon 1
+clou_girofle 3
+celeri_branche 2
+laurier 2 feuille
+thym 1 cac
+sel qs
+poivre qs
+- Mettre la viande dans un grand faitout, couvrir d'eau froide et porter à ébullition en écumant.
+- Ajouter l'oignon piqué des clous de girofle, le thym, le laurier, du sel et du poivre. Cuire 2 h à petits frémissements.
+- Ajouter carottes, poireaux, navets et céleri épluchés, poursuivre 45 minutes.
+- Cuire les pommes de terre à part dans un peu de bouillon. Servir la viande avec les légumes et le bouillon chaud.
+
+## Hachis parmentier | plat | facile | 30 | 30 | 6 | française | four,familial,réconfortant
+boeuf_hache 600 g
+pomme_de_terre 1.2 kg
+oignon 2
+ail 1 gousse
+lait 25 cl
+beurre 50 g
+emmental_rape 80 g
+concentre_tomate 1 cas
+muscade 1 pincee
+sel qs
+poivre qs
+- Cuire les pommes de terre épluchées 25 minutes à l'eau salée, puis les écraser avec le lait chaud, le beurre et la muscade.
+- Faire revenir l'oignon émincé et l'ail, ajouter la viande et le concentré, cuire 10 minutes, saler et poivrer.
+- Étaler la viande dans un plat, couvrir de purée et parsemer de fromage.
+- Gratiner 20 minutes au four à 200 °C.
+
+## Chili con carne | plat | facile | 20 | 60 | 6 | mexicaine | mijoté,épicé,batch
+boeuf_hache 600 g
+haricot_rouge 500 g
+tomate_concassee 800 g
+oignon 2
+ail 2 gousse
+poivron_rouge 1
+cumin 2 cac
+paprika 2 cac
+piment_poudre 1/2 cac
+concentre_tomate 2 cas
+huile_tournesol 2 cas
+riz 400 g
+sel qs
+- Faire revenir oignons, ail et poivron coupés dans l'huile.
+- Ajouter la viande et les épices, faire dorer 5 minutes.
+- Ajouter tomates concassées, concentré et 20 cl d'eau, laisser mijoter 40 minutes.
+- Ajouter les haricots rincés et prolonger 15 minutes. Servir avec le riz cuit.
+
+## Spaghetti bolognaise | plat | facile | 15 | 60 | 4 | italienne | familial,batch
+spaghetti 400 g
+boeuf_hache 400 g
+coulis_tomate 500 g
+oignon 1
+carotte 1
+celeri_branche 1
+ail 1 gousse
+huile_olive 2 cas
+origan 1 cac
+parmesan 40 g
+sel qs
+poivre qs
+- Hacher finement oignon, carotte et céleri, les faire suer dans l'huile d'olive.
+- Ajouter la viande et l'ail, faire dorer puis verser le coulis et l'origan.
+- Laisser mijoter 45 minutes à couvert en remuant de temps en temps.
+- Cuire les spaghetti al dente et servir avec la sauce et le parmesan râpé.
+
+## Lasagnes à la bolognaise | plat | moyen | 40 | 45 | 6 | italienne | four,familial,batch
+lasagne 300 g
+boeuf_hache 500 g
+coulis_tomate 700 g
+oignon 1
+ail 2 gousse
+beurre 50 g
+farine 50 g
+lait 70 cl
+muscade 1 pincee
+emmental_rape 100 g
+huile_olive 2 cas
+origan 1 cac
+sel qs
+poivre qs
+- Préparer la bolognaise : faire revenir oignon et ail, ajouter la viande puis le coulis et l'origan, cuire 20 minutes.
+- Préparer la béchamel : faire fondre le beurre, ajouter la farine, puis le lait en fouettant jusqu'à épaississement. Assaisonner de muscade.
+- Alterner dans un plat béchamel, feuilles de lasagne et bolognaise, finir par la béchamel et le fromage.
+- Cuire 40 minutes au four à 180 °C.
+
+## Boulettes de bœuf sauce tomate | plat | facile | 25 | 30 | 4 | italienne | familial
+boeuf_hache 500 g
+oeuf 1
+chapelure 50 g
+parmesan 30 g
+persil 0.5 botte
+ail 1 gousse
+coulis_tomate 500 g
+oignon 1
+huile_olive 2 cas
+spaghetti 300 g
+sel qs
+poivre qs
+- Mélanger viande, œuf, chapelure, parmesan, persil haché et ail. Former des boulettes.
+- Les faire dorer dans l'huile, puis réserver.
+- Faire revenir l'oignon, ajouter le coulis, remettre les boulettes et mijoter 20 minutes.
+- Servir avec les pâtes cuites.
+
+## Steak frites maison | plat | facile | 15 | 30 | 4 | française | classique
+boeuf_steak 600 g
+pomme_de_terre 1 kg
+huile_tournesol 4 cas (bain de friture d'environ 1 l, quantité absorbée)
+beurre 20 g
+echalote 1
+fleur_sel qs
+poivre qs
+- Éplucher et tailler les pommes de terre en frites, les rincer et bien les sécher.
+- Cuire les frites une première fois 6 minutes à 160 °C, égoutter, puis 3 minutes à 180 °C.
+- Saisir les steaks au beurre 2 à 3 minutes par face, ajouter l'échalote ciselée en fin de cuisson.
+- Saler à la fleur de sel, poivrer et servir aussitôt.
+
+## Burgers maison | plat | facile | 20 | 15 | 4 | américaine | familial,été
+steak_hache 4
+pain_burger 4
+cheddar 4 tranche
+tomate 1
+oignon_rouge 1
+salade 0.5
+cornichon 40 g
+ketchup 4 cas
+moutarde 1 cas
+pomme_de_terre 800 g
+huile_tournesol 3 cas
+sel qs
+- Couper les pommes de terre en quartiers, les mélanger avec l'huile et le sel, cuire 30 minutes au four à 210 °C.
+- Cuire les steaks à la poêle, poser le cheddar dessus en fin de cuisson.
+- Toaster les pains, les garnir de sauce, salade, tomate, oignon, steak et cornichons.
+- Servir avec les potatoes.
+
+## Bœuf aux oignons façon wok | plat | facile | 15 | 10 | 4 | chinoise | rapide,wok
+boeuf_emince 400 g
+oignon 3
+sauce_soja 4 cas
+sauce_huitre 2 cas
+maizena 1 cas
+gingembre 10 g
+ail 2 gousse
+huile_tournesol 2 cas
+riz_basmati 300 g
+- Mélanger le bœuf avec 2 cuillères de sauce soja et la fécule.
+- Saisir la viande à feu vif dans le wok, réserver.
+- Faire sauter les oignons émincés, l'ail et le gingembre 3 minutes.
+- Remettre la viande, ajouter le reste de sauce soja et la sauce d'huître, mélanger 1 minute. Servir avec le riz.
+
+## Carbonade flamande | plat | moyen | 25 | 150 | 6 | belge | mijoté,hiver
+boeuf_bourguignon 1.2 kg
+oignon 4
+biere 66 cl
+pain_campagne 2 tranche
+moutarde 2 cas
+sucre_roux 2 cas
+vinaigre 1 cas
+thym 1 cac
+laurier 2 feuille
+beurre 30 g
+pomme_de_terre 1 kg
+sel qs
+poivre qs
+- Faire dorer la viande dans le beurre, réserver, puis faire fondre les oignons émincés.
+- Remettre la viande, ajouter la bière, la cassonade, le vinaigre, le thym et le laurier.
+- Tartiner le pain de moutarde et le poser sur la viande. Couvrir et mijoter 2 h 30.
+- Servir avec des pommes de terre vapeur.
+
+## Blanquette de veau | plat | moyen | 30 | 120 | 6 | française | mijoté,classique
+veau_blanquette 1.2 kg
+carotte 3
+oignon 1
+champignon 250 g
+creme_liquide 20 cl
+oeuf 1
+beurre 40 g
+farine 40 g
+citron 0.5
+bouillon_volaille 1 cube
+laurier 1 feuille
+thym 1 cac
+riz 400 g
+sel qs
+poivre qs
+- Couvrir la viande d'eau froide avec le cube, porter à ébullition et écumer.
+- Ajouter carottes, oignon, thym, laurier et cuire 1 h 30 à petit feu.
+- Préparer un roux avec beurre et farine, le délayer avec 50 cl de bouillon de cuisson.
+- Hors du feu, ajouter la crème mélangée au jaune d'œuf et au jus de citron. Ajouter la viande, les légumes et les champignons poêlés. Servir avec le riz.
+
+## Escalopes de veau à la crème | plat | facile | 10 | 20 | 4 | française | rapide
+veau_escalope 4
+champignon 250 g
+creme_fraiche 200 g
+echalote 1
+beurre 20 g
+vin_blanc 10 cl
+tagliatelles 300 g
+sel qs
+poivre qs
+- Faire dorer les escalopes au beurre 3 minutes par face, réserver au chaud.
+- Faire revenir l'échalote et les champignons émincés, déglacer au vin blanc.
+- Ajouter la crème, laisser réduire 5 minutes, remettre la viande.
+- Servir avec les tagliatelles.
+
+## Osso buco | plat | moyen | 25 | 120 | 4 | italienne | mijoté
+veau_blanquette 1 kg
+tomate_concassee 400 g
+carotte 2
+oignon 1
+celeri_branche 1
+ail 2 gousse
+vin_blanc 20 cl
+farine 2 cas
+huile_olive 3 cas
+citron 1
+persil 0.5 botte
+sel qs
+poivre qs
+- Fariner la viande et la faire dorer dans l'huile, réserver.
+- Faire revenir oignon, carotte et céleri en dés, ajouter la viande, le vin et les tomates.
+- Couvrir et mijoter 1 h 45 à feu doux.
+- Mélanger zeste de citron, ail et persil hachés, parsemer au moment de servir.
+
+## Tajine d'agneau aux pruneaux | plat | moyen | 25 | 120 | 6 | marocaine | mijoté,hiver
+agneau_epaule 1 kg
+pruneau 200 g
+oignon 2
+miel 2 cas
+ras_el_hanout 2 cac
+cannelle 1 cac
+amande 50 g
+huile_olive 3 cas
+coriandre 0.5 botte
+semoule 400 g
+sel qs
+poivre qs
+- Faire dorer la viande en morceaux dans l'huile avec les oignons émincés.
+- Ajouter les épices, couvrir d'eau à hauteur et mijoter 1 h 30.
+- Ajouter les pruneaux et le miel, poursuivre 30 minutes à découvert.
+- Parsemer d'amandes grillées et de coriandre, servir avec la semoule.
+
+## Navarin d'agneau | plat | moyen | 30 | 105 | 6 | française | mijoté,hiver
+agneau_epaule 1 kg
+carotte 4
+navet 4
+pomme_de_terre 600 g
+petit_pois_surg 200 g
+oignon 2
+ail 2 gousse
+concentre_tomate 2 cas
+farine 1 cas
+thym 1 cac
+laurier 1 feuille
+huile_olive 2 cas
+sel qs
+poivre qs
+- Faire dorer l'agneau dans l'huile, ajouter les oignons, saupoudrer de farine.
+- Ajouter le concentré, l'ail, le thym, le laurier et couvrir d'eau. Mijoter 1 h.
+- Ajouter carottes, navets et pommes de terre, cuire 30 minutes.
+- Ajouter les petits pois 10 minutes avant la fin.
+
+## Côtelettes d'agneau, haricots verts à l'ail | plat | facile | 10 | 15 | 4 | française | rapide
+agneau_cote 12
+haricot_vert_surg 600 g
+ail 3 gousse
+beurre 30 g
+romarin 1 cac
+huile_olive 1 cas
+sel qs
+poivre qs
+- Cuire les haricots verts 8 minutes à l'eau bouillante salée, égoutter.
+- Faire revenir l'ail émincé dans le beurre, ajouter les haricots et les faire sauter 3 minutes.
+- Saisir les côtelettes dans l'huile avec le romarin, 2 à 3 minutes par face.
+- Saler, poivrer et servir.
+
+## Kefta d'agneau et semoule | plat | facile | 20 | 15 | 4 | marocaine | barbecue,été
+agneau_hache 500 g
+oignon 1
+coriandre 0.5 botte
+menthe 0.5 botte
+cumin 1 cac
+paprika 1 cac
+semoule 250 g
+yaourt_grec 150 g
+citron 0.5
+huile_olive 2 cas
+sel qs
+- Mélanger la viande avec l'oignon râpé, les herbes hachées et les épices. Former des boudins autour de brochettes.
+- Griller les keftas 10 à 12 minutes en les retournant.
+- Préparer la semoule avec autant d'eau bouillante salée et un filet d'huile.
+- Servir avec le yaourt citronné.
+
+## Couscous royal | plat | difficile | 45 | 120 | 8 | marocaine | familial,hiver
+agneau_epaule 800 g
+poulet_cuisse 4
+merguez 8
+semoule 600 g
+pois_chiche 265 g
+carotte 4
+courgette 3
+navet 3
+oignon 2
+tomate_concassee 400 g
+ras_el_hanout 3 cac
+harissa 1 cas
+huile_olive 4 cas
+beurre 30 g
+sel qs
+- Faire dorer l'agneau et le poulet dans l'huile avec les oignons, ajouter les épices et la tomate.
+- Couvrir de 2 litres d'eau, cuire 1 h. Ajouter carottes et navets, cuire 30 minutes.
+- Ajouter les courgettes et les pois chiches, poursuivre 20 minutes.
+- Griller les merguez. Préparer la semoule avec le beurre. Servir avec le bouillon et la harissa.
+
+## Moussaka | plat | moyen | 40 | 60 | 6 | grecque | four,été
+aubergine 3
+agneau_hache 500 g
+tomate_concassee 400 g
+oignon 1
+ail 2 gousse
+cannelle 1/2 cac
+huile_olive 6 cas
+beurre 40 g
+farine 40 g
+lait 50 cl
+oeuf 1
+parmesan 40 g
+sel qs
+poivre qs
+- Couper les aubergines en tranches, les badigeonner d'huile et les rôtir 20 minutes à 200 °C.
+- Faire revenir oignon et ail, ajouter la viande, la cannelle et les tomates, cuire 20 minutes.
+- Préparer une béchamel, hors du feu ajouter l'œuf et la moitié du parmesan.
+- Alterner aubergines et viande, couvrir de béchamel et de parmesan. Cuire 40 minutes à 180 °C.
+
+## Rôti de porc aux pommes | plat | facile | 15 | 75 | 6 | française | four,automne
+porc_roti 1.2 kg
+pomme 4
+oignon 2
+cidre 25 cl
+beurre 30 g
+thym 1 cac
+sel qs
+poivre qs
+- Faire dorer le rôti dans le beurre sur toutes ses faces dans une cocotte.
+- Ajouter les oignons et les pommes en quartiers, le thym et le cidre.
+- Enfourner à couvert 1 h 15 à 180 °C en arrosant régulièrement.
+- Trancher et servir avec les pommes fondantes.
+
+## Filet mignon à la moutarde | plat | facile | 10 | 30 | 4 | française | rapide
+porc_filet_mignon 600 g
+moutarde_ancienne 2 cas
+creme_liquide 20 cl
+echalote 2
+vin_blanc 10 cl
+beurre 20 g
+pomme_de_terre_grenaille 800 g
+sel qs
+poivre qs
+- Faire dorer le filet mignon entier au beurre, puis le cuire 20 minutes à feu moyen à couvert.
+- Retirer la viande, faire revenir les échalotes, déglacer au vin blanc.
+- Ajouter crème et moutarde, laisser épaissir 3 minutes.
+- Trancher la viande et servir nappée de sauce avec les pommes de terre rôties.
+
+## Sauté de porc au caramel | plat | facile | 15 | 45 | 4 | vietnamienne | mijoté
+porc_echine 700 g
+sucre 4 cas
+nuoc_mam 3 cas
+sauce_soja 2 cas
+oignon 1
+ail 2 gousse
+oignon_nouveau 0.5
+riz 300 g
+- Faire un caramel blond avec le sucre et 2 cuillères d'eau.
+- Ajouter la viande en cubes, l'oignon et l'ail, bien enrober.
+- Verser nuoc-mâm, sauce soja et 20 cl d'eau, mijoter 40 minutes jusqu'à sauce sirupeuse.
+- Parsemer d'oignon nouveau et servir avec le riz.
+
+## Côtes de porc, purée maison | plat | facile | 15 | 25 | 4 | française | familial
+porc_cote 4
+pomme_de_terre 1 kg
+lait 20 cl
+beurre 50 g
+thym 1 cac
+huile_tournesol 1 cas
+sel qs
+poivre qs
+- Cuire les pommes de terre 25 minutes à l'eau salée.
+- Les écraser avec le lait chaud et le beurre.
+- Cuire les côtes dans l'huile avec le thym 5 à 6 minutes par face.
+- Servir avec la purée.
+
+## Saucisses lentilles | plat | facile | 10 | 40 | 4 | française | hiver,économique
+saucisse_toulouse 4
+lentilles_vertes 300 g
+carotte 2
+oignon 1
+lardons 100 g
+laurier 1 feuille
+thym 1 cac
+moutarde 1 cas
+sel qs
+poivre qs
+- Faire revenir l'oignon et les lardons, ajouter les carottes en rondelles.
+- Ajouter les lentilles, couvrir de 3 fois leur volume d'eau, thym et laurier. Cuire 30 minutes.
+- Pendant ce temps, poêler les saucisses 15 minutes.
+- Saler les lentilles en fin de cuisson et servir avec les saucisses et la moutarde.
+
+## Petit salé aux lentilles | plat | facile | 15 | 90 | 6 | française | mijoté,hiver
+porc_echine 800 g
+saucisse_morteau 1
+lentilles_vertes 400 g
+carotte 3
+oignon 1
+clou_girofle 2
+laurier 1 feuille
+thym 1 cac
+poivre qs
+- Pocher l'échine dans de l'eau avec l'oignon piqué de clous, le thym et le laurier pendant 1 h.
+- Ajouter la saucisse piquée et poursuivre 15 minutes.
+- Cuire les lentilles et les carottes dans une partie du bouillon 30 minutes.
+- Servir la viande tranchée sur les lentilles.
+
+## Choucroute garnie | plat | moyen | 20 | 90 | 6 | alsacienne | hiver,mijoté
+choucroute 1.5 kg
+saucisse_strasbourg 6
+saucisse_morteau 1
+poitrine_fumee 6 tranche
+porc_echine 600 g
+pomme_de_terre 1 kg
+oignon 1
+vin_blanc 25 cl
+graines_fenouil 1 cac
+laurier 2 feuille
+- Rincer la choucroute et l'égoutter.
+- Faire revenir l'oignon, ajouter la choucroute, le vin blanc, les épices et l'échine. Cuire 1 h à couvert.
+- Ajouter la poitrine, la Morteau et les pommes de terre épluchées, poursuivre 30 minutes.
+- Réchauffer les saucisses de Strasbourg 10 minutes dans la choucroute avant de servir.
+
+## Tartiflette | plat | facile | 20 | 45 | 6 | française | hiver,four,réconfortant
+pomme_de_terre 1.5 kg
+reblochon 1
+lardons 200 g
+oignon 2
+creme_fraiche 150 g
+vin_blanc 10 cl
+poivre qs
+- Cuire les pommes de terre 20 minutes à l'eau, les éplucher et les couper en rondelles.
+- Faire revenir oignons et lardons, déglacer au vin blanc.
+- Mélanger avec les pommes de terre et la crème dans un plat.
+- Couper le reblochon en deux dans l'épaisseur, le poser croûte dessus. Cuire 25 minutes à 200 °C.
+
+## Raclette maison | plat | facile | 15 | 25 | 6 | française | hiver,convivial
+raclette 900 g
+pomme_de_terre 1.5 kg
+jambon_cru 12 tranche
+jambon_blanc 6 tranche
+cornichon 150 g
+oignon_rouge 1
+poivre qs
+- Cuire les pommes de terre en robe des champs 25 minutes.
+- Disposer la charcuterie, les cornichons et l'oignon émincé sur un plat.
+- Faire fondre le fromage dans les poêlons et le verser sur les pommes de terre.
+
+## Croque-monsieur | plat | facile | 10 | 15 | 4 | française | rapide,enfants
+pain_mie 8 tranche
+jambon_blanc 4 tranche
+emmental_rape 120 g
+beurre 30 g
+lait 15 cl
+farine 15 g
+muscade 1 pincee
+salade 0.5
+- Préparer une petite béchamel avec 15 g de beurre, la farine et le lait.
+- Beurrer les tranches de pain, garnir de béchamel, jambon et fromage, refermer.
+- Napper le dessus de béchamel et de fromage, cuire 12 minutes à 200 °C.
+- Servir avec la salade verte.
+
+## Pâtes carbonara | plat | facile | 10 | 12 | 4 | italienne | rapide
+spaghetti 400 g
+lardons 200 g
+oeuf 4
+parmesan 60 g
+poivre qs
+- Cuire les pâtes al dente dans une grande casserole d'eau salée.
+- Faire dorer les lardons à sec dans une poêle.
+- Battre les jaunes d'œufs et un œuf entier avec le parmesan et beaucoup de poivre.
+- Hors du feu, mélanger les pâtes égouttées avec les lardons puis les œufs et un peu d'eau de cuisson pour obtenir une sauce crémeuse.
+
+## Endives au jambon | plat | facile | 20 | 40 | 4 | française | hiver,four
+endive 8
+jambon_blanc 8 tranche
+beurre 40 g
+farine 40 g
+lait 50 cl
+emmental_rape 80 g
+muscade 1 pincee
+sel qs
+poivre qs
+- Cuire les endives 20 minutes à l'eau ou à la vapeur, bien les égoutter.
+- Préparer une béchamel avec beurre, farine et lait, assaisonner de muscade.
+- Rouler chaque endive dans une tranche de jambon et les disposer dans un plat.
+- Napper de béchamel, parsemer de fromage et gratiner 20 minutes à 200 °C.
+
+## Quiche lorraine | plat | facile | 15 | 40 | 6 | française | four,classique
+pate_brisee 1
+lardons 200 g
+oeuf 3
+creme_liquide 20 cl
+lait 20 cl
+muscade 1 pincee
+poivre qs
+- Étaler la pâte dans un moule et la piquer.
+- Faire dorer les lardons à sec et les répartir sur la pâte.
+- Battre les œufs avec la crème, le lait, la muscade et le poivre, verser sur les lardons.
+- Cuire 35 à 40 minutes à 180 °C.
+
+## Chou farci | plat | difficile | 45 | 90 | 6 | française | hiver,familial
+chou_vert 1
+porc_hache 500 g
+boeuf_hache 200 g
+oignon 1
+ail 2 gousse
+oeuf 1
+pain_mie 2 tranche
+lait 10 cl
+carotte 2
+bouillon_volaille 1 cube
+persil 0.5 botte
+sel qs
+poivre qs
+- Blanchir les feuilles de chou 5 minutes à l'eau bouillante.
+- Mélanger les viandes avec l'oignon, l'ail, le persil, l'œuf et le pain trempé dans le lait.
+- Tapisser un saladier de feuilles, alterner farce et feuilles, refermer et ficeler.
+- Cuire en cocotte avec les carottes et le bouillon 1 h 30 à feu doux.
+
+## Tomates farcies | plat | moyen | 25 | 50 | 4 | française | four,été
+tomate 8
+porc_hache 400 g
+oignon 1
+ail 1 gousse
+persil 0.5 botte
+chapelure 30 g
+oeuf 1
+riz 200 g
+huile_olive 2 cas
+sel qs
+poivre qs
+- Couper un chapeau aux tomates, les évider et les saler à l'intérieur.
+- Mélanger la chair à saucisse avec l'oignon, l'ail, le persil, l'œuf et la chapelure.
+- Farcir les tomates, remettre les chapeaux et disposer le riz cru autour avec la pulpe et un verre d'eau.
+- Cuire 50 minutes à 180 °C.
+
+## Courgettes farcies | plat | moyen | 25 | 45 | 4 | française | four,été
+courgette 4
+porc_hache 300 g
+oignon 1
+ail 1 gousse
+parmesan 30 g
+chapelure 20 g
+herbes_provence 1 cac
+huile_olive 2 cas
+sel qs
+poivre qs
+- Couper les courgettes en deux, les évider en gardant la chair.
+- Faire revenir oignon, ail, chair hachée et viande 10 minutes.
+- Farcir les courgettes, parsemer de chapelure et parmesan.
+- Cuire 35 minutes à 190 °C.
+
+## Parmentier de canard | plat | moyen | 30 | 30 | 6 | française | four,hiver
+canard_cuisse 2
+pomme_de_terre 1.2 kg
+echalote 2
+lait 20 cl
+beurre 40 g
+chapelure 20 g
+sel qs
+poivre qs
+- Cuire les cuisses de canard 1 h à four doux, puis les effilocher en retirant la peau.
+- Cuire et écraser les pommes de terre avec lait et beurre.
+- Faire revenir les échalotes, mélanger à la viande.
+- Monter en couches dans un plat, parsemer de chapelure et gratiner 20 minutes à 200 °C.
+
+## Magret de canard au miel | plat | moyen | 10 | 20 | 4 | française | festif
+canard_magret 2
+miel 2 cas
+vinaigre_balsamique 2 cas
+pomme_de_terre 800 g
+ail 2 gousse
+sel qs
+poivre qs
+- Quadriller la peau des magrets et les cuire côté peau 8 minutes à feu moyen, retourner et cuire 4 minutes.
+- Laisser reposer sous aluminium.
+- Faire sauter les pommes de terre en cubes dans un peu de graisse de canard avec l'ail.
+- Déglacer la poêle au vinaigre et au miel, napper les tranches de magret.
+
+## Lapin à la moutarde | plat | moyen | 20 | 60 | 4 | française | mijoté
+lapin 1.2 kg
+moutarde 3 cas
+creme_fraiche 200 g
+echalote 2
+vin_blanc 20 cl
+thym 1 cac
+beurre 30 g
+tagliatelles 300 g
+sel qs
+poivre qs
+- Badigeonner les morceaux de lapin de moutarde.
+- Les faire dorer au beurre avec les échalotes.
+- Ajouter le vin blanc et le thym, couvrir et cuire 50 minutes à feu doux.
+- Ajouter la crème, laisser épaissir 5 minutes et servir avec les pâtes.
+
+## Gratin de pâtes au jambon | plat | facile | 10 | 30 | 4 | française | familial,enfants,économique
+coquillettes 300 g
+jambon_blanc 4 tranche
+creme_liquide 20 cl
+lait 10 cl
+emmental_rape 100 g
+oeuf 1
+sel qs
+poivre qs
+- Cuire les coquillettes 2 minutes de moins que le temps indiqué.
+- Mélanger avec le jambon en dés, la crème, le lait, l'œuf et la moitié du fromage.
+- Verser dans un plat, couvrir du reste de fromage.
+- Gratiner 20 minutes à 200 °C.
+
+## Coquillettes jambon fromage | plat | facile | 5 | 10 | 4 | française | rapide,enfants
+coquillettes 350 g
+jambon_blanc 4 tranche
+comte 80 g
+beurre 20 g
+poivre qs
+- Cuire les coquillettes à l'eau salée.
+- Égoutter, ajouter le beurre, le jambon en lanières et le comté râpé.
+- Mélanger et servir bien chaud.
+
+## Pizza reine | plat | facile | 15 | 15 | 4 | italienne | four,familial
+pate_pizza 2
+coulis_tomate 200 g
+mozzarella 2
+jambon_blanc 4 tranche
+champignon 150 g
+origan 1 cac
+huile_olive 1 cas
+- Étaler les pâtes sur des plaques.
+- Tartiner de coulis, répartir jambon, champignons émincés et mozzarella.
+- Parsemer d'origan, arroser d'huile.
+- Cuire 12 à 15 minutes à 240 °C.
+
+## Pizza chorizo poivrons | plat | facile | 15 | 15 | 4 | italienne | four
+pate_pizza 2
+coulis_tomate 200 g
+mozzarella 2
+chorizo 100 g
+poivron_rouge 1
+oignon_rouge 1
+origan 1 cac
+- Étaler les pâtes, tartiner de coulis.
+- Ajouter chorizo, poivron et oignon émincés, puis la mozzarella.
+- Parsemer d'origan et cuire 12 à 15 minutes à 240 °C.
+
+## Fajitas au bœuf | plat | facile | 20 | 10 | 4 | mexicaine | rapide,convivial
+boeuf_emince 500 g
+tortilla 8
+poivron_rouge 1
+poivron_vert 1
+oignon 1
+cumin 1 cac
+paprika 1 cac
+citron_vert 1
+creme_fraiche 100 g
+avocat 1
+huile_tournesol 2 cas
+sel qs
+- Mélanger la viande avec les épices et le jus de citron vert.
+- Saisir la viande à feu vif, réserver, puis faire sauter poivrons et oignons émincés.
+- Écraser l'avocat avec un peu de sel.
+- Garnir les tortillas chaudes de viande, légumes, crème et avocat.
+
+## Tacos de porc effiloché | plat | moyen | 20 | 180 | 6 | mexicaine | mijoté,convivial
+porc_echine 1 kg
+tortilla 12
+oignon_rouge 1
+citron_vert 2
+paprika_fume 2 cac
+cumin 1 cac
+sucre_roux 2 cas
+coriandre 0.5 botte
+chou_rouge 300 g
+sel qs
+- Frotter la viande avec épices, sucre et sel, la cuire à couvert 3 h à 150 °C avec un verre d'eau.
+- L'effilocher à la fourchette dans son jus.
+- Mélanger chou rouge émincé, oignon et jus de citron vert.
+- Garnir les tortillas de viande, de chou et de coriandre.
+
+## Bœuf bobun | plat | moyen | 30 | 10 | 4 | vietnamienne | été,frais
+boeuf_emince 400 g
+nouilles_riz 200 g
+salade 0.5
+carotte 2
+concombre 0.5
+menthe 0.5 botte
+coriandre 0.5 botte
+cacahuete 50 g
+nuoc_mam 4 cas
+citron_vert 2
+sucre 2 cas
+ail 1 gousse
+oignon 1
+huile_tournesol 1 cas
+- Préparer la sauce : nuoc-mâm, jus de citron vert, sucre, ail haché et 6 cuillères d'eau.
+- Cuire les nouilles, les rincer à l'eau froide.
+- Saisir le bœuf avec l'oignon émincé et 2 cuillères de sauce.
+- Dresser salade, nouilles, carottes et concombre râpés, bœuf, herbes et cacahuètes concassées. Arroser de sauce.
+
+## Gyoza de porc | plat | difficile | 50 | 10 | 4 | japonaise | apéro
+porc_hache 300 g
+chou_chinois 200 g
+gingembre 10 g
+ail 1 gousse
+sauce_soja 4 cas
+huile_sesame 1 cas
+farine 250 g
+oignon_nouveau 0.5
+huile_tournesol 2 cas
+- Préparer une pâte avec la farine et 15 cl d'eau chaude, l'étaler finement et détailler des disques de 8 cm.
+- Mélanger la viande, le chou haché, le gingembre, l'ail, l'oignon nouveau, 2 cuillères de sauce soja et l'huile de sésame.
+- Garnir les disques et les plisser.
+- Les dorer à la poêle, ajouter 10 cl d'eau, couvrir 6 minutes. Servir avec la sauce soja.
+
+## Hachis de bœuf aux patates douces | plat | facile | 25 | 25 | 4 | française | four,automne
+boeuf_hache 500 g
+patate_douce 800 g
+oignon 1
+carotte 1
+cumin 1 cac
+beurre 20 g
+emmental_rape 60 g
+sel qs
+poivre qs
+- Cuire les patates douces en cubes 15 minutes, les écraser avec le beurre.
+- Faire revenir oignon et carotte râpée, ajouter la viande et le cumin.
+- Monter en couches dans un plat, parsemer de fromage.
+- Gratiner 20 minutes à 200 °C.
+
+## Brochettes de bœuf marinées | plat | facile | 20 | 10 | 4 | française | barbecue,été
+boeuf_steak 600 g
+poivron_rouge 1
+oignon_rouge 1
+courgette 1
+huile_olive 4 cas
+herbes_provence 1 cac
+ail 1 gousse
+citron 0.5
+sel qs
+poivre qs
+- Couper la viande et les légumes en cubes.
+- Les mariner 30 minutes dans l'huile, l'ail, le citron et les herbes.
+- Monter les brochettes en alternant.
+- Griller 8 à 10 minutes en retournant.
+
+## Saucisses purée oignons confits | plat | facile | 15 | 30 | 4 | française | familial,réconfortant
+saucisse_toulouse 4
+pomme_de_terre 1 kg
+oignon 3
+lait 20 cl
+beurre 50 g
+sucre 1 cac
+vinaigre_balsamique 1 cas
+sel qs
+- Préparer une purée avec les pommes de terre cuites, le lait et le beurre.
+- Faire confire les oignons émincés 20 minutes à feu doux avec un peu de beurre, le sucre et le vinaigre.
+- Poêler les saucisses 15 minutes.
+- Servir les saucisses sur la purée, nappées d'oignons.
+
+## Rougail saucisses | plat | facile | 15 | 45 | 4 | réunionnaise | mijoté,épicé
+saucisse_toulouse 6
+tomate_concassee 800 g
+oignon 2
+ail 3 gousse
+gingembre 15 g
+curcuma 1 cac
+piment_frais 1
+riz 300 g
+huile_tournesol 2 cas
+sel qs
+- Piquer les saucisses et les blanchir 5 minutes à l'eau bouillante, puis les couper en rondelles.
+- Les faire dorer dans l'huile, ajouter oignons, ail, gingembre pilés et curcuma.
+- Ajouter les tomates et le piment, mijoter 30 minutes.
+- Servir avec le riz blanc.
+
+## Jambon braisé, purée de céleri | plat | facile | 15 | 30 | 4 | française | hiver
+jambon_blanc 4 tranche
+celeri_rave 1
+pomme_de_terre 400 g
+lait 20 cl
+beurre 40 g
+creme_fraiche 2 cas
+sel qs
+poivre qs
+- Cuire céleri et pommes de terre en morceaux 25 minutes à l'eau salée.
+- Mixer avec le lait chaud et le beurre.
+- Réchauffer les tranches de jambon nappées de crème à la poêle.
+- Servir avec la purée.
+
+## Bœuf mironton | plat | facile | 15 | 45 | 4 | française | économique,anti-gaspi
+boeuf_pot_au_feu 600 g
+oignon 4
+vin_blanc 10 cl
+concentre_tomate 1 cas
+farine 1 cas
+bouillon_boeuf 1 cube
+vinaigre 1 cas
+beurre 30 g
+pomme_de_terre 800 g
+sel qs
+poivre qs
+- Faire fondre les oignons émincés au beurre 15 minutes, saupoudrer de farine.
+- Ajouter le vin, le concentré et le bouillon dilué dans 30 cl d'eau, cuire 10 minutes.
+- Ajouter le bœuf cuit tranché et le vinaigre, mijoter 20 minutes.
+- Servir avec des pommes de terre vapeur.
+
+## Keftedes à la grecque | plat | facile | 20 | 15 | 4 | grecque | apéro,été
+boeuf_hache 500 g
+oignon 1
+menthe 0.5 botte
+origan 1 cac
+oeuf 1
+chapelure 40 g
+yaourt_grec 200 g
+concombre 0.5
+ail 1 gousse
+huile_olive 3 cas
+pain_pita 4
+sel qs
+- Mélanger viande, oignon râpé, menthe, origan, œuf et chapelure, former des boulettes.
+- Les dorer 10 minutes dans l'huile.
+- Préparer un tzatziki : yaourt, concombre râpé égoutté, ail et sel.
+- Servir avec les pitas chaudes.
+
+## Pâtes à la saucisse et brocoli | plat | facile | 10 | 15 | 4 | italienne | rapide
+penne 350 g
+saucisse_toulouse 3
+brocoli 1
+ail 2 gousse
+parmesan 40 g
+huile_olive 2 cas
+piment_poudre 1 pincee
+- Cuire les pâtes, ajouter les fleurettes de brocoli 4 minutes avant la fin.
+- Retirer la peau des saucisses et faire dorer la chair émiettée avec l'ail et le piment.
+- Mélanger avec les pâtes et le brocoli égouttés et un peu d'eau de cuisson.
+- Servir avec le parmesan.

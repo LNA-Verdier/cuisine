@@ -1,0 +1,483 @@
+#! Soupes et veloutés
+## Velouté de potiron | soupe | facile | 15 | 30 | 4 | française | hiver,végétal
+potiron 1 kg
+pomme_de_terre 200 g
+oignon 1
+bouillon_legumes 1 cube
+creme_liquide 10 cl
+muscade 1 pincee
+huile_olive 1 cas
+sel qs
+- Faire revenir l'oignon, ajouter potiron et pomme de terre en morceaux.
+- Couvrir de 80 cl d'eau avec le cube, cuire 25 minutes.
+- Mixer avec la crème et la muscade.
+
+## Velouté de butternut au lait de coco | soupe | facile | 15 | 30 | 4 | moderne | automne,végétal
+butternut 1
+lait_coco 20 cl
+oignon 1
+gingembre 10 g
+curry 1 cac
+bouillon_legumes 1 cube
+huile_olive 1 cas
+- Faire revenir oignon, gingembre et curry.
+- Ajouter la courge en cubes et 70 cl de bouillon, cuire 25 minutes.
+- Mixer avec le lait de coco.
+
+## Soupe de potimarron aux noisettes | soupe | facile | 15 | 30 | 4 | française | automne
+potimarron 1
+oignon 1
+bouillon_legumes 1 cube
+creme_fraiche 2 cas
+noisette 30 g
+sel qs
+- Couper le potimarron en cubes sans l'éplucher.
+- Cuire avec l'oignon dans 80 cl de bouillon 25 minutes.
+- Mixer avec la crème, servir avec les noisettes concassées et grillées.
+
+## Soupe de légumes d'hiver | soupe | facile | 20 | 35 | 6 | française | hiver,végétal,économique
+poireau 2
+carotte 3
+pomme_de_terre 400 g
+navet 2
+celeri_rave 0.25
+oignon 1
+bouillon_legumes 2 cube
+beurre 20 g
+sel qs
+- Faire suer l'oignon et les poireaux au beurre.
+- Ajouter les autres légumes en morceaux et 1,5 litre d'eau avec les cubes.
+- Cuire 30 minutes et mixer.
+
+## Soupe poireaux pommes de terre | soupe | facile | 15 | 30 | 4 | française | hiver,économique
+poireau 3
+pomme_de_terre 500 g
+oignon 1
+bouillon_legumes 1 cube
+creme_fraiche 2 cas
+beurre 20 g
+sel qs
+- Faire fondre poireaux et oignon au beurre.
+- Ajouter pommes de terre et 1 litre de bouillon, cuire 25 minutes.
+- Mixer et ajouter la crème.
+
+## Velouté de carottes au cumin | soupe | facile | 10 | 25 | 4 | française | végétal,économique
+carotte 800 g
+oignon 1
+pomme_de_terre 1
+cumin 1 cac
+bouillon_legumes 1 cube
+huile_olive 1 cas
+orange 1
+- Faire revenir l'oignon et le cumin.
+- Ajouter carottes, pomme de terre et 80 cl de bouillon, cuire 25 minutes.
+- Mixer avec le jus d'orange.
+
+## Velouté de courgettes au fromage frais | soupe | facile | 10 | 20 | 4 | française | été
+courgette 4
+oignon 1
+st_moret 100 g
+bouillon_legumes 1 cube
+huile_olive 1 cas
+sel qs
+- Faire revenir l'oignon, ajouter les courgettes en rondelles.
+- Couvrir de 60 cl de bouillon, cuire 15 minutes.
+- Mixer avec le fromage frais.
+
+## Velouté de champignons | soupe | facile | 10 | 25 | 4 | française | automne
+champignon 500 g
+oignon 1
+pomme_de_terre 1
+creme_liquide 15 cl
+bouillon_legumes 1 cube
+beurre 20 g
+persil 0.25 botte
+- Faire revenir oignon et champignons au beurre.
+- Ajouter pomme de terre et 70 cl de bouillon, cuire 20 minutes.
+- Mixer avec la crème, parsemer de persil.
+
+## Velouté de chou-fleur | soupe | facile | 10 | 25 | 4 | française | hiver
+chou_fleur 1
+pomme_de_terre 1
+oignon 1
+lait 30 cl
+bouillon_legumes 1 cube
+muscade 1 pincee
+- Cuire chou-fleur, pomme de terre et oignon dans 60 cl de bouillon 20 minutes.
+- Ajouter le lait et mixer, assaisonner de muscade.
+
+## Velouté de brocoli | soupe | facile | 10 | 20 | 4 | française | végétal
+brocoli 2
+pomme_de_terre 1
+oignon 1
+bouillon_legumes 1 cube
+huile_olive 1 cas
+- Faire revenir l'oignon, ajouter brocoli et pomme de terre.
+- Couvrir de 80 cl de bouillon, cuire 15 minutes et mixer.
+
+## Crème de petits pois à la menthe | soupe | facile | 10 | 15 | 4 | française | printemps
+petit_pois_surg 600 g
+oignon 1
+bouillon_legumes 1 cube
+creme_legere 10 cl
+menthe 0.5 botte
+- Faire revenir l'oignon, ajouter petits pois et 70 cl de bouillon.
+- Cuire 10 minutes, mixer avec la menthe et la crème.
+
+## Velouté d'asperges | soupe | facile | 15 | 25 | 4 | française | printemps
+asperge_verte 500 g
+pomme_de_terre 1
+echalote 1
+bouillon_legumes 1 cube
+creme_liquide 10 cl
+- Couper les asperges en tronçons en gardant quelques pointes.
+- Cuire avec pomme de terre et échalote dans 70 cl de bouillon 20 minutes.
+- Mixer avec la crème, décorer de pointes poêlées.
+
+## Gaspacho | soupe | facile | 15 | 0 | 4 | espagnole | été,sans-cuisson,végétal
+tomate 1 kg
+concombre 0.5
+poivron_rouge 1
+oignon_rouge 0.5
+ail 1 gousse
+huile_olive 4 cas
+vinaigre 2 cas
+pain_mie 2 tranche
+sel qs
+- Mixer tous les ingrédients avec un verre d'eau froide.
+- Rectifier l'assaisonnement et réfrigérer au moins 2 h.
+
+## Soupe froide de concombre au yaourt | soupe | facile | 10 | 0 | 4 | grecque | été,sans-cuisson
+concombre 2
+yaourt_grec 300 g
+menthe 0.5 botte
+ail 1 gousse
+citron 0.5
+huile_olive 2 cas
+sel qs
+- Mixer concombre, yaourt, menthe, ail et jus de citron.
+- Saler, réfrigérer et servir avec un filet d'huile.
+
+## Soupe à l'oignon gratinée | soupe | moyen | 20 | 50 | 4 | française | hiver,classique
+oignon 6
+beurre 40 g
+farine 1 cas
+vin_blanc 10 cl
+bouillon_boeuf 2 cube
+baguette 0.5
+comte 120 g
+sel qs
+- Faire caraméliser doucement les oignons émincés au beurre 30 minutes.
+- Saupoudrer de farine, déglacer au vin, ajouter 1 litre de bouillon, cuire 15 minutes.
+- Verser dans des bols, couvrir de pain grillé et de comté, gratiner 5 minutes.
+
+## Minestrone | soupe | facile | 20 | 35 | 6 | italienne | végétal
+courgette 1
+carotte 2
+celeri_branche 2
+pomme_de_terre 2
+haricot_blanc 265 g
+tomate_concassee 400 g
+coquillettes 100 g
+oignon 1
+ail 2 gousse
+bouillon_legumes 2 cube
+huile_olive 2 cas
+parmesan 40 g
+- Faire revenir oignon, ail, carotte et céleri dans l'huile.
+- Ajouter pommes de terre, tomates et 1,5 litre de bouillon, cuire 20 minutes.
+- Ajouter courgette, haricots et pâtes, cuire 10 minutes. Servir avec le parmesan.
+
+## Soupe au pistou | soupe | moyen | 25 | 40 | 6 | provençale | été
+haricot_vert 200 g
+haricot_blanc 265 g
+courgette 2
+pomme_de_terre 2
+carotte 2
+tomate 2
+coquillettes 100 g
+pesto 100 g
+- Cuire légumes en dés et haricots verts 30 minutes dans 2 litres d'eau salée.
+- Ajouter haricots blancs et pâtes, cuire 10 minutes.
+- Servir avec une cuillère de pistou dans chaque bol.
+
+## Soupe de lentilles corail | soupe | facile | 10 | 25 | 4 | orientale | végétal,économique
+lentilles_corail 200 g
+carotte 2
+oignon 1
+tomate_concassee 200 g
+cumin 1 cac
+bouillon_legumes 1 cube
+citron 0.5
+huile_olive 2 cas
+- Faire revenir oignon, carotte et cumin.
+- Ajouter lentilles, tomates et 1 litre de bouillon, cuire 20 minutes.
+- Mixer et ajouter le jus de citron.
+
+## Harira | soupe | moyen | 20 | 50 | 6 | marocaine | hiver
+agneau_epaule 300 g
+lentilles_vertes 100 g
+pois_chiche 265 g
+tomate_concassee 400 g
+oignon 1
+celeri_branche 2
+coriandre 0.5 botte
+persil 0.5 botte
+gingembre_poudre 1 cac
+cannelle 1/2 cac
+farine 2 cas
+citron 1
+huile_olive 2 cas
+sel qs
+- Faire revenir la viande en petits dés avec oignon, céleri et épices.
+- Ajouter tomates, lentilles et 2 litres d'eau, cuire 40 minutes.
+- Ajouter pois chiches et herbes, lier avec la farine délayée, cuire 10 minutes. Servir avec le citron.
+
+## Soupe de pois cassés | soupe | facile | 10 | 60 | 6 | française | hiver,économique
+pois_casses 400 g
+carotte 2
+oignon 1
+lardons 100 g
+laurier 1 feuille
+sel qs
+- Faire revenir oignon et lardons.
+- Ajouter pois cassés, carottes, laurier et 1,5 litre d'eau.
+- Cuire 1 h et mixer en retirant le laurier.
+
+## Soupe de pois cassés végétale | soupe | facile | 10 | 60 | 6 | française | hiver,végétal
+pois_casses 400 g
+carotte 2
+oignon 1
+paprika_fume 1 cac
+bouillon_legumes 2 cube
+huile_olive 2 cas
+- Faire revenir l'oignon avec le paprika fumé.
+- Ajouter pois cassés, carottes et 1,5 litre de bouillon.
+- Cuire 1 h et mixer.
+
+## Garbure simplifiée | soupe | moyen | 20 | 90 | 6 | béarnaise | hiver
+chou_vert 0.5
+haricot_blanc 265 g
+pomme_de_terre 3
+carotte 2
+navet 2
+poireau 1
+canard_cuisse 2
+ail 2 gousse
+sel qs
+- Cuire les cuisses de canard dans 2,5 litres d'eau 45 minutes.
+- Ajouter les légumes en morceaux et l'ail, cuire 40 minutes.
+- Ajouter les haricots 10 minutes, effilocher la viande dans la soupe.
+
+## Soupe miso aux nouilles et tofu | soupe | facile | 10 | 10 | 4 | japonaise | léger
+tofu 200 g
+pate_miso 3 cas
+nouilles_ble 150 g
+champignon_shiitake 100 g
+oignon_nouveau 0.5
+jeunes_pousses 60 g
+- Porter 1,2 litre d'eau à frémissement, ajouter champignons et nouilles.
+- Hors du feu, délayer la pâte miso, ajouter le tofu en dés et les pousses.
+- Parsemer d'oignon nouveau.
+
+## Phở au bœuf express | soupe | moyen | 20 | 30 | 4 | vietnamienne | hiver
+boeuf_steak 300 g
+nouilles_riz 200 g
+bouillon_boeuf 2 cube
+anis_etoile 2
+cannelle 1 pincee
+gingembre 20 g
+oignon 1
+nuoc_mam 3 cas
+citron_vert 1
+coriandre 0.5 botte
+menthe 0.5 botte
+- Griller oignon et gingembre coupés, les faire infuser 25 minutes dans 1,5 litre de bouillon avec badiane et cannelle.
+- Cuire les nouilles et les répartir dans les bols avec le bœuf cru en tranches très fines.
+- Verser le bouillon bouillant filtré et assaisonné de nuoc-mâm.
+- Servir avec herbes et citron vert.
+
+## Soupe de tomates rôties | soupe | facile | 10 | 35 | 4 | moderne | été,végétal
+tomate 1.2 kg
+oignon 1
+ail 3 gousse
+huile_olive 3 cas
+basilic 0.5 pot
+sel qs
+- Rôtir tomates coupées, oignon et ail avec l'huile 30 minutes à 200 °C.
+- Mixer avec 30 cl d'eau chaude et le basilic.
+
+## Velouté de patate douce et carotte | soupe | facile | 10 | 25 | 4 | moderne | automne,végétal
+patate_douce 500 g
+carotte 2
+oignon 1
+gingembre 10 g
+lait_coco 20 cl
+bouillon_legumes 1 cube
+- Cuire légumes et gingembre dans 70 cl de bouillon 25 minutes.
+- Mixer avec le lait de coco.
+
+## Velouté de panais | soupe | facile | 10 | 25 | 4 | anglaise | hiver
+panais 600 g
+pomme_de_terre 1
+oignon 1
+creme_liquide 10 cl
+bouillon_legumes 1 cube
+noisette 30 g
+- Cuire légumes dans 80 cl de bouillon 25 minutes.
+- Mixer avec la crème, servir avec les noisettes grillées.
+
+## Crème de céleri-rave | soupe | facile | 15 | 30 | 4 | française | hiver
+celeri_rave 1
+pomme_de_terre 1
+oignon 1
+lait 30 cl
+bouillon_legumes 1 cube
+beurre 20 g
+- Faire suer l'oignon au beurre, ajouter céleri et pomme de terre en dés.
+- Couvrir de 60 cl de bouillon, cuire 25 minutes.
+- Mixer avec le lait.
+
+## Velouté de topinambours | soupe | facile | 15 | 25 | 4 | française | hiver
+topinambour 500 g
+pomme_de_terre 1
+oignon 1
+creme_liquide 10 cl
+bouillon_legumes 1 cube
+- Éplucher et couper les topinambours.
+- Cuire avec pomme de terre et oignon dans 80 cl de bouillon 25 minutes.
+- Mixer avec la crème.
+
+## Soupe de fanes et légumes verts | soupe | facile | 15 | 20 | 4 | française | printemps,anti-gaspi
+radis 1 botte
+epinard 200 g
+pomme_de_terre 2
+oignon 1
+bouillon_legumes 1 cube
+creme_fraiche 2 cas
+- Laver soigneusement les fanes de radis et les épinards.
+- Cuire pommes de terre et oignon 15 minutes dans 80 cl de bouillon, ajouter les feuilles 5 minutes.
+- Mixer avec la crème, servir avec les radis en rondelles.
+
+## Chorba aux vermicelles | soupe | moyen | 20 | 50 | 6 | algérienne | hiver
+poulet_haut_cuisse 400 g
+orzo 100 g
+pois_chiche 265 g
+tomate_concassee 400 g
+oignon 1
+carotte 1
+courgette 1
+ras_el_hanout 2 cac
+menthe 0.5 botte
+coriandre 0.5 botte
+huile_olive 2 cas
+sel qs
+- Faire revenir le poulet en dés avec oignon et épices.
+- Ajouter tomates, légumes et 2 litres d'eau, cuire 35 minutes.
+- Ajouter pois chiches et pâtes, cuire 10 minutes. Parsemer d'herbes.
+
+## Soupe de poisson simple | soupe | moyen | 15 | 35 | 4 | provençale | hiver
+poisson_blanc 400 g
+pomme_de_terre 2
+tomate_concassee 400 g
+oignon 1
+fenouil 1
+ail 2 gousse
+safran 1 dose
+huile_olive 3 cas
+baguette 0.5
+emmental_rape 50 g
+- Faire revenir oignon, fenouil et ail, ajouter tomates et safran.
+- Ajouter pommes de terre et 1,2 litre d'eau, cuire 20 minutes.
+- Ajouter le poisson, cuire 8 minutes et mixer. Servir avec croûtons et fromage.
+
+## Velouté de poireaux au curry | soupe | facile | 10 | 25 | 4 | française | hiver
+poireau 3
+pomme_de_terre 1
+curry 1 cac
+lait_coco 20 cl
+bouillon_legumes 1 cube
+huile_olive 1 cas
+- Faire revenir les poireaux avec le curry.
+- Ajouter pomme de terre et 70 cl de bouillon, cuire 20 minutes.
+- Mixer avec le lait de coco.
+
+## Soupe tomate, lentilles et coco | soupe | facile | 10 | 25 | 4 | indienne | végétal
+lentilles_corail 150 g
+tomate_concassee 400 g
+lait_coco 20 cl
+oignon 1
+curry 2 cac
+bouillon_legumes 1 cube
+coriandre 0.5 botte
+- Faire revenir oignon et curry.
+- Ajouter lentilles, tomates et 70 cl de bouillon, cuire 20 minutes.
+- Mixer avec le lait de coco, parsemer de coriandre.
+
+## Velouté de betterave | soupe | facile | 10 | 20 | 4 | moderne | hiver
+betterave_cuite 500 g
+pomme_de_terre 1
+oignon 1
+bouillon_legumes 1 cube
+fromage_blanc 100 g
+aneth 0.25 botte
+- Cuire oignon et pomme de terre dans 60 cl de bouillon 15 minutes.
+- Ajouter la betterave et mixer.
+- Servir avec le fromage blanc et l'aneth.
+
+## Soupe de haricots blancs et chou | soupe | facile | 15 | 35 | 6 | italienne | hiver,végétal
+haricot_blanc 530 g
+chou_vert 0.25
+carotte 2
+oignon 1
+tomate_concassee 400 g
+ail 2 gousse
+bouillon_legumes 2 cube
+huile_olive 3 cas
+pain_campagne 6 tranche
+- Faire revenir oignon, ail et carotte dans l'huile.
+- Ajouter chou émincé, tomates et 1,5 litre de bouillon, cuire 25 minutes.
+- Ajouter les haricots 10 minutes. Servir sur du pain grillé.
+
+## Velouté d'épinards | soupe | facile | 10 | 20 | 4 | française | printemps
+epinard 400 g
+pomme_de_terre 2
+oignon 1
+creme_liquide 10 cl
+bouillon_legumes 1 cube
+muscade 1 pincee
+- Cuire pommes de terre et oignon 15 minutes dans 80 cl de bouillon.
+- Ajouter les épinards 3 minutes, mixer avec la crème et la muscade.
+
+## Bouillon de légumes aux vermicelles | soupe | facile | 10 | 20 | 4 | française | léger,enfants
+carotte 2
+poireau 1
+navet 1
+orzo 80 g
+bouillon_legumes 2 cube
+- Couper les légumes en petits dés.
+- Cuire 15 minutes dans 1,2 litre de bouillon.
+- Ajouter les pâtes 5 minutes.
+
+## Soupe de maïs façon chowder | soupe | facile | 15 | 25 | 4 | américaine | réconfortant
+mais_conserve 285 g
+pomme_de_terre 2
+oignon 1
+lait 50 cl
+bouillon_legumes 1 cube
+beurre 20 g
+ciboulette 0.5 botte
+- Faire revenir l'oignon au beurre, ajouter pommes de terre et 40 cl de bouillon, cuire 15 minutes.
+- Ajouter maïs et lait, mixer la moitié de la soupe.
+- Parsemer de ciboulette.
+
+## Velouté de lentilles vertes au lard | soupe | facile | 10 | 35 | 4 | française | hiver
+lentilles_vertes 200 g
+lardons 100 g
+oignon 1
+carotte 1
+bouillon_volaille 1 cube
+creme_liquide 10 cl
+- Faire revenir oignon et lardons, réserver quelques lardons.
+- Ajouter lentilles, carotte et 1,2 litre de bouillon, cuire 30 minutes.
+- Mixer avec la crème, servir avec les lardons réservés.

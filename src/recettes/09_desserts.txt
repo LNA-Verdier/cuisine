@@ -1,0 +1,785 @@
+#! Desserts et goûters
+## Mousse au chocolat | dessert | facile | 20 | 0 | 6 | française | classique,sans-cuisson
+chocolat_noir 200 g
+oeuf 6
+sucre 30 g
+sel qs
+- Faire fondre le chocolat au bain-marie, ajouter les jaunes hors du feu.
+- Monter les blancs en neige avec une pincée de sel, serrer avec le sucre.
+- Incorporer délicatement les blancs au chocolat et réfrigérer 4 h.
+
+## Fondant au chocolat | dessert | facile | 15 | 25 | 8 | française | goûter
+chocolat_noir 200 g
+beurre 150 g
+sucre 150 g
+oeuf 4
+farine 50 g
+- Faire fondre chocolat et beurre.
+- Ajouter le sucre, les œufs un à un puis la farine.
+- Cuire 25 minutes à 180 °C, le cœur doit rester fondant.
+
+## Moelleux au chocolat cœur coulant | dessert | moyen | 15 | 10 | 6 | française | festif
+chocolat_noir 150 g
+beurre 100 g
+sucre 80 g
+oeuf 3
+farine 40 g
+- Faire fondre chocolat et beurre, ajouter sucre, œufs et farine.
+- Répartir dans des ramequins beurrés.
+- Cuire 9 à 10 minutes à 200 °C et démouler aussitôt.
+
+## Brownies aux noix | dessert | facile | 15 | 25 | 12 | américaine | goûter
+chocolat_noir 200 g
+beurre 150 g
+sucre_roux 180 g
+oeuf 3
+farine 100 g
+noix 100 g
+- Faire fondre chocolat et beurre, ajouter sucre et œufs.
+- Incorporer farine et noix concassées.
+- Cuire 25 minutes à 180 °C dans un moule carré.
+
+## Cookies aux pépites de chocolat | dessert | facile | 15 | 12 | 12 | américaine | goûter,enfants
+farine 220 g
+beurre 120 g
+sucre_roux 150 g
+oeuf 1
+pepites_chocolat 150 g
+levure_chimique 0.5 sachet
+sel qs
+- Mélanger beurre mou et sucre, ajouter l'œuf.
+- Incorporer farine, levure, sel et pépites.
+- Former des boules, cuire 10 à 12 minutes à 180 °C.
+
+## Gâteau au yaourt | dessert | facile | 10 | 35 | 8 | française | goûter,enfants,économique
+yaourt_nature 1
+farine 250 g
+sucre 150 g
+oeuf 3
+huile_tournesol 8 cl
+levure_chimique 1 sachet
+sucre_vanille 1 sachet
+- Mélanger yaourt, sucres et œufs.
+- Ajouter farine, levure puis huile.
+- Cuire 35 minutes à 180 °C.
+
+## Quatre-quarts | dessert | facile | 15 | 45 | 8 | bretonne | goûter
+oeuf 3
+farine 165 g
+sucre 165 g
+beurre_demi_sel 165 g
+levure_chimique 0.5 sachet
+- Fouetter les œufs et le sucre, ajouter le beurre fondu.
+- Incorporer farine et levure.
+- Cuire 45 minutes à 170 °C dans un moule à cake.
+
+## Cake au citron | dessert | facile | 15 | 45 | 8 | française | goûter,hiver
+farine 200 g
+sucre 180 g
+oeuf 3
+beurre 120 g
+citron 2
+levure_chimique 1 sachet
+sucre_glace 80 g
+- Mélanger œufs et sucre, ajouter beurre fondu, zestes et jus d'un citron.
+- Incorporer farine et levure, cuire 45 minutes à 170 °C.
+- Napper d'un glaçage sucre glace et jus du second citron.
+
+## Cake marbré | dessert | facile | 20 | 45 | 8 | française | goûter,enfants
+farine 220 g
+sucre 180 g
+oeuf 4
+beurre 150 g
+levure_chimique 1 sachet
+cacao 25 g
+lait 5 cl
+- Préparer la pâte avec beurre mou, sucre, œufs, farine et levure.
+- Séparer en deux, ajouter cacao et lait dans une moitié.
+- Alterner les deux pâtes dans le moule, cuire 45 minutes à 170 °C.
+
+## Madeleines | dessert | facile | 15 | 10 | 20 | française | goûter
+farine 150 g
+sucre 120 g
+oeuf 3
+beurre 120 g
+levure_chimique 0.5 sachet
+citron 1
+- Fouetter œufs et sucre, ajouter farine, levure, zeste puis beurre fondu.
+- Réfrigérer la pâte 1 h.
+- Remplir les moules et cuire 10 minutes à 210 °C.
+
+## Financiers aux amandes | dessert | facile | 15 | 12 | 12 | française | goûter
+amande_poudre 100 g
+sucre_glace 150 g
+farine 50 g
+oeuf 4
+beurre 120 g
+- Faire un beurre noisette.
+- Mélanger poudre d'amande, sucre glace et farine, ajouter les blancs puis le beurre.
+- Cuire 12 minutes à 200 °C dans des moules.
+
+## Clafoutis aux cerises | dessert | facile | 15 | 40 | 6 | limousine | été
+cerise 500 g
+oeuf 3
+farine 80 g
+sucre 100 g
+lait 30 cl
+beurre 15 g
+- Disposer les cerises dans un plat beurré.
+- Mélanger œufs, sucre, farine puis lait.
+- Verser sur les fruits et cuire 40 minutes à 180 °C.
+
+## Clafoutis aux abricots | dessert | facile | 15 | 40 | 6 | française | été
+abricot 12
+oeuf 3
+amande_poudre 50 g
+farine 50 g
+sucre 90 g
+lait 25 cl
+- Disposer les abricots coupés en deux dans un plat.
+- Mélanger œufs, sucre, farine, poudre d'amande et lait.
+- Verser et cuire 40 minutes à 180 °C.
+
+## Far breton aux pruneaux | dessert | facile | 15 | 50 | 8 | bretonne | goûter
+farine 200 g
+sucre 150 g
+oeuf 4
+lait 75 cl
+pruneau 200 g
+beurre 20 g
+sel qs
+- Mélanger farine, sucre et sel, ajouter les œufs puis le lait.
+- Verser dans un plat beurré, ajouter les pruneaux.
+- Cuire 50 minutes à 180 °C.
+
+## Tarte aux pommes | dessert | facile | 20 | 35 | 8 | française | automne,classique
+pate_brisee 1
+pomme 5
+compote 200 g
+sucre 30 g
+beurre 20 g
+- Étaler la pâte, la garnir de compote.
+- Disposer les pommes en fines lamelles en rosace.
+- Saupoudrer de sucre, parsemer de beurre, cuire 35 minutes à 190 °C.
+
+## Tarte Tatin | dessert | moyen | 25 | 40 | 8 | française | automne
+pate_brisee 1
+pomme 7
+sucre 150 g
+beurre 60 g
+- Faire un caramel avec sucre et beurre dans un moule allant au four.
+- Disposer les pommes en quartiers serrés, cuire 15 minutes sur le feu.
+- Couvrir de pâte, cuire 30 minutes à 190 °C, démouler tiède.
+
+## Tarte au citron meringuée | dessert | difficile | 30 | 30 | 8 | française | hiver
+pate_sablee 1
+citron 4
+sucre 200 g
+oeuf 4
+beurre 80 g
+maizena 1 cas
+- Cuire la pâte à blanc 15 minutes à 180 °C.
+- Cuire jus et zestes de citron, 120 g de sucre, œufs entiers moins 2 blancs et fécule jusqu'à épaississement, ajouter le beurre.
+- Garnir la pâte, monter les blancs avec le reste de sucre et les répartir.
+- Dorer 5 minutes sous le gril.
+
+## Tarte aux fraises | dessert | moyen | 30 | 20 | 8 | française | printemps
+pate_sablee 1
+fraise 500 g
+lait 40 cl
+oeuf 3
+sucre 80 g
+maizena 40 g
+sucre_vanille 1 sachet
+- Cuire la pâte à blanc 20 minutes à 180 °C.
+- Préparer une crème pâtissière : fouetter jaunes, sucre et fécule, verser le lait chaud vanillé, épaissir sur le feu.
+- Étaler la crème refroidie sur la pâte, disposer les fraises.
+
+## Tarte aux poires et amandes (bourdaloue) | dessert | moyen | 25 | 40 | 8 | française | automne
+pate_sablee 1
+poire 4
+amande_poudre 100 g
+beurre 80 g
+sucre 80 g
+oeuf 2
+- Mélanger beurre mou, sucre, poudre d'amande et œufs.
+- Étaler sur la pâte, disposer les poires en lamelles.
+- Cuire 40 minutes à 180 °C.
+
+## Tarte aux prunes | dessert | facile | 15 | 35 | 8 | alsacienne | été
+pate_brisee 1
+prune 20
+sucre 50 g
+amande_poudre 30 g
+cannelle 1 pincee
+- Saupoudrer la pâte de poudre d'amande.
+- Disposer les quetsches coupées en deux, serrées.
+- Saupoudrer de sucre et de cannelle, cuire 35 minutes à 190 °C.
+
+## Tarte au chocolat | dessert | facile | 20 | 20 | 8 | française | festif
+pate_sablee 1
+chocolat_noir 200 g
+creme_liquide 20 cl
+beurre 30 g
+oeuf 1
+- Cuire la pâte à blanc 20 minutes.
+- Verser la crème chaude sur le chocolat, ajouter beurre et œuf.
+- Garnir la pâte et cuire 10 minutes à 150 °C. Laisser prendre au frais.
+
+## Crumble aux pommes | dessert | facile | 15 | 35 | 6 | anglaise | automne,hiver
+pomme 6
+farine 150 g
+beurre 100 g
+sucre_roux 100 g
+cannelle 1 cac
+- Disposer les pommes en dés dans un plat avec la cannelle.
+- Sabler farine, sucre et beurre froid.
+- Recouvrir les fruits et cuire 35 minutes à 180 °C.
+
+## Crumble aux fruits rouges | dessert | facile | 10 | 30 | 6 | anglaise | été
+fruits_rouges_surg 500 g
+farine 120 g
+flocons_avoine 40 g
+beurre 100 g
+sucre_roux 100 g
+- Disposer les fruits dans un plat.
+- Sabler farine, flocons, sucre et beurre.
+- Recouvrir et cuire 30 minutes à 180 °C.
+
+## Crumble poires chocolat | dessert | facile | 15 | 30 | 6 | française | hiver
+poire 5
+chocolat_noir 80 g
+farine 150 g
+beurre 100 g
+sucre_roux 100 g
+- Disposer les poires en dés et le chocolat en morceaux dans un plat.
+- Recouvrir de pâte à crumble.
+- Cuire 30 minutes à 180 °C.
+
+## Crème brûlée | dessert | moyen | 15 | 50 | 6 | française | festif
+creme_liquide 50 cl
+lait 10 cl
+oeuf 6
+sucre 80 g
+sucre_roux 6 cas
+sucre_vanille 1 sachet
+- Fouetter les jaunes avec le sucre, ajouter crème, lait et vanille.
+- Verser dans des ramequins, cuire 50 minutes à 100 °C.
+- Réfrigérer, saupoudrer de cassonade et caraméliser au chalumeau ou sous le gril.
+
+## Crème caramel | dessert | moyen | 15 | 40 | 6 | française | classique
+lait 50 cl
+oeuf 4
+sucre 150 g
+sucre_vanille 1 sachet
+- Faire un caramel avec 80 g de sucre et le répartir dans des ramequins.
+- Fouetter œufs, reste du sucre et vanille, verser le lait chaud.
+- Cuire 40 minutes au bain-marie à 160 °C, réfrigérer.
+
+## Riz au lait | dessert | facile | 5 | 45 | 6 | française | goûter,réconfortant
+riz_rond 150 g
+lait 1 l
+sucre 100 g
+sucre_vanille 1 sachet
+cannelle 1 pincee
+- Porter le lait à ébullition avec la vanille.
+- Ajouter le riz et cuire 40 minutes à feu très doux en remuant.
+- Ajouter le sucre en fin de cuisson.
+
+## Semoule au lait | dessert | facile | 5 | 15 | 6 | française | économique
+semoule 80 g
+lait 75 cl
+sucre 70 g
+sucre_vanille 1 sachet
+raisins_secs 40 g
+- Porter le lait à ébullition avec la vanille.
+- Verser la semoule en pluie et cuire 10 minutes en remuant.
+- Ajouter sucre et raisins, verser dans des ramequins.
+
+## Panna cotta aux fruits rouges | dessert | facile | 15 | 5 | 6 | italienne | festif
+creme_liquide 50 cl
+sucre 60 g
+gelatine 3
+fruits_rouges_surg 250 g
+sucre_vanille 1 sachet
+- Ramollir la gélatine dans l'eau froide.
+- Chauffer crème, sucre et vanille, ajouter la gélatine essorée.
+- Verser en verrines et réfrigérer 4 h. Napper de coulis de fruits rouges mixés avec un peu de sucre.
+
+## Panna cotta à l'agar-agar et coulis de mangue | dessert | facile | 15 | 5 | 6 | italienne | sans-gélatine
+creme_liquide 50 cl
+sucre 60 g
+agar_agar 1
+mangue 1
+- Chauffer crème, sucre et agar-agar, faire bouillir 1 minute.
+- Verser en verrines et réfrigérer 3 h.
+- Mixer la mangue et napper.
+
+## Tiramisu | dessert | moyen | 25 | 0 | 6 | italienne | festif,sans-cuisson
+mascarpone 250 g
+oeuf 3
+sucre 80 g
+biscuit_cuiller 24
+cafe 30 cl
+cacao 2 cas
+- Fouetter jaunes et sucre, ajouter le mascarpone.
+- Monter les blancs en neige et les incorporer.
+- Tremper les biscuits dans le café, alterner avec la crème.
+- Saupoudrer de cacao et réfrigérer 6 h.
+
+## Tiramisu aux fraises et speculoos | dessert | facile | 20 | 0 | 6 | moderne | printemps,sans-cuisson
+mascarpone 250 g
+creme_liquide 20 cl
+sucre 60 g
+fraise 400 g
+speculoos 15
+- Fouetter mascarpone, crème froide et sucre en chantilly ferme.
+- Alterner speculoos émiettés, fraises et crème en verrines.
+- Réfrigérer 2 h.
+
+## Charlotte aux poires | dessert | moyen | 30 | 0 | 8 | française | hiver
+biscuit_cuiller 30
+poire 4
+creme_liquide 30 cl
+mascarpone 150 g
+sucre 60 g
+gelatine 3
+- Pocher les poires en dés 10 minutes dans un sirop léger.
+- Tapisser un moule de biscuits imbibés de sirop.
+- Fouetter crème, mascarpone et sucre, ajouter la gélatine fondue et les poires.
+- Garnir le moule et réfrigérer une nuit.
+
+## Île flottante | dessert | moyen | 25 | 15 | 6 | française | classique
+lait 75 cl
+oeuf 6
+sucre 150 g
+sucre_vanille 1 sachet
+amande_effilee 30 g
+- Préparer une crème anglaise avec le lait vanillé, les jaunes et 80 g de sucre, cuire à 82 °C sans bouillir.
+- Monter les blancs en neige avec 30 g de sucre, les pocher par cuillerées.
+- Faire un caramel avec le reste du sucre, napper les blancs posés sur la crème et parsemer d'amandes.
+
+## Mousse au citron | dessert | facile | 20 | 5 | 6 | française | frais
+citron 3
+oeuf 4
+sucre 100 g
+creme_liquide 20 cl
+- Cuire jus et zestes, jaunes et sucre jusqu'à épaississement, refroidir.
+- Fouetter la crème, monter les blancs en neige.
+- Incorporer délicatement et réfrigérer 3 h.
+
+## Mousse à la mangue | dessert | facile | 15 | 0 | 6 | exotique | sans-cuisson
+mangue 2
+creme_liquide 25 cl
+sucre 40 g
+citron_vert 1
+- Mixer la mangue avec le jus de citron vert.
+- Fouetter la crème en chantilly avec le sucre.
+- Incorporer la purée de mangue et réfrigérer 2 h.
+
+## Salade de fruits frais | dessert | facile | 15 | 0 | 6 | française | sans-cuisson,végétal
+pomme 2
+poire 2
+banane 2
+kiwi 3
+orange 2
+sucre 2 cas
+menthe 0.25 botte
+- Couper les fruits en morceaux.
+- Arroser du jus d'une orange et saupoudrer de sucre.
+- Ajouter la menthe ciselée et réfrigérer.
+
+## Salade de fruits d'été | dessert | facile | 15 | 0 | 6 | française | été,sans-cuisson,végétal
+melon 1
+peche 3
+fraise 250 g
+framboise 125 g
+menthe 0.25 botte
+citron 0.5
+- Couper melon, pêches et fraises en morceaux.
+- Ajouter framboises, jus de citron et menthe.
+
+## Compote pommes poires | dessert | facile | 15 | 25 | 6 | française | enfants,végétal
+pomme 4
+poire 3
+sucre 30 g
+cannelle 1 pincee
+- Éplucher et couper les fruits en morceaux.
+- Cuire 25 minutes à couvert avec un fond d'eau, le sucre et la cannelle.
+- Écraser à la fourchette ou mixer.
+
+## Pommes au four | dessert | facile | 10 | 35 | 4 | française | hiver,économique
+pomme 4
+beurre 20 g
+sucre_roux 4 cas
+cannelle 1 cac
+raisins_secs 30 g
+- Évider les pommes, les garnir de raisins, sucre et beurre.
+- Saupoudrer de cannelle et cuire 35 minutes à 180 °C.
+
+## Poires belle-Hélène | dessert | moyen | 20 | 25 | 4 | française | hiver
+poire 4
+sucre 100 g
+chocolat_noir 100 g
+creme_liquide 10 cl
+amande_effilee 20 g
+- Pocher les poires épluchées 20 minutes dans un sirop d'eau et de sucre.
+- Faire fondre le chocolat dans la crème chaude.
+- Servir les poires nappées de sauce et d'amandes grillées.
+
+## Bananes flambées | dessert | facile | 5 | 10 | 4 | antillaise | rapide
+banane 4
+beurre 30 g
+sucre_roux 3 cas
+rhum 4 cl
+- Faire dorer les bananes coupées en deux au beurre et au sucre.
+- Arroser de rhum et flamber.
+
+## Ananas rôti à la vanille | dessert | facile | 10 | 25 | 4 | exotique | four
+ananas 1
+beurre 30 g
+sucre_roux 3 cas
+sucre_vanille 1 sachet
+- Couper l'ananas en tranches épaisses.
+- Les disposer dans un plat avec beurre, sucre et vanille.
+- Rôtir 25 minutes à 200 °C en arrosant.
+
+## Fraises au sucre et chantilly | dessert | facile | 10 | 0 | 4 | française | printemps,sans-cuisson
+fraise 500 g
+creme_liquide 20 cl
+sucre_glace 40 g
+- Équeuter et couper les fraises, les sucrer légèrement.
+- Monter la crème très froide en chantilly avec le sucre glace.
+
+## Fromage blanc au coulis de framboises | dessert | facile | 10 | 0 | 4 | française | léger,sans-cuisson
+fromage_blanc 500 g
+framboise 250 g
+sucre 40 g
+- Mixer les framboises avec le sucre, filtrer.
+- Servir le fromage blanc nappé de coulis.
+
+## Yaourt grec, miel et noix | dessert | facile | 5 | 0 | 4 | grecque | rapide
+yaourt_grec 500 g
+miel 4 cas
+noix 60 g
+- Répartir le yaourt, arroser de miel et parsemer de noix.
+
+## Crêpes Suzette | dessert | moyen | 20 | 20 | 6 | française | festif
+farine 250 g
+oeuf 4
+lait 50 cl
+beurre 100 g
+sucre 100 g
+orange 3
+- Préparer la pâte à crêpes et cuire les crêpes.
+- Faire un caramel au beurre avec le sucre, le jus et le zeste des oranges.
+- Plier les crêpes en quatre et les réchauffer dans la sauce.
+
+## Gâteau aux pommes moelleux | dessert | facile | 15 | 40 | 8 | française | goûter,automne
+pomme 4
+farine 150 g
+sucre 120 g
+oeuf 3
+beurre 100 g
+lait 5 cl
+levure_chimique 1 sachet
+- Mélanger œufs et sucre, ajouter beurre fondu, lait, farine et levure.
+- Incorporer les pommes en dés.
+- Cuire 40 minutes à 180 °C.
+
+## Gâteau à l'orange | dessert | facile | 15 | 40 | 8 | méditerranéenne | hiver
+orange 2
+farine 200 g
+sucre 150 g
+oeuf 3
+huile_tournesol 10 cl
+levure_chimique 1 sachet
+- Mélanger œufs et sucre, ajouter zestes, jus d'orange et huile.
+- Incorporer farine et levure, cuire 40 minutes à 180 °C.
+
+## Gâteau aux carottes | dessert | facile | 20 | 45 | 10 | américaine | goûter
+carotte 300 g
+farine 200 g
+sucre_roux 150 g
+oeuf 3
+huile_tournesol 12 cl
+levure_chimique 1 sachet
+cannelle 2 cac
+noix 60 g
+st_moret 150 g
+sucre_glace 60 g
+- Mélanger œufs, sucre et huile, ajouter carottes râpées, farine, levure, cannelle et noix.
+- Cuire 45 minutes à 175 °C.
+- Napper du mélange fromage frais et sucre glace une fois refroidi.
+
+## Gâteau basque | dessert | difficile | 40 | 45 | 8 | basque | festif
+farine 250 g
+beurre 150 g
+sucre 200 g
+oeuf 4
+amande_poudre 50 g
+lait 30 cl
+maizena 30 g
+levure_chimique 0.5 sachet
+- Préparer la pâte avec farine, levure, beurre, 150 g de sucre, poudre d'amande et 2 œufs, réfrigérer 1 h.
+- Préparer une crème pâtissière avec le lait, 2 œufs, le reste du sucre et la fécule.
+- Garnir un moule de pâte, ajouter la crème, couvrir de pâte, dorer à l'œuf.
+- Cuire 45 minutes à 180 °C.
+
+## Gâteau au chocolat sans farine | dessert | facile | 15 | 30 | 8 | française | sans-gluten
+chocolat_noir 200 g
+beurre 120 g
+sucre 120 g
+oeuf 5
+amande_poudre 60 g
+- Faire fondre chocolat et beurre, ajouter sucre, jaunes et poudre d'amande.
+- Incorporer les blancs montés en neige.
+- Cuire 30 minutes à 170 °C.
+
+## Cheesecake | dessert | moyen | 25 | 50 | 10 | américaine | festif
+speculoos 20
+beurre 60 g
+st_moret 450 g
+sucre 120 g
+oeuf 3
+creme_liquide 20 cl
+citron 1
+- Mélanger biscuits mixés et beurre fondu, tasser au fond d'un moule.
+- Fouetter fromage frais, sucre, œufs, crème et zeste de citron.
+- Verser et cuire 50 minutes à 150 °C, réfrigérer une nuit.
+
+## Pain d'épices | dessert | facile | 15 | 50 | 10 | française | hiver,goûter
+farine 250 g
+miel 200 g
+sucre_roux 80 g
+lait 15 cl
+oeuf 1
+levure_chimique 1 sachet
+cannelle 2 cac
+gingembre_poudre 1 cac
+- Chauffer le lait avec le miel et le sucre.
+- Mélanger farine, levure et épices, ajouter le lait miellé puis l'œuf.
+- Cuire 50 minutes à 160 °C.
+
+## Sablés au beurre | dessert | facile | 20 | 12 | 20 | bretonne | goûter
+farine 250 g
+beurre_demi_sel 150 g
+sucre 100 g
+oeuf 1
+- Sabler farine et beurre, ajouter sucre et jaune d'œuf.
+- Former un boudin, réfrigérer 1 h, couper des rondelles.
+- Cuire 12 minutes à 180 °C.
+
+## Crêpes au caramel au beurre salé | dessert | facile | 10 | 25 | 6 | bretonne | goûter
+farine 250 g
+oeuf 3
+lait 50 cl
+beurre 30 g
+caramel_beurre_sale 150 g
+- Préparer et cuire les crêpes.
+- Les servir nappées de caramel tiède.
+
+## Beignets aux pommes | dessert | moyen | 20 | 15 | 6 | alsacienne | goûter,friture
+pomme 4
+farine 150 g
+oeuf 2
+lait 15 cl
+sucre 30 g
+huile_tournesol 6 cas (bain de friture, quantité absorbée)
+sucre_glace 2 cas
+- Préparer une pâte avec farine, œufs, lait et sucre.
+- Tremper les rondelles de pommes évidées dans la pâte.
+- Frire 2 minutes par face et saupoudrer de sucre glace.
+
+## Churros | dessert | moyen | 20 | 15 | 6 | espagnole | goûter,friture
+farine 200 g
+beurre 30 g
+sucre 60 g
+cannelle 1 cac
+huile_tournesol 6 cas (bain de friture, quantité absorbée)
+chocolat_noir 100 g
+lait 20 cl
+- Porter 25 cl d'eau et le beurre à ébullition, ajouter la farine et mélanger.
+- Pocher des boudins dans l'huile chaude, frire 3 minutes.
+- Rouler dans le sucre à la cannelle, servir avec le chocolat chaud fondu dans le lait.
+
+## Fondue au chocolat et fruits | dessert | facile | 15 | 5 | 6 | suisse | convivial
+chocolat_noir 200 g
+creme_liquide 20 cl
+banane 2
+fraise 250 g
+ananas 0.5
+- Faire fondre le chocolat dans la crème chaude.
+- Couper les fruits en morceaux et les tremper à l'aide de piques.
+
+## Verrines fromage blanc, compote et speculoos | dessert | facile | 10 | 0 | 4 | moderne | rapide,sans-cuisson
+fromage_blanc 400 g
+compote 200 g
+speculoos 8
+- Alterner compote, fromage blanc et speculoos émiettés dans des verrines.
+
+## Mug cake au chocolat | dessert | facile | 5 | 2 | 1 | moderne | rapide
+chocolat_noir 30 g
+beurre 20 g
+sucre 20 g
+oeuf 1
+farine 20 g
+- Faire fondre chocolat et beurre dans un mug au micro-ondes.
+- Ajouter sucre, œuf et farine, mélanger.
+- Cuire 1 minute 30 au micro-ondes.
+
+## Truffes au chocolat | dessert | facile | 20 | 0 | 8 | française | festif
+chocolat_noir 200 g
+creme_liquide 10 cl
+beurre 30 g
+cacao 3 cas
+- Verser la crème chaude sur le chocolat, ajouter le beurre.
+- Réfrigérer 2 h, former des boules et les rouler dans le cacao.
+
+## Rochers coco | dessert | facile | 10 | 15 | 15 | française | goûter
+noix_coco_rapee 200 g
+sucre 120 g
+oeuf 3
+- Mélanger la noix de coco, le sucre et les blancs d'œufs.
+- Former des petits rochers.
+- Cuire 15 minutes à 180 °C.
+
+## Crème au chocolat maison | dessert | facile | 10 | 10 | 4 | française | enfants
+lait 50 cl
+chocolat_noir 100 g
+sucre 40 g
+maizena 30 g
+- Délayer la fécule dans un peu de lait froid.
+- Chauffer le reste du lait avec chocolat et sucre, ajouter la fécule.
+- Épaissir 3 minutes en remuant, verser en pots et réfrigérer.
+
+## Gâteau de semoule au caramel | dessert | facile | 15 | 30 | 6 | française | économique
+semoule 100 g
+lait 75 cl
+sucre 160 g
+oeuf 2
+raisins_secs 40 g
+- Faire un caramel avec 80 g de sucre, le verser dans un moule.
+- Cuire la semoule dans le lait avec le reste du sucre 5 minutes, ajouter œufs et raisins.
+- Verser dans le moule et cuire 25 minutes à 180 °C au bain-marie.
+
+## Muffins pomme cannelle | dessert | facile | 15 | 25 | 12 | américaine | goûter
+farine 250 g
+sucre_roux 120 g
+oeuf 2
+lait 15 cl
+beurre 80 g
+levure_chimique 1 sachet
+pomme 2
+cannelle 1 cac
+- Mélanger ingrédients secs et liquides séparément, puis réunir sans trop travailler.
+- Ajouter les pommes en dés.
+- Cuire 25 minutes à 180 °C.
+
+## Flan pâtissier | dessert | moyen | 15 | 45 | 8 | française | goûter
+pate_brisee 1
+lait 75 cl
+oeuf 4
+sucre 150 g
+maizena 70 g
+sucre_vanille 2 sachet
+- Fouetter œufs, sucre et fécule, verser le lait bouillant vanillé.
+- Épaissir sur le feu 2 minutes.
+- Verser sur la pâte et cuire 45 minutes à 180 °C.
+
+## Soupe de fraises à la menthe | dessert | facile | 10 | 0 | 4 | française | printemps,sans-cuisson,végétal
+fraise 500 g
+sucre 40 g
+menthe 0.5 botte
+citron 0.5
+- Mixer la moitié des fraises avec sucre, citron et menthe.
+- Verser sur le reste des fraises coupées et réfrigérer.
+
+## Rhubarbe et fraises en crumble | dessert | facile | 15 | 35 | 6 | anglaise | printemps
+rhubarbe 400 g
+fraise 250 g
+farine 120 g
+beurre 90 g
+sucre_roux 120 g
+- Couper rhubarbe et fraises, les sucrer avec 40 g de sucre.
+- Sabler farine, beurre et reste de sucre.
+- Recouvrir et cuire 35 minutes à 180 °C.
+
+## Pêches rôties au miel et romarin | dessert | facile | 10 | 20 | 4 | provençale | été
+peche 4
+miel 3 cas
+romarin 1 cac
+yaourt_grec 200 g
+- Couper les pêches en deux, les disposer dans un plat.
+- Arroser de miel, parsemer de romarin, rôtir 20 minutes à 200 °C.
+- Servir avec le yaourt.
+
+## Figues rôties au miel et chèvre frais | dessert | facile | 10 | 15 | 4 | française | automne
+figue 8
+miel 2 cas
+chevre_frais 100 g
+noix 30 g
+- Inciser les figues en croix, arroser de miel.
+- Rôtir 15 minutes à 190 °C.
+- Servir avec le chèvre frais et les noix.
+
+## Coings pochés à la vanille | dessert | facile | 15 | 60 | 4 | française | automne,végétal
+coing 3
+sucre 150 g
+sucre_vanille 1 sachet
+citron 0.5
+- Éplucher et couper les coings en quartiers, les citronner.
+- Les pocher 1 h dans 1 litre d'eau avec le sucre et la vanille.
+- Servir tièdes avec un peu de sirop.
+
+## Raisins et poires pochées au vin | dessert | facile | 10 | 25 | 4 | française | automne
+poire 4
+raisin 200 g
+vin_rouge 50 cl
+sucre 100 g
+cannelle 1 pincee
+- Porter vin, sucre et cannelle à ébullition.
+- Pocher les poires épluchées 20 minutes, ajouter les raisins 5 minutes.
+- Servir froid avec le sirop réduit.
+
+## Granité au melon | dessert | facile | 10 | 0 | 6 | italienne | été,sans-cuisson,végétal
+melon 1
+sucre 60 g
+citron 0.5
+- Mixer la chair du melon avec le sucre et le citron.
+- Verser dans un plat et congeler 3 h en grattant à la fourchette toutes les 30 minutes.
+
+## Sorbet express aux fruits rouges | dessert | facile | 5 | 0 | 4 | moderne | été,sans-cuisson,végétal
+fruits_rouges_surg 400 g
+sucre_glace 60 g
+citron 0.5
+- Mixer les fruits encore congelés avec le sucre glace et le citron.
+- Servir aussitôt ou garder 30 minutes au congélateur.
+
+## Brochettes de fruits au chocolat | dessert | facile | 15 | 5 | 6 | française | enfants,été
+fraise 250 g
+banane 2
+kiwi 2
+chocolat_noir 100 g
+- Enfiler les fruits en morceaux sur des piques.
+- Les napper de chocolat fondu et laisser figer au frais.
+
+## Bavarois aux framboises | dessert | moyen | 25 | 5 | 8 | française | festif
+framboise 375 g
+creme_liquide 30 cl
+sucre 100 g
+gelatine 6
+biscuit_cuiller 12
+- Mixer et filtrer les framboises, chauffer une partie avec le sucre et y dissoudre la gélatine.
+- Fouetter la crème et l'incorporer à la purée.
+- Verser sur les biscuits dans un moule et réfrigérer une nuit.
+
+## Petits pots de crème à la vanille | dessert | facile | 10 | 35 | 6 | française | enfants
+lait 50 cl
+creme_liquide 20 cl
+oeuf 5
+sucre 90 g
+sucre_vanille 1 sachet
+- Fouetter les jaunes et un œuf entier avec le sucre.
+- Verser le lait et la crème chauds vanillés.
+- Cuire en ramequins au bain-marie 35 minutes à 150 °C.

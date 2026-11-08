@@ -1,0 +1,722 @@
+#! Salades et entrées
+## Salade César | salade | facile | 20 | 15 | 4 | américaine | classique
+salade 2
+poulet_blanc 400 g
+pain_mie 3 tranche
+parmesan 50 g
+mayonnaise 3 cas
+citron 0.5
+ail 1 gousse
+huile_olive 2 cas
+sel qs
+- Griller le poulet et le trancher.
+- Faire dorer le pain en cubes dans l'huile avec l'ail.
+- Mélanger mayonnaise, jus de citron et un peu de parmesan pour la sauce.
+- Assembler salade, poulet, croûtons, sauce et copeaux de parmesan.
+
+## Salade de chèvre chaud | salade | facile | 10 | 10 | 4 | française | classique
+salade 1
+chevre_buche 180 g
+baguette 0.5
+miel 1 cas
+noix 40 g
+huile_olive 3 cas
+vinaigre_balsamique 1 cas
+- Poser des rondelles de chèvre sur des tranches de pain, arroser de miel.
+- Gratiner 8 minutes à 200 °C.
+- Servir sur la salade assaisonnée avec les noix.
+
+## Salade grecque | salade | facile | 15 | 0 | 4 | grecque | été,sans-cuisson
+tomate 4
+concombre 1
+poivron_vert 1
+oignon_rouge 1
+feta 200 g
+olive_noire 80 g
+origan 1 cac
+huile_olive 4 cas
+- Couper les légumes en morceaux.
+- Ajouter olives et feta en dés.
+- Arroser d'huile et parsemer d'origan.
+
+## Salade caprese | salade | facile | 10 | 0 | 4 | italienne | été,sans-cuisson
+tomate 4
+mozzarella 2
+basilic 0.5 pot
+huile_olive 3 cas
+fleur_sel qs
+- Alterner tranches de tomate et de mozzarella.
+- Ajouter basilic, huile et fleur de sel.
+
+## Salade de burrata et tomates anciennes | salade | facile | 10 | 0 | 4 | italienne | été,sans-cuisson
+tomate 4
+burrata 2
+basilic 0.5 pot
+huile_olive 3 cas
+vinaigre_balsamique 1 cas
+fleur_sel qs
+- Couper les tomates en quartiers.
+- Poser la burrata au centre, arroser d'huile et de vinaigre.
+- Parsemer de basilic et de fleur de sel.
+
+## Salade de lentilles, carottes et feta | salade | facile | 15 | 25 | 4 | française | végétarien
+lentilles_vertes 250 g
+carotte 2
+feta 120 g
+echalote 1
+persil 0.5 botte
+moutarde 1 cac
+vinaigre 2 cas
+huile_olive 4 cas
+sel qs
+- Cuire les lentilles 25 minutes, les égoutter.
+- Ajouter carottes râpées, échalote, persil et feta.
+- Assaisonner de vinaigrette moutardée.
+
+## Salade de pommes de terre | salade | facile | 15 | 20 | 4 | allemande | pique-nique
+pomme_de_terre 800 g
+oignon_rouge 1
+cornichon 60 g
+moutarde 1 cas
+vinaigre 2 cas
+huile_tournesol 4 cas
+ciboulette 0.5 botte
+sel qs
+- Cuire les pommes de terre 20 minutes, les couper tièdes.
+- Ajouter oignon, cornichons et ciboulette.
+- Assaisonner de vinaigrette moutardée.
+
+## Piémontaise | salade | facile | 20 | 20 | 4 | française | pique-nique,été
+pomme_de_terre 600 g
+jambon_blanc 3 tranche
+oeuf 3
+tomate 2
+cornichon 50 g
+mayonnaise 4 cas
+persil 0.25 botte
+- Cuire pommes de terre et œufs, les couper en dés.
+- Ajouter jambon, tomates et cornichons en dés.
+- Lier à la mayonnaise, parsemer de persil.
+
+## Salade de riz au thon | salade | facile | 15 | 15 | 4 | française | pique-nique,été
+riz 250 g
+thon 140 g
+tomate 2
+mais_conserve 150 g
+poivron_rouge 1
+oeuf 2
+huile_olive 4 cas
+vinaigre 2 cas
+sel qs
+- Cuire le riz et les œufs, refroidir.
+- Ajouter thon, maïs, tomates et poivron en dés, œufs en quartiers.
+- Assaisonner de vinaigrette.
+
+## Salade de pâtes méditerranéenne | salade | facile | 15 | 12 | 4 | italienne | pique-nique,été
+fusilli 300 g
+tomate_cerise 250 g
+mozzarella 1
+olive_noire 60 g
+pesto 3 cas
+roquette 50 g
+huile_olive 2 cas
+- Cuire les pâtes, les rincer à l'eau froide.
+- Mélanger avec le pesto, l'huile, les tomates, la mozzarella et les olives.
+- Ajouter la roquette au moment de servir.
+
+## Salade de quinoa, avocat et maïs | salade | facile | 15 | 15 | 4 | moderne | végétal
+quinoa 200 g
+avocat 1
+mais_conserve 150 g
+tomate_cerise 200 g
+haricot_rouge 250 g
+citron_vert 1
+coriandre 0.5 botte
+huile_olive 3 cas
+sel qs
+- Cuire le quinoa et le refroidir.
+- Ajouter maïs, haricots, tomates et avocat en dés.
+- Assaisonner de citron vert, huile, sel et coriandre.
+
+## Salade de boulgour aux pois chiches | salade | facile | 15 | 10 | 4 | orientale | végétal
+boulgour 200 g
+pois_chiche 265 g
+concombre 0.5
+tomate 2
+menthe 0.5 botte
+citron 1
+huile_olive 4 cas
+cumin 1/2 cac
+sel qs
+- Cuire le boulgour et le refroidir.
+- Ajouter pois chiches, légumes en dés et menthe.
+- Assaisonner de citron, huile, cumin et sel.
+
+## Coleslaw | salade | facile | 15 | 0 | 6 | américaine | barbecue,sans-cuisson
+chou_blanc 0.5
+carotte 2
+mayonnaise 4 cas
+yaourt_nature 1
+vinaigre_cidre 1 cas
+sucre 1 cac
+sel qs
+- Émincer finement le chou, râper les carottes.
+- Mélanger mayonnaise, yaourt, vinaigre et sucre.
+- Lier les légumes avec la sauce, réfrigérer 1 h.
+
+## Carottes râpées à l'orange | entree | facile | 10 | 0 | 4 | française | sans-cuisson,végétal,économique
+carotte 500 g
+orange 1
+citron 0.5
+huile_olive 3 cas
+persil 0.25 botte
+sel qs
+- Râper les carottes.
+- Assaisonner de jus d'orange et de citron, d'huile et de sel.
+- Parsemer de persil.
+
+## Céleri rémoulade | entree | facile | 15 | 0 | 4 | française | sans-cuisson,hiver
+celeri_rave 0.5
+mayonnaise 4 cas
+moutarde 1 cas
+citron 0.5
+sel qs
+- Râper le céleri et l'arroser de citron.
+- Mélanger mayonnaise et moutarde, lier le céleri.
+- Réfrigérer 30 minutes.
+
+## Concombre à la crème | entree | facile | 10 | 0 | 4 | française | été,sans-cuisson
+concombre 2
+creme_fraiche 100 g
+ciboulette 0.5 botte
+citron 0.5
+sel qs
+- Couper le concombre en fines rondelles, le saler 15 minutes et l'égoutter.
+- Mélanger avec crème, citron et ciboulette.
+
+## Taboulé de chou-fleur | salade | facile | 20 | 0 | 4 | moderne | végétal,sans-cuisson
+chou_fleur 0.5
+tomate 2
+concombre 0.5
+persil 1 botte
+menthe 0.5 botte
+citron 1
+huile_olive 4 cas
+sel qs
+- Mixer le chou-fleur cru en semoule.
+- Ajouter légumes en dés et herbes ciselées.
+- Assaisonner de citron, huile et sel.
+
+## Salade de betteraves et chèvre frais | salade | facile | 10 | 0 | 4 | française | hiver,sans-cuisson
+betterave_cuite 400 g
+chevre_frais 100 g
+noix 40 g
+mache 100 g
+vinaigre_balsamique 1 cas
+huile_olive 3 cas
+- Couper les betteraves en dés.
+- Disposer sur la mâche avec le chèvre émietté et les noix.
+- Arroser de vinaigrette balsamique.
+
+## Salade d'endives, pommes et noix | salade | facile | 10 | 0 | 4 | française | hiver,sans-cuisson
+endive 4
+pomme 1
+noix 40 g
+roquefort 60 g
+huile_olive 3 cas
+vinaigre_cidre 1 cas
+- Émincer les endives et la pomme.
+- Ajouter noix et roquefort émietté.
+- Assaisonner de vinaigrette.
+
+## Salade lyonnaise | salade | moyen | 15 | 10 | 4 | lyonnaise | classique
+salade 1
+lardons 150 g
+oeuf 4
+pain_mie 2 tranche
+vinaigre 3 cas
+moutarde 1 cac
+huile_tournesol 3 cas
+- Faire dorer lardons et croûtons.
+- Pocher les œufs 3 minutes dans l'eau vinaigrée.
+- Assaisonner la salade de vinaigrette moutardée, ajouter lardons, croûtons et œufs.
+
+## Salade de lentilles et saumon fumé | salade | facile | 15 | 25 | 4 | française | équilibré
+lentilles_vertes 200 g
+saumon_fume 4 tranche
+echalote 1
+aneth 0.5 botte
+moutarde 1 cac
+vinaigre 2 cas
+huile_olive 3 cas
+- Cuire les lentilles et les laisser tiédir.
+- Assaisonner de vinaigrette, échalote et aneth.
+- Ajouter le saumon fumé en lanières.
+
+## Salade thaï au bœuf | salade | moyen | 20 | 5 | 4 | thaïlandaise | été
+boeuf_steak 400 g
+salade 1
+concombre 0.5
+tomate_cerise 150 g
+oignon_rouge 1
+menthe 0.5 botte
+coriandre 0.5 botte
+nuoc_mam 3 cas
+citron_vert 2
+sucre 1 cas
+piment_frais 1
+- Saisir le bœuf 2 minutes par face, le trancher finement.
+- Préparer la sauce avec nuoc-mâm, citron vert, sucre et piment.
+- Mélanger crudités, herbes et bœuf, arroser de sauce.
+
+## Salade de poulet, mangue et avocat | salade | facile | 15 | 10 | 4 | exotique | été
+poulet_blanc 300 g
+mangue 1
+avocat 1
+salade 1
+citron_vert 1
+huile_olive 3 cas
+noix_cajou 40 g
+sel qs
+- Griller le poulet et le couper en lamelles.
+- Couper mangue et avocat en dés.
+- Assembler sur la salade, assaisonner de citron vert et d'huile, ajouter les noix de cajou.
+
+## Salade de pastèque, feta et menthe | salade | facile | 10 | 0 | 4 | grecque | été,sans-cuisson
+pasteque 1 kg
+feta 150 g
+menthe 0.5 botte
+oignon_rouge 0.5
+huile_olive 2 cas
+citron_vert 1
+- Couper la pastèque en cubes.
+- Ajouter feta, menthe et oignon émincé.
+- Arroser de citron vert et d'huile.
+
+## Salade de melon, jambon cru et mozzarella | salade | facile | 10 | 0 | 4 | italienne | été,sans-cuisson
+melon 1
+jambon_cru 6 tranche
+mozzarella 2
+roquette 60 g
+huile_olive 2 cas
+- Couper le melon en billes ou en cubes.
+- Disposer avec roquette, mozzarella et jambon.
+- Arroser d'huile.
+
+## Salade de fenouil et orange | salade | facile | 10 | 0 | 4 | sicilienne | hiver,sans-cuisson,végétal
+fenouil 2
+orange 2
+olive_noire 40 g
+huile_olive 3 cas
+sel qs
+- Émincer finement le fenouil.
+- Peler les oranges à vif et les couper en tranches.
+- Assembler avec les olives et l'huile.
+
+## Salade de haricots verts, tomates et échalote | salade | facile | 10 | 8 | 4 | française | été,végétal
+haricot_vert 400 g
+tomate 3
+echalote 1
+huile_olive 3 cas
+vinaigre 1 cas
+moutarde 1 cac
+sel qs
+- Cuire les haricots 7 minutes, les refroidir.
+- Ajouter tomates en quartiers et échalote ciselée.
+- Assaisonner de vinaigrette moutardée.
+
+## Salade de chou rouge aux pommes | salade | facile | 15 | 0 | 4 | allemande | hiver,sans-cuisson,végétal
+chou_rouge 0.5
+pomme 2
+noix 40 g
+vinaigre_cidre 2 cas
+huile_tournesol 3 cas
+sel qs
+- Émincer finement le chou, le saler et le laisser reposer 15 minutes.
+- Ajouter pommes en lamelles et noix.
+- Assaisonner de vinaigrette au cidre.
+
+## Salade de mâche, pommes de terre et œuf | salade | facile | 15 | 20 | 4 | française | hiver
+mache 150 g
+pomme_de_terre_grenaille 500 g
+oeuf 4
+echalote 1
+moutarde 1 cac
+vinaigre 2 cas
+huile_olive 3 cas
+- Cuire pommes de terre et œufs.
+- Disposer la mâche, les pommes de terre tièdes et les œufs en quartiers.
+- Arroser de vinaigrette à l'échalote.
+
+## Salade de crevettes et pamplemousse | salade | facile | 15 | 0 | 4 | française | hiver,sans-cuisson
+crevette 200 g
+pamplemousse 2
+avocat 1
+salade 1
+huile_olive 2 cas
+- Peler les pamplemousses à vif et prélever les segments.
+- Disposer sur la salade avec crevettes et avocat en dés.
+- Arroser d'huile et du jus des pamplemousses.
+
+## Salade de radis, concombre et yaourt | salade | facile | 10 | 0 | 4 | moderne | printemps,sans-cuisson
+radis 1 botte
+concombre 1
+yaourt_grec 150 g
+aneth 0.5 botte
+citron 0.5
+sel qs
+- Couper radis et concombre en fines rondelles.
+- Mélanger avec le yaourt, l'aneth, le citron et le sel.
+
+## Salade de courgettes crues, menthe et parmesan | salade | facile | 10 | 0 | 4 | italienne | été,sans-cuisson
+courgette 3
+parmesan 40 g
+menthe 0.5 botte
+citron 1
+huile_olive 3 cas
+pignons 30 g
+sel qs
+- Tailler les courgettes en rubans à l'économe.
+- Assaisonner de citron, huile, sel et menthe.
+- Ajouter copeaux de parmesan et pignons grillés.
+
+## Salade de pois chiches à la grecque | salade | facile | 10 | 0 | 4 | grecque | végétal,sans-cuisson
+pois_chiche 530 g
+concombre 0.5
+tomate 2
+oignon_rouge 0.5
+olive_noire 50 g
+citron 1
+huile_olive 3 cas
+origan 1 cac
+- Mélanger pois chiches et légumes en dés.
+- Ajouter olives, citron, huile et origan.
+
+## Salade de pâtes au poulet et curry | salade | facile | 15 | 12 | 4 | française | pique-nique
+fusilli 250 g
+poulet_blanc 300 g
+mayonnaise 3 cas
+yaourt_nature 1
+curry 1 cac
+raisins_secs 30 g
+celeri_branche 1
+- Cuire pâtes et poulet, refroidir.
+- Mélanger mayonnaise, yaourt et curry.
+- Assembler avec poulet en dés, céleri et raisins secs.
+
+## Salade de jeunes pousses, quinoa et abricots secs | salade | facile | 15 | 15 | 4 | moderne | végétal
+jeunes_pousses 125 g
+quinoa 150 g
+abricot_sec 60 g
+amande 40 g
+citron 1
+huile_olive 3 cas
+moutarde 1 cac
+- Cuire le quinoa et le refroidir.
+- Ajouter pousses, abricots secs en dés et amandes concassées.
+- Assaisonner de vinaigrette citronnée.
+
+## Poireaux vinaigrette | entree | facile | 10 | 15 | 4 | française | hiver,végétal
+poireau 4
+moutarde 1 cas
+vinaigre 2 cas
+huile_tournesol 5 cas
+echalote 1
+oeuf 1
+- Cuire les poireaux 15 minutes à l'eau salée, bien les égoutter.
+- Préparer une vinaigrette moutardée à l'échalote.
+- Napper les poireaux, parsemer d'œuf dur émietté.
+
+## Asperges vertes à la vinaigrette et œuf mollet | entree | facile | 10 | 10 | 4 | française | printemps
+asperge_verte 500 g
+oeuf 4
+moutarde 1 cac
+vinaigre 1 cas
+huile_olive 3 cas
+- Cuire les asperges 6 minutes à l'eau bouillante.
+- Cuire les œufs 6 minutes, les écaler.
+- Servir les asperges avec la vinaigrette et l'œuf mollet.
+
+## Artichauts vinaigrette | entree | facile | 5 | 30 | 4 | bretonne | printemps,végétal
+artichaut 4
+moutarde 1 cas
+vinaigre 2 cas
+huile_tournesol 5 cas
+sel qs
+- Cuire les artichauts 30 minutes à l'eau salée.
+- Les égoutter tête en bas.
+- Servir tièdes avec la vinaigrette.
+
+## Tomates mozzarella en verrines | entree | facile | 10 | 0 | 4 | italienne | apéro,été
+tomate_cerise 250 g
+mozzarella 1
+pesto 2 cas
+huile_olive 1 cas
+- Couper tomates et mozzarella en dés.
+- Alterner dans des verrines, ajouter le pesto.
+
+## Tzatziki et crudités | entree | facile | 10 | 0 | 4 | grecque | apéro,sans-cuisson
+yaourt_grec 300 g
+concombre 1
+ail 1 gousse
+menthe 0.5 botte
+carotte 2
+radis 0.5 botte
+huile_olive 1 cas
+sel qs
+- Râper et presser le concombre, le mélanger avec yaourt, ail, menthe et sel.
+- Servir avec carottes et radis en bâtonnets.
+
+## Houmous maison | entree | facile | 10 | 0 | 6 | libanaise | apéro,végétal,sans-cuisson
+pois_chiche 530 g
+tahini 4 cas
+citron 1
+ail 1 gousse
+huile_olive 4 cas
+cumin 1/2 cac
+pain_pita 3
+sel qs
+- Mixer pois chiches, tahini, jus de citron, ail, cumin et sel avec un peu d'eau.
+- Servir arrosé d'huile avec les pitas.
+
+## Caviar d'aubergine | entree | facile | 10 | 40 | 6 | méditerranéenne | apéro,végétal
+aubergine 2
+ail 1 gousse
+citron 0.5
+huile_olive 3 cas
+tahini 1 cas
+cumin 1/2 cac
+pain_pita 3
+sel qs
+- Rôtir les aubergines entières 40 minutes à 200 °C.
+- Récupérer la chair et la mixer avec ail, citron, huile, tahini et cumin.
+- Servir frais avec les pitas.
+
+## Guacamole et chips de tortilla | entree | facile | 10 | 8 | 4 | mexicaine | apéro,végétal
+avocat 3
+tomate 1
+oignon_rouge 0.5
+citron_vert 1
+coriandre 0.5 botte
+tortilla 4
+huile_olive 1 cas
+sel qs
+- Écraser les avocats avec le citron vert et le sel.
+- Ajouter tomate, oignon et coriandre hachés.
+- Couper les tortillas en triangles, les huiler et les cuire 8 minutes à 200 °C.
+
+## Bruschetta à la tomate | entree | facile | 10 | 5 | 4 | italienne | apéro,été
+baguette 1
+tomate 3
+ail 1 gousse
+basilic 0.5 pot
+huile_olive 3 cas
+sel qs
+- Griller les tranches de pain et les frotter à l'ail.
+- Garnir de tomates en dés assaisonnées d'huile, sel et basilic.
+
+## Rillettes de sardines | entree | facile | 10 | 0 | 4 | bretonne | apéro,sans-cuisson
+sardine_conserve 230 g
+st_moret 100 g
+citron 0.5
+ciboulette 0.5 botte
+baguette 0.5
+- Écraser les sardines sans arêtes avec le fromage frais.
+- Ajouter citron et ciboulette, servir sur du pain.
+
+## Feuilletés au fromage | entree | facile | 10 | 15 | 6 | française | apéro,four
+pate_feuilletee 1
+emmental_rape 100 g
+oeuf 1
+graines_sesame 1 cas
+- Parsemer la moitié de la pâte de fromage, replier.
+- Découper en bâtonnets, dorer à l'œuf, parsemer de sésame.
+- Cuire 15 minutes à 200 °C.
+
+## Gougères | entree | moyen | 15 | 25 | 6 | bourguignonne | apéro,four
+farine 125 g
+beurre 80 g
+oeuf 4
+comte 100 g
+sel qs
+- Porter 25 cl d'eau, le beurre et le sel à ébullition, ajouter la farine d'un coup et dessécher 2 minutes.
+- Incorporer les œufs un à un, puis le comté râpé.
+- Former des petites boules et cuire 25 minutes à 190 °C.
+
+## Cake salé aux olives et jambon | entree | facile | 15 | 45 | 8 | française | apéro,pique-nique
+farine 180 g
+oeuf 3
+levure_chimique 1 sachet
+lait 12 cl
+huile_tournesol 10 cl
+jambon_blanc 3 tranche
+olive_verte 100 g
+emmental_rape 100 g
+- Mélanger farine, levure et œufs, ajouter lait et huile.
+- Incorporer jambon en dés, olives et fromage.
+- Cuire 45 minutes à 180 °C.
+
+## Cake courgette et feta | entree | facile | 15 | 45 | 8 | française | apéro,pique-nique
+farine 180 g
+oeuf 3
+levure_chimique 1 sachet
+lait 10 cl
+huile_olive 10 cl
+courgette 1
+feta 150 g
+menthe 0.5 botte
+- Râper et presser la courgette.
+- Mélanger farine, levure, œufs, lait et huile.
+- Ajouter courgette, feta et menthe, cuire 45 minutes à 180 °C.
+
+## Muffins salés au thon et tomates séchées | entree | facile | 15 | 25 | 6 | française | apéro
+farine 150 g
+oeuf 2
+levure_chimique 1 sachet
+lait 10 cl
+huile_olive 6 cl
+thon 140 g
+tomate_sechee 60 g
+- Mélanger farine, levure, œufs, lait et huile.
+- Ajouter thon et tomates séchées en morceaux.
+- Remplir des moules à muffins et cuire 25 minutes à 180 °C.
+
+## Samoussas aux légumes | entree | moyen | 25 | 15 | 6 | indienne | apéro,four
+pate_filo 6
+pomme_de_terre 300 g
+petit_pois_surg 100 g
+oignon 1
+curry 2 cac
+huile_tournesol 3 cas
+sel qs
+- Cuire les pommes de terre en dés, mélanger avec petits pois, oignon revenu et curry.
+- Couper les feuilles en bandes, garnir et plier en triangles.
+- Badigeonner d'huile et cuire 15 minutes à 200 °C.
+
+## Nems au poulet au four | entree | moyen | 30 | 20 | 6 | vietnamienne | apéro,four
+pate_filo 10
+poulet_blanc 250 g
+carotte 2
+nouilles_riz 50 g
+champignon 100 g
+nuoc_mam 2 cas
+salade 0.5
+menthe 0.5 botte
+huile_tournesol 3 cas
+- Tremper les nouilles, les couper. Mélanger avec poulet haché, carottes râpées, champignons et nuoc-mâm.
+- Rouler la farce dans les feuilles.
+- Badigeonner d'huile et cuire 20 minutes à 200 °C. Servir avec salade et menthe.
+
+## Rouleaux de printemps aux crevettes | entree | moyen | 30 | 5 | 4 | vietnamienne | été,frais
+galette_riz 8
+crevette 200 g
+nouilles_riz 80 g
+salade 0.5
+carotte 1
+menthe 0.5 botte
+coriandre 0.5 botte
+nuoc_mam 2 cas
+citron_vert 1
+sucre 1 cas
+- Cuire et refroidir les nouilles.
+- Humidifier les galettes, garnir de salade, nouilles, carotte, herbes et crevettes, rouler serré.
+- Servir avec la sauce nuoc-mâm, citron vert et sucre.
+
+## Œufs durs mayonnaise et crudités | entree | facile | 10 | 10 | 4 | française | économique
+oeuf 4
+mayonnaise 3 cas
+tomate 2
+salade 0.5
+- Cuire les œufs 10 minutes.
+- Les servir coupés en deux avec mayonnaise, tomates et salade.
+
+## Velouté glacé de petits pois et chèvre en verrine | entree | facile | 10 | 10 | 6 | moderne | apéro,printemps
+petit_pois_surg 400 g
+chevre_frais 100 g
+menthe 0.5 botte
+bouillon_legumes 1 cube
+- Cuire les petits pois 8 minutes dans 40 cl de bouillon.
+- Mixer avec la menthe, refroidir.
+- Servir en verrines avec le chèvre émietté.
+
+## Pâté de lentilles | entree | facile | 10 | 20 | 6 | moderne | apéro,végétal
+lentilles_corail 150 g
+oignon 1
+noix 50 g
+cumin 1 cac
+huile_olive 2 cas
+pain_campagne 6 tranche
+sel qs
+- Cuire les lentilles 15 minutes dans 40 cl d'eau.
+- Faire revenir l'oignon au cumin.
+- Mixer avec les noix et l'huile, servir sur du pain.
+
+## Tapenade et toasts | entree | facile | 10 | 5 | 6 | provençale | apéro,végétal
+olive_noire 150 g
+capres 1 cas
+ail 1 gousse
+huile_olive 4 cas
+baguette 1
+- Mixer olives, câpres, ail et huile.
+- Servir sur des tranches de pain grillées.
+
+## Salade de lentilles corail aux légumes croquants | salade | facile | 15 | 10 | 4 | moderne | végétal
+lentilles_corail 200 g
+poivron_rouge 1
+concombre 0.5
+oignon_nouveau 0.5
+citron 1
+huile_olive 3 cas
+cumin 1/2 cac
+coriandre 0.5 botte
+- Cuire les lentilles 8 minutes en gardant de la tenue, refroidir.
+- Ajouter légumes en petits dés et herbes.
+- Assaisonner de citron, huile et cumin.
+
+## Salade de patate douce rôtie et feta | salade | facile | 15 | 30 | 4 | moderne | automne
+patate_douce 600 g
+feta 150 g
+roquette 80 g
+graines_sesame 1 cas
+huile_olive 3 cas
+miel 1 cas
+vinaigre_balsamique 1 cas
+- Rôtir la patate douce en cubes 30 minutes à 200 °C.
+- Disposer sur la roquette avec la feta.
+- Arroser d'une sauce miel-balsamique-huile, parsemer de sésame.
+
+## Salade de chou chinois sauce sésame | salade | facile | 15 | 0 | 4 | asiatique | sans-cuisson,végétal
+chou_chinois 0.5
+carotte 2
+edamame_surg 150 g
+huile_sesame 2 cas
+sauce_soja 2 cas
+vinaigre_cidre 1 cas
+graines_sesame 1 cas
+- Émincer le chou, râper les carottes, décongeler les edamame.
+- Mélanger avec la sauce soja, l'huile de sésame et le vinaigre.
+- Parsemer de sésame.
+
+## Salade composée jambon, emmental et maïs | salade | facile | 10 | 0 | 4 | française | rapide
+salade 1
+jambon_blanc 4 tranche
+comte 100 g
+mais_conserve 150 g
+tomate 2
+huile_tournesol 3 cas
+vinaigre 1 cas
+- Couper jambon et fromage en dés.
+- Mélanger avec salade, maïs et tomates.
+- Assaisonner de vinaigrette.
+
+## Salade de fruits de mer | salade | facile | 15 | 5 | 4 | française | été
+crevette 200 g
+calamar 200 g
+salade 1
+tomate_cerise 150 g
+citron 1
+huile_olive 3 cas
+persil 0.25 botte
+- Saisir rapidement les calamars 3 minutes.
+- Mélanger avec crevettes, tomates et persil.
+- Assaisonner de citron et huile, servir sur la salade.

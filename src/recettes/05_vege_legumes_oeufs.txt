@@ -1,0 +1,716 @@
+#! Plats végétariens : légumineuses, œufs, gratins, tartes
+## Dahl de lentilles corail | plat | facile | 10 | 25 | 4 | indienne | végétal,économique
+lentilles_corail 250 g
+lait_coco 40 cl
+tomate_concassee 400 g
+oignon 1
+ail 2 gousse
+gingembre 10 g
+curry 2 cac
+curcuma 1 cac
+huile_tournesol 2 cas
+coriandre 0.5 botte
+riz_basmati 300 g
+sel qs
+- Faire revenir oignon, ail, gingembre et épices dans l'huile.
+- Ajouter lentilles rincées, tomates, lait de coco et 40 cl d'eau.
+- Cuire 20 minutes en remuant. Servir avec le riz et la coriandre.
+
+## Chana masala | plat | facile | 10 | 25 | 4 | indienne | végétal
+pois_chiche 530 g
+tomate_concassee 400 g
+oignon 2
+ail 2 gousse
+gingembre 10 g
+garam_massala 2 cac
+cumin 1 cac
+huile_tournesol 2 cas
+citron 0.5
+riz_basmati 300 g
+coriandre 0.5 botte
+sel qs
+- Faire dorer les oignons dans l'huile, ajouter ail, gingembre et épices.
+- Ajouter tomates et pois chiches, mijoter 20 minutes.
+- Finir avec citron et coriandre, servir avec le riz.
+
+## Curry de pois chiches et patate douce | plat | facile | 15 | 25 | 4 | indienne | végétal
+pois_chiche 265 g
+patate_douce 500 g
+lait_coco 40 cl
+jeunes_pousses 100 g
+oignon 1
+curry 2 cac
+gingembre 10 g
+huile_tournesol 2 cas
+riz 300 g
+sel qs
+- Faire revenir oignon, gingembre et curry.
+- Ajouter patate douce en cubes, pois chiches et lait de coco, cuire 20 minutes.
+- Ajouter les épinards hors du feu. Servir avec le riz.
+
+## Falafels et sauce tahini | plat | moyen | 25 | 15 | 4 | libanaise | végétal
+pois_chiche 530 g
+oignon 1
+ail 2 gousse
+persil 1 botte
+coriandre 0.5 botte
+cumin 2 cac
+farine 3 cas
+huile_tournesol 6 cas (friture, quantité absorbée)
+tahini 3 cas
+citron 1
+pain_pita 4
+tomate 2
+salade 0.5
+sel qs
+- Mixer grossièrement pois chiches, oignon, ail, herbes, cumin, farine et sel.
+- Former des boulettes et les frire 4 minutes.
+- Mélanger tahini, jus de citron et eau pour la sauce.
+- Servir dans les pitas avec crudités et sauce.
+
+## Houmous bowl et légumes rôtis | plat | facile | 15 | 30 | 4 | méditerranéenne | végétal
+houmous 200 g
+carotte 3
+chou_fleur 0.5
+pois_chiche 265 g
+boulgour 200 g
+huile_olive 3 cas
+cumin 1 cac
+persil 0.5 botte
+sel qs
+- Rôtir carottes, chou-fleur et pois chiches au cumin 30 minutes à 210 °C.
+- Cuire le boulgour.
+- Dresser houmous, boulgour et légumes, parsemer de persil.
+
+## Lentilles vertes aux légumes | plat | facile | 10 | 30 | 4 | française | végétal,économique
+lentilles_vertes 300 g
+carotte 2
+oignon 1
+celeri_branche 1
+laurier 1 feuille
+thym 1 cac
+huile_olive 2 cas
+moutarde 1 cas
+sel qs
+- Faire revenir oignon, carotte et céleri en dés.
+- Ajouter lentilles, thym, laurier et 3 fois leur volume d'eau.
+- Cuire 30 minutes, saler en fin de cuisson et assaisonner de moutarde.
+
+## Haricots blancs à la tomate | plat | facile | 10 | 20 | 4 | française | végétal,économique
+haricot_blanc 530 g
+tomate_concassee 400 g
+oignon 1
+ail 2 gousse
+thym 1 cac
+huile_olive 2 cas
+pain_campagne 4 tranche
+sel qs
+- Faire revenir oignon et ail, ajouter tomates et thym, mijoter 10 minutes.
+- Ajouter les haricots et réchauffer 10 minutes.
+- Servir avec le pain grillé.
+
+## Cassoulet végétarien | plat | moyen | 20 | 45 | 4 | française | four,hiver
+haricot_blanc 530 g
+carotte 2
+tomate_concassee 400 g
+oignon 1
+ail 2 gousse
+tofu_fume 200 g
+chapelure 30 g
+thym 1 cac
+huile_olive 3 cas
+sel qs
+- Faire revenir oignon, ail et carottes, ajouter tomates et thym.
+- Ajouter haricots et tofu fumé en dés, mijoter 15 minutes.
+- Verser dans un plat, couvrir de chapelure et cuire 30 minutes à 180 °C.
+
+## Steaks de haricots rouges | plat | facile | 20 | 15 | 4 | moderne | végétal
+haricot_rouge 500 g
+flocons_avoine 60 g
+oignon 1
+cumin 1 cac
+paprika 1 cac
+huile_tournesol 3 cas
+pain_burger 4
+tomate 1
+salade 0.5
+ketchup 3 cas
+sel qs
+- Écraser les haricots, mélanger avec flocons, oignon haché et épices.
+- Former 4 galettes et les dorer 5 minutes par face.
+- Garnir les pains de salade, tomate, galette et sauce.
+
+## Galettes de pois chiches et carottes | plat | facile | 20 | 15 | 4 | moderne | végétal
+pois_chiche 265 g
+carotte 2
+farine 40 g
+cumin 1 cac
+persil 0.5 botte
+huile_olive 3 cas
+yaourt_grec 150 g
+salade 0.5
+sel qs
+- Écraser les pois chiches, mélanger avec carottes râpées, farine, cumin et persil.
+- Former des galettes et les dorer 4 minutes par face.
+- Servir avec le yaourt et la salade.
+
+## Tofu sauté au gingembre et brocoli | plat | facile | 10 | 15 | 4 | asiatique | végétal,wok
+tofu 400 g
+brocoli 1
+sauce_soja 4 cas
+gingembre 15 g
+ail 2 gousse
+maizena 2 cas
+sirop_erable 1 cas
+huile_tournesol 3 cas
+riz 300 g
+- Enrober le tofu en dés de fécule et le dorer dans l'huile.
+- Faire sauter brocoli, ail et gingembre 5 minutes.
+- Ajouter sauce soja et sirop, mélanger avec le tofu. Servir avec le riz.
+
+## Tofu général Tao | plat | moyen | 15 | 15 | 4 | chinoise | végétal
+tofu 400 g
+maizena 3 cas
+sauce_soja 4 cas
+sucre_roux 2 cas
+vinaigre_cidre 2 cas
+concentre_tomate 1 cas
+ail 2 gousse
+gingembre 10 g
+huile_tournesol 4 cas
+riz 300 g
+graines_sesame 1 cas
+- Enrober le tofu de fécule et le faire frire jusqu'à ce qu'il soit croustillant.
+- Chauffer sauce soja, sucre, vinaigre, concentré, ail et gingembre jusqu'à épaississement.
+- Enrober le tofu de sauce, parsemer de sésame et servir avec le riz.
+
+## Curry de tofu et légumes | plat | facile | 15 | 20 | 4 | thaïlandaise | végétal
+tofu 300 g
+pate_curry_vegan 2 cas
+lait_coco 40 cl
+poivron_rouge 1
+courgette 1
+haricot_vert 150 g
+sauce_soja 1 cas
+basilic 0.5 pot
+riz 300 g
+- Chauffer la pâte de curry avec un peu de lait de coco.
+- Ajouter lait de coco et légumes, cuire 10 minutes.
+- Ajouter le tofu en dés, la sauce soja et le basilic. Servir avec le riz.
+
+## Omelette aux fines herbes | plat | facile | 5 | 8 | 2 | française | rapide
+oeuf 5
+ciboulette 0.5 botte
+persil 0.25 botte
+beurre 15 g
+salade 0.5
+sel qs
+poivre qs
+- Battre les œufs avec herbes, sel et poivre.
+- Cuire au beurre en ramenant les bords vers le centre.
+- Plier et servir avec la salade.
+
+## Omelette aux pommes de terre (tortilla) | plat | facile | 15 | 30 | 4 | espagnole | apéro,pique-nique
+oeuf 6
+pomme_de_terre 600 g
+oignon 1
+huile_olive 8 cas
+sel qs
+- Cuire doucement pommes de terre en fines tranches et oignon dans l'huile 20 minutes.
+- Égoutter et mélanger aux œufs battus salés.
+- Cuire dans une poêle 5 minutes, retourner à l'aide d'une assiette et cuire 3 minutes.
+
+## Frittata aux légumes | plat | facile | 15 | 20 | 4 | italienne | four,anti-gaspi
+oeuf 8
+courgette 1
+poivron_rouge 1
+oignon 1
+parmesan 40 g
+huile_olive 2 cas
+basilic 0.5 pot
+sel qs
+- Faire revenir les légumes en dés 10 minutes dans l'huile.
+- Battre les œufs avec parmesan et basilic, verser sur les légumes.
+- Cuire 2 minutes à feu doux puis 10 minutes au four à 180 °C.
+
+## Œufs cocotte à la crème | entree | facile | 5 | 12 | 4 | française | rapide
+oeuf 4
+creme_fraiche 4 cas
+ciboulette 0.5 botte
+pain_mie 4 tranche
+beurre 10 g
+sel qs
+- Beurrer 4 ramequins, y mettre une cuillère de crème et casser un œuf.
+- Saler, cuire au bain-marie au four 12 minutes à 180 °C.
+- Parsemer de ciboulette, servir avec des mouillettes.
+
+## Shakshuka | plat | facile | 10 | 25 | 4 | orientale | végétarien
+oeuf 6
+tomate_concassee 800 g
+poivron_rouge 2
+oignon 1
+ail 2 gousse
+cumin 1 cac
+paprika 1 cac
+huile_olive 2 cas
+coriandre 0.5 botte
+pain_pita 4
+sel qs
+- Faire revenir oignon et poivrons, ajouter ail, épices et tomates, mijoter 15 minutes.
+- Creuser des puits et y casser les œufs.
+- Couvrir et cuire 6 minutes. Parsemer de coriandre, servir avec le pain.
+
+## Œufs brouillés, champignons et pain grillé | plat | facile | 5 | 10 | 2 | française | rapide
+oeuf 5
+champignon 150 g
+beurre 20 g
+creme_fraiche 1 cas
+pain_campagne 4 tranche
+ciboulette 0.5 botte
+- Poêler les champignons au beurre.
+- Cuire les œufs à feu doux en remuant, ajouter la crème hors du feu.
+- Servir sur le pain grillé avec ciboulette.
+
+## Œufs mimosa | entree | facile | 15 | 10 | 4 | française | classique
+oeuf 6
+mayonnaise 4 cas
+moutarde 1 cac
+ciboulette 0.5 botte
+salade 0.5
+- Cuire les œufs 10 minutes, les écaler et les couper en deux.
+- Mélanger les jaunes avec la mayonnaise et la moutarde.
+- Garnir les blancs, parsemer de jaune émietté et de ciboulette.
+
+## Œufs en meurette | plat | moyen | 15 | 30 | 4 | bourguignonne | classique
+oeuf 8
+vin_rouge 50 cl
+echalote 3
+champignon 150 g
+beurre 40 g
+farine 1 cas
+baguette 1
+vinaigre 2 cas
+sel qs
+- Réduire le vin avec les échalotes de moitié, lier avec beurre et farine.
+- Poêler les champignons.
+- Pocher les œufs 3 minutes dans l'eau vinaigrée.
+- Servir les œufs sur des croûtons, nappés de sauce et de champignons.
+
+## Quiche aux poireaux | plat | facile | 20 | 40 | 6 | française | four,hiver
+pate_brisee 1
+poireau 3
+oeuf 3
+creme_liquide 20 cl
+lait 10 cl
+emmental_rape 60 g
+beurre 20 g
+muscade 1 pincee
+sel qs
+- Fondre les poireaux émincés au beurre 15 minutes.
+- Les répartir sur la pâte.
+- Verser œufs, crème, lait, fromage et muscade battus.
+- Cuire 40 minutes à 180 °C.
+
+## Quiche chèvre courgettes | plat | facile | 15 | 40 | 6 | française | four,été
+pate_brisee 1
+courgette 2
+chevre_buche 150 g
+oeuf 3
+creme_liquide 20 cl
+herbes_provence 1 cac
+huile_olive 1 cas
+sel qs
+- Faire revenir les courgettes en rondelles 8 minutes.
+- Les répartir sur la pâte avec le chèvre en rondelles.
+- Verser œufs et crème battus, parsemer d'herbes.
+- Cuire 40 minutes à 180 °C.
+
+## Quiche brocoli et comté | plat | facile | 15 | 40 | 6 | française | four
+pate_brisee 1
+brocoli 1
+comte 100 g
+oeuf 3
+creme_liquide 20 cl
+lait 10 cl
+sel qs
+- Blanchir le brocoli en fleurettes 4 minutes.
+- Répartir sur la pâte avec le comté râpé.
+- Verser œufs, crème et lait battus, cuire 40 minutes à 180 °C.
+
+## Tarte à la tomate et à la moutarde | plat | facile | 15 | 35 | 6 | française | four,été
+pate_brisee 1
+tomate 5
+moutarde 3 cas
+emmental_rape 80 g
+herbes_provence 1 cac
+huile_olive 2 cas
+sel qs
+- Tartiner le fond de pâte de moutarde, parsemer de fromage.
+- Disposer les tomates en rondelles, saler, ajouter les herbes et l'huile.
+- Cuire 35 minutes à 190 °C.
+
+## Tarte fine aux légumes et chèvre | plat | facile | 15 | 25 | 4 | française | four,été
+pate_feuilletee 1
+courgette 1
+tomate 2
+oignon_rouge 1
+chevre_buche 120 g
+huile_olive 2 cas
+thym 1 cac
+- Disposer la pâte sur une plaque, la piquer.
+- Répartir les légumes en fines tranches et le chèvre.
+- Arroser d'huile, parsemer de thym, cuire 25 minutes à 200 °C.
+
+## Tarte aux oignons | plat | facile | 20 | 45 | 6 | alsacienne | four,hiver
+pate_brisee 1
+oignon 6
+oeuf 3
+creme_liquide 20 cl
+beurre 30 g
+muscade 1 pincee
+sel qs
+- Faire fondre les oignons émincés au beurre 25 minutes sans coloration.
+- Les répartir sur la pâte.
+- Verser œufs, crème et muscade battus, cuire 35 minutes à 180 °C.
+
+## Tarte butternut, feta et noix | plat | facile | 15 | 40 | 6 | moderne | four,automne
+pate_brisee 1
+butternut 600 g
+feta 150 g
+noix 40 g
+oeuf 2
+creme_liquide 15 cl
+huile_olive 1 cas
+sel qs
+- Rôtir la courge en dés 15 minutes à 200 °C.
+- La répartir sur la pâte avec feta et noix.
+- Verser œufs et crème battus, cuire 30 minutes à 180 °C.
+
+## Feuilleté épinards feta | plat | moyen | 20 | 35 | 6 | grecque | four
+pate_filo 8
+epinard_surg 600 g
+feta 200 g
+oeuf 2
+oignon 1
+aneth 0.5 botte
+huile_olive 4 cas
+- Faire revenir l'oignon, ajouter les épinards et laisser évaporer l'eau.
+- Mélanger avec feta, œufs et aneth.
+- Superposer les feuilles badigeonnées d'huile dans un moule, garnir, replier.
+- Cuire 35 minutes à 180 °C.
+
+## Gratin dauphinois | plat | facile | 20 | 75 | 6 | française | four,classique
+pomme_de_terre 1.5 kg
+creme_liquide 40 cl
+lait 40 cl
+ail 1 gousse
+muscade 1 pincee
+beurre 10 g
+sel qs
+poivre qs
+- Frotter un plat à l'ail et le beurrer.
+- Disposer les pommes de terre en fines rondelles.
+- Chauffer lait, crème, muscade, sel et poivre, verser sur les pommes de terre.
+- Cuire 1 h 15 à 160 °C.
+
+## Gratin de chou-fleur | plat | facile | 15 | 30 | 4 | française | four,hiver
+chou_fleur 1
+beurre 40 g
+farine 40 g
+lait 50 cl
+emmental_rape 100 g
+muscade 1 pincee
+sel qs
+- Cuire le chou-fleur en fleurettes 10 minutes à l'eau salée.
+- Préparer une béchamel avec beurre, farine et lait, ajouter muscade et moitié du fromage.
+- Napper le chou-fleur, couvrir de fromage et gratiner 20 minutes à 200 °C.
+
+## Gratin de courgettes | plat | facile | 15 | 35 | 4 | française | four,été
+courgette 4
+oeuf 2
+creme_liquide 20 cl
+emmental_rape 80 g
+ail 1 gousse
+huile_olive 1 cas
+sel qs
+- Faire revenir les courgettes en rondelles 10 minutes.
+- Les mettre dans un plat, verser œufs, crème et ail battus.
+- Couvrir de fromage, cuire 25 minutes à 190 °C.
+
+## Gratin de butternut | plat | facile | 15 | 35 | 4 | française | four,automne
+butternut 1
+creme_liquide 20 cl
+emmental_rape 80 g
+muscade 1 pincee
+sel qs
+- Couper la courge en fines tranches.
+- Les disposer dans un plat, napper de crème muscadée.
+- Couvrir de fromage, cuire 35 minutes à 190 °C.
+
+## Gratin de pommes de terre et poireaux | plat | facile | 20 | 45 | 4 | française | four,hiver
+pomme_de_terre 800 g
+poireau 2
+creme_liquide 25 cl
+emmental_rape 80 g
+beurre 20 g
+sel qs
+- Faire fondre les poireaux émincés au beurre.
+- Alterner pommes de terre en rondelles et poireaux.
+- Verser la crème, couvrir de fromage, cuire 45 minutes à 190 °C.
+
+## Gratin d'endives au comté | plat | facile | 15 | 35 | 4 | française | four,hiver
+endive 8
+comte 100 g
+creme_liquide 20 cl
+beurre 20 g
+sel qs
+- Faire revenir les endives coupées en deux au beurre 15 minutes.
+- Les disposer dans un plat, napper de crème et de comté râpé.
+- Gratiner 20 minutes à 200 °C.
+
+## Ratatouille | plat | facile | 25 | 50 | 6 | provençale | été,végétal
+courgette 3
+aubergine 2
+poivron_rouge 2
+tomate 5
+oignon 2
+ail 3 gousse
+herbes_provence 1 cac
+huile_olive 6 cas
+sel qs
+- Faire revenir séparément les légumes coupés en dés dans l'huile.
+- Les réunir dans une cocotte avec ail et herbes.
+- Mijoter 40 minutes à couvert.
+
+## Tian provençal | plat | facile | 20 | 50 | 4 | provençale | four,été,végétal
+courgette 2
+aubergine 1
+tomate 4
+oignon 1
+ail 2 gousse
+thym 1 cac
+huile_olive 4 cas
+sel qs
+- Tapisser un plat d'oignon émincé et d'ail.
+- Disposer en rangs serrés les rondelles de légumes en alternant.
+- Arroser d'huile, parsemer de thym, cuire 50 minutes à 180 °C.
+
+## Aubergines à la parmigiana | plat | moyen | 25 | 40 | 4 | italienne | four,été
+aubergine 3
+coulis_tomate 500 g
+mozzarella 2
+parmesan 60 g
+basilic 0.5 pot
+huile_olive 5 cas
+sel qs
+- Griller les aubergines en tranches badigeonnées d'huile.
+- Alterner aubergines, coulis, mozzarella et parmesan dans un plat.
+- Cuire 40 minutes à 180 °C, ajouter le basilic.
+
+## Légumes farcis au riz et feta | plat | moyen | 25 | 45 | 4 | grecque | four,été
+tomate 4
+poivron_rouge 2
+riz 150 g
+feta 150 g
+oignon 1
+menthe 0.5 botte
+huile_olive 4 cas
+sel qs
+- Évider tomates et poivrons, hacher la pulpe.
+- Mélanger riz cru, pulpe, oignon, feta et menthe.
+- Farcir les légumes, arroser d'huile et ajouter un verre d'eau dans le plat.
+- Cuire 45 minutes à 180 °C.
+
+## Champignons farcis | entree | facile | 15 | 20 | 4 | française | four,apéro
+champignon 500 g
+fromage_frais_ail 150 g
+chapelure 30 g
+persil 0.5 botte
+- Retirer les pieds des champignons et les hacher.
+- Mélanger avec le fromage frais et le persil, farcir les têtes.
+- Parsemer de chapelure, cuire 20 minutes à 200 °C.
+
+## Poêlée de légumes et œufs au plat | plat | facile | 10 | 20 | 4 | française | rapide,anti-gaspi
+pomme_de_terre 600 g
+courgette 1
+poivron_rouge 1
+oignon 1
+oeuf 4
+huile_olive 3 cas
+paprika 1 cac
+sel qs
+- Faire sauter les pommes de terre en dés 15 minutes, ajouter les autres légumes.
+- Creuser des puits, casser les œufs, couvrir 5 minutes.
+
+## Pommes de terre au four et fromage blanc aux herbes | plat | facile | 10 | 50 | 4 | française | four,économique
+pomme_de_terre 1.2 kg
+fromage_blanc 300 g
+ciboulette 0.5 botte
+ail 1 gousse
+salade 1
+huile_olive 2 cas
+sel qs
+- Cuire les pommes de terre entières 50 minutes à 200 °C.
+- Mélanger fromage blanc, ail, ciboulette et sel.
+- Ouvrir les pommes de terre et garnir. Servir avec la salade.
+
+## Galettes de pommes de terre (röstis) | plat | facile | 15 | 20 | 4 | suisse | économique
+pomme_de_terre 800 g
+oignon 1
+oeuf 1
+farine 2 cas
+huile_tournesol 4 cas
+salade 1
+sel qs
+- Râper pommes de terre et oignon, bien les presser.
+- Mélanger avec l'œuf, la farine et le sel.
+- Cuire des galettes 5 minutes par face dans l'huile. Servir avec la salade.
+
+## Croquettes de légumes et fromage | plat | facile | 20 | 15 | 4 | française | enfants
+carotte 2
+courgette 1
+oeuf 2
+farine 60 g
+emmental_rape 80 g
+huile_tournesol 3 cas
+sel qs
+- Râper les légumes et les presser.
+- Mélanger avec œufs, farine et fromage.
+- Cuire des petites galettes à la poêle 3 minutes par face.
+
+## Gnocchis de patate douce | plat | difficile | 40 | 15 | 4 | italienne | fait-maison
+patate_douce 600 g
+farine 200 g
+parmesan 40 g
+beurre 40 g
+sel qs
+- Cuire la patate douce au four 45 minutes, la réduire en purée.
+- Ajouter farine et sel pour former une pâte souple, façonner des boudins et couper.
+- Pocher les gnocchis jusqu'à ce qu'ils remontent, les dorer au beurre.
+- Servir avec le parmesan.
+
+## Crêpes salées aux épinards et ricotta | plat | moyen | 20 | 25 | 4 | française | four
+farine 200 g
+oeuf 3
+lait 50 cl
+epinard_surg 400 g
+ricotta 250 g
+coulis_tomate 300 g
+emmental_rape 60 g
+sel qs
+- Préparer la pâte avec farine, œufs, lait et sel, cuire 8 crêpes.
+- Mélanger épinards pressés et ricotta.
+- Garnir et rouler les crêpes, les disposer sur le coulis.
+- Parsemer de fromage et cuire 20 minutes à 190 °C.
+
+## Chou-fleur rôti entier, sauce yaourt | plat | facile | 10 | 50 | 4 | orientale | four
+chou_fleur 1
+huile_olive 4 cas
+cumin 1 cac
+paprika 1 cac
+yaourt_grec 200 g
+citron 0.5
+semoule 250 g
+sel qs
+- Badigeonner le chou-fleur entier d'huile et d'épices.
+- Rôtir 50 minutes à 200 °C.
+- Mélanger yaourt et citron, servir avec la semoule.
+
+## Poêlée de champignons et polenta grillée | plat | facile | 10 | 20 | 4 | italienne | automne
+polenta 200 g
+champignon 400 g
+ail 2 gousse
+persil 0.5 botte
+parmesan 40 g
+beurre 30 g
+- Cuire la polenta dans 80 cl d'eau, l'étaler et la laisser prendre.
+- La couper en carrés et la griller à la poêle.
+- Poêler les champignons avec ail et persil, servir dessus avec le parmesan.
+
+## Patates douces farcies aux haricots | plat | facile | 10 | 45 | 4 | mexicaine | four,végétal
+patate_douce 4
+haricot_rouge 250 g
+mais_conserve 150 g
+tomate 2
+avocat 1
+citron_vert 1
+cumin 1 cac
+- Rôtir les patates douces entières 45 minutes à 200 °C.
+- Mélanger haricots, maïs, tomates en dés, cumin et citron vert.
+- Ouvrir les patates douces, garnir et ajouter l'avocat.
+
+## Tofu brouillé aux légumes | plat | facile | 5 | 10 | 2 | moderne | végétal,rapide
+tofu 300 g
+curcuma 1/2 cac
+tomate 1
+jeunes_pousses 60 g
+oignon 0.5
+huile_olive 1 cas
+pain_campagne 4 tranche
+sel qs
+- Faire revenir l'oignon, ajouter le tofu émietté et le curcuma.
+- Ajouter tomate et épinards, cuire 3 minutes.
+- Servir sur le pain grillé.
+
+## Burger végétarien à la feta grillée | plat | facile | 10 | 10 | 4 | moderne | été
+pain_burger 4
+feta 200 g
+aubergine 1
+tomate 1
+roquette 50 g
+pesto 4 cas
+huile_olive 3 cas
+- Griller l'aubergine en tranches et la feta en tranches épaisses.
+- Tartiner les pains de pesto.
+- Garnir d'aubergine, feta, tomate et roquette.
+
+## Cocotte de pommes de terre et champignons à la crème | plat | facile | 15 | 30 | 4 | française | hiver
+pomme_de_terre 800 g
+champignon 300 g
+oignon 1
+creme_fraiche 150 g
+thym 1 cac
+beurre 20 g
+sel qs
+- Faire dorer pommes de terre en dés et oignon au beurre 15 minutes.
+- Ajouter champignons et thym, cuire 10 minutes.
+- Ajouter la crème et laisser épaissir.
+
+## Soufflé au fromage | plat | difficile | 20 | 30 | 4 | française | four,classique
+oeuf 4
+beurre 40 g
+farine 40 g
+lait 30 cl
+comte 100 g
+muscade 1 pincee
+sel qs
+- Préparer une béchamel épaisse, hors du feu ajouter les jaunes et le comté.
+- Monter les blancs en neige ferme avec une pincée de sel et les incorporer délicatement.
+- Verser dans un moule beurré, cuire 30 minutes à 180 °C sans ouvrir le four.
+
+## Crozets façon tartiflette végétarienne | plat | facile | 10 | 30 | 4 | savoyarde | four,hiver
+penne 300 g
+reblochon 0.5
+oignon 2
+champignon 200 g
+creme_fraiche 100 g
+- Cuire les pâtes, faire revenir oignons et champignons.
+- Mélanger avec la crème dans un plat, couvrir de reblochon.
+- Gratiner 20 minutes à 200 °C.
+
+## Moussaka végétarienne aux lentilles | plat | moyen | 30 | 45 | 6 | grecque | four
+aubergine 3
+lentilles_vertes 200 g
+tomate_concassee 400 g
+oignon 1
+cannelle 1/2 cac
+beurre 40 g
+farine 40 g
+lait 50 cl
+parmesan 40 g
+huile_olive 5 cas
+sel qs
+- Rôtir les aubergines en tranches huilées 20 minutes.
+- Cuire les lentilles 25 minutes, les mélanger avec l'oignon revenu, les tomates et la cannelle.
+- Préparer une béchamel.
+- Monter en couches, finir par la béchamel et le parmesan, cuire 40 minutes à 180 °C.

@@ -1,0 +1,854 @@
+#! Plats : volaille
+## Poulet rôti et pommes de terre | plat | facile | 15 | 90 | 6 | française | four,familial,dimanche
+poulet_entier 1
+pomme_de_terre 1.2 kg
+ail 6 gousse
+thym 1 cac
+beurre 30 g
+huile_olive 2 cas
+sel qs
+poivre qs
+- Préchauffer le four à 200 °C. Frotter le poulet de beurre, sel, poivre et thym.
+- Disposer les pommes de terre en quartiers et l'ail en chemise autour, arroser d'huile.
+- Rôtir 1 h 30 en arrosant le poulet toutes les 20 minutes.
+- Laisser reposer 10 minutes avant de découper.
+
+## Poulet basquaise | plat | facile | 20 | 50 | 4 | basque | mijoté,été
+poulet_cuisse 4
+poivron_rouge 2
+poivron_vert 1
+oignon 2
+ail 2 gousse
+tomate 4
+piment_espelette 1 cac
+vin_blanc 10 cl
+huile_olive 3 cas
+riz 300 g
+sel qs
+- Faire dorer les cuisses dans l'huile, réserver.
+- Faire revenir oignons et poivrons en lanières 10 minutes, ajouter l'ail et les tomates en morceaux.
+- Remettre le poulet, ajouter le vin et le piment, couvrir et mijoter 40 minutes.
+- Servir avec le riz.
+
+## Poulet au curry et lait de coco | plat | facile | 15 | 30 | 4 | indienne | rapide,épicé
+poulet_blanc 600 g
+lait_coco 40 cl
+oignon 1
+ail 2 gousse
+gingembre 15 g
+curry 2 cac
+curcuma 1 cac
+tomate_concassee 200 g
+coriandre 0.5 botte
+riz_basmati 300 g
+huile_tournesol 2 cas
+sel qs
+- Faire revenir oignon, ail et gingembre dans l'huile, ajouter les épices.
+- Ajouter le poulet en cubes et le faire dorer.
+- Verser tomates et lait de coco, mijoter 20 minutes.
+- Parsemer de coriandre et servir avec le riz basmati.
+
+## Poulet tikka masala | plat | moyen | 20 | 35 | 4 | indienne | épicé
+poulet_blanc 600 g
+yaourt_nature 2
+garam_massala 2 cac
+paprika 1 cac
+cumin 1 cac
+coulis_tomate 400 g
+creme_liquide 20 cl
+oignon 1
+ail 2 gousse
+gingembre 15 g
+beurre 30 g
+riz_basmati 300 g
+sel qs
+- Mariner le poulet en cubes avec le yaourt et la moitié des épices au moins 30 minutes.
+- Le faire griller à la poêle, réserver.
+- Faire revenir oignon, ail et gingembre au beurre, ajouter le reste des épices, le coulis et la crème.
+- Remettre le poulet et mijoter 15 minutes. Servir avec le riz.
+
+## Poulet à la crème et aux champignons | plat | facile | 10 | 25 | 4 | française | rapide,familial
+poulet_blanc 600 g
+champignon 300 g
+creme_liquide 25 cl
+echalote 2
+beurre 20 g
+vin_blanc 10 cl
+riz 300 g
+sel qs
+poivre qs
+- Faire dorer le poulet en morceaux au beurre, réserver.
+- Faire revenir échalotes et champignons, déglacer au vin.
+- Ajouter la crème et le poulet, mijoter 10 minutes.
+- Servir avec le riz.
+
+## Coq au vin | plat | moyen | 30 | 120 | 6 | française | mijoté,hiver
+poulet_entier 1
+vin_rouge 75 cl
+lardons 150 g
+champignon 250 g
+oignon 2
+carotte 2
+ail 2 gousse
+farine 2 cas
+thym 1 cac
+laurier 2 feuille
+beurre 30 g
+pomme_de_terre 1 kg
+sel qs
+poivre qs
+- Découper le poulet et le faire dorer au beurre avec les lardons.
+- Ajouter oignons et carottes, saupoudrer de farine, mouiller avec le vin.
+- Ajouter ail, thym, laurier, couvrir et mijoter 1 h 30.
+- Ajouter les champignons 20 minutes avant la fin. Servir avec des pommes de terre vapeur.
+
+## Poulet Vallée d'Auge | plat | moyen | 20 | 50 | 4 | normande | mijoté,automne
+poulet_cuisse 4
+pomme 3
+champignon 200 g
+cidre 25 cl
+creme_fraiche 200 g
+oignon 1
+beurre 30 g
+sel qs
+poivre qs
+- Faire dorer les cuisses au beurre avec l'oignon.
+- Ajouter le cidre, couvrir et cuire 35 minutes.
+- Poêler les pommes en quartiers et les champignons au beurre.
+- Ajouter la crème au poulet, réduire 5 minutes et servir avec les pommes.
+
+## Poulet au citron et aux olives | plat | facile | 15 | 50 | 4 | marocaine | mijoté
+poulet_cuisse 4
+citron 2
+olive_verte 150 g
+oignon 2
+ail 2 gousse
+gingembre_poudre 1 cac
+curcuma 1 cac
+coriandre 0.5 botte
+huile_olive 3 cas
+semoule 300 g
+sel qs
+- Faire dorer les cuisses dans l'huile avec les oignons émincés et les épices.
+- Ajouter 30 cl d'eau, l'ail et un citron en quartiers, couvrir et cuire 40 minutes.
+- Ajouter les olives et le jus du second citron, poursuivre 10 minutes.
+- Parsemer de coriandre et servir avec la semoule.
+
+## Tajine de poulet aux légumes | plat | facile | 20 | 50 | 4 | marocaine | mijoté
+poulet_haut_cuisse 600 g
+carotte 3
+courgette 2
+pomme_de_terre 400 g
+oignon 1
+ras_el_hanout 2 cac
+tomate_concassee 400 g
+huile_olive 2 cas
+coriandre 0.5 botte
+sel qs
+- Faire dorer le poulet dans l'huile avec l'oignon et les épices.
+- Ajouter carottes, pommes de terre et tomates, couvrir d'eau à mi-hauteur.
+- Mijoter 30 minutes, ajouter les courgettes et poursuivre 15 minutes.
+- Servir parsemé de coriandre.
+
+## Poulet teriyaki | plat | facile | 10 | 15 | 4 | japonaise | rapide
+poulet_haut_cuisse 600 g
+sauce_soja 6 cas
+miel 2 cas
+vinaigre_cidre 1 cas
+gingembre 10 g
+ail 1 gousse
+graines_sesame 1 cas
+riz 300 g
+brocoli 1
+- Cuire le riz et le brocoli en fleurettes à la vapeur.
+- Faire dorer le poulet en morceaux à la poêle 8 minutes.
+- Ajouter sauce soja, miel, vinaigre, gingembre et ail râpés, laisser caraméliser 5 minutes.
+- Parsemer de sésame et servir avec le riz et le brocoli.
+
+## Poulet aux noix de cajou | plat | facile | 15 | 15 | 4 | chinoise | wok,rapide
+poulet_blanc 500 g
+noix_cajou 80 g
+poivron_rouge 1
+oignon 1
+sauce_soja 4 cas
+sauce_huitre 2 cas
+maizena 1 cas
+ail 2 gousse
+huile_tournesol 2 cas
+riz 300 g
+- Enrober le poulet en dés de fécule et le saisir dans le wok, réserver.
+- Faire griller les noix de cajou à sec.
+- Sauter oignon, poivron et ail 4 minutes, remettre le poulet et les sauces.
+- Ajouter les noix de cajou et servir avec le riz.
+
+## Poulet aigre-doux | plat | facile | 15 | 20 | 4 | chinoise | familial
+poulet_blanc 500 g
+ananas 0.5
+poivron_rouge 1
+poivron_vert 1
+oignon 1
+ketchup 3 cas
+vinaigre_cidre 3 cas
+sucre 2 cas
+sauce_soja 2 cas
+maizena 2 cas
+huile_tournesol 3 cas
+riz 300 g
+- Enrober le poulet en dés de fécule et le dorer dans l'huile.
+- Ajouter poivrons et oignon en morceaux, cuire 5 minutes.
+- Mélanger ketchup, vinaigre, sucre, sauce soja et 10 cl d'eau, verser dans la poêle avec l'ananas.
+- Laisser épaissir 3 minutes et servir avec le riz.
+
+## Pad thaï au poulet | plat | moyen | 20 | 10 | 4 | thaïlandaise | wok
+nouilles_riz 250 g
+poulet_blanc 400 g
+oeuf 2
+cacahuete 60 g
+oignon_nouveau 0.5
+nuoc_mam 3 cas
+sucre_roux 2 cas
+citron_vert 1
+sauce_soja 2 cas
+ail 2 gousse
+huile_tournesol 2 cas
+coriandre 0.5 botte
+- Faire tremper les nouilles dans l'eau chaude 10 minutes.
+- Saisir le poulet émincé avec l'ail, pousser sur le côté et brouiller les œufs.
+- Ajouter les nouilles égouttées, le nuoc-mâm, la sauce soja et le sucre, mélanger 3 minutes.
+- Servir avec cacahuètes concassées, oignon nouveau, coriandre et citron vert.
+
+## Riz cantonais | plat | facile | 15 | 10 | 4 | chinoise | rapide,anti-gaspi
+riz 300 g
+oeuf 3
+jambon_blanc 3 tranche
+petit_pois_surg 150 g
+oignon_nouveau 0.5
+sauce_soja 3 cas
+huile_tournesol 2 cas
+- Cuire le riz la veille ou le laisser refroidir complètement.
+- Brouiller les œufs dans le wok, réserver.
+- Faire sauter le riz avec les petits pois et le jambon en dés 5 minutes.
+- Ajouter les œufs, la sauce soja et l'oignon nouveau.
+
+## Nouilles sautées au poulet et légumes | plat | facile | 15 | 10 | 4 | chinoise | wok,rapide
+nouilles_ble 250 g
+poulet_blanc 400 g
+carotte 2
+chou_chinois 300 g
+oignon 1
+sauce_soja 4 cas
+sauce_huitre 1 cas
+huile_sesame 1 cas
+gingembre 10 g
+- Cuire les nouilles selon le paquet et les égoutter.
+- Saisir le poulet émincé avec le gingembre.
+- Ajouter carottes en julienne, chou et oignon émincés, sauter 4 minutes.
+- Ajouter nouilles et sauces, mélanger et terminer par l'huile de sésame.
+
+## Fried rice au poulet et ananas | plat | facile | 15 | 10 | 4 | thaïlandaise | wok
+riz 300 g
+poulet_blanc 300 g
+ananas 0.3
+oeuf 2
+oignon 1
+nuoc_mam 2 cas
+sauce_soja 2 cas
+curry 1 cac
+noix_cajou 50 g
+huile_tournesol 2 cas
+- Utiliser du riz cuit refroidi.
+- Saisir le poulet en dés avec l'oignon et le curry.
+- Ajouter le riz, l'ananas en dés et les sauces, sauter 5 minutes.
+- Pousser sur le côté, brouiller les œufs puis mélanger. Parsemer de noix de cajou.
+
+## Curry vert de poulet | plat | facile | 15 | 20 | 4 | thaïlandaise | épicé
+poulet_blanc 500 g
+pate_curry 2 cas
+lait_coco 40 cl
+haricot_vert 200 g
+courgette 1
+nuoc_mam 1 cas
+sucre_roux 1 cac
+basilic 0.5 pot
+riz 300 g
+- Faire chauffer la pâte de curry avec un peu de lait de coco 2 minutes.
+- Ajouter le poulet en lamelles, puis le reste du lait de coco.
+- Ajouter haricots et courgette en dés, mijoter 12 minutes.
+- Assaisonner de nuoc-mâm et sucre, ajouter le basilic et servir avec le riz.
+
+## Escalopes de poulet panées | plat | facile | 15 | 10 | 4 | française | enfants,rapide
+poulet_blanc 4
+oeuf 2
+farine 50 g
+chapelure 100 g
+huile_tournesol 4 cas
+citron 1
+haricot_vert_surg 500 g
+sel qs
+- Aplatir les blancs de poulet.
+- Les passer dans la farine, l'œuf battu puis la chapelure.
+- Les cuire 4 à 5 minutes par face dans l'huile.
+- Servir avec des quartiers de citron et des haricots verts.
+
+## Nuggets maison | plat | facile | 20 | 15 | 4 | américaine | enfants,four
+poulet_blanc 500 g
+oeuf 1
+chapelure 80 g
+paprika 1 cac
+farine 40 g
+huile_tournesol 2 cas
+pomme_de_terre 800 g
+ketchup 4 cas
+sel qs
+- Couper le poulet en morceaux, les passer dans la farine, l'œuf puis la chapelure au paprika.
+- Disposer sur une plaque, arroser d'un filet d'huile.
+- Cuire 15 minutes à 210 °C en retournant à mi-cuisson.
+- Servir avec des potatoes au four et du ketchup.
+
+## Cordon bleu maison | plat | moyen | 20 | 15 | 4 | française | enfants
+dinde_escalope 4
+jambon_blanc 2 tranche
+emmental_rape 80 g
+oeuf 2
+farine 40 g
+chapelure 100 g
+huile_tournesol 4 cas
+salade 0.5
+- Ouvrir les escalopes en portefeuille, garnir d'une demi-tranche de jambon et de fromage.
+- Refermer, paner farine, œuf, chapelure.
+- Cuire 6 minutes par face à feu moyen dans l'huile.
+- Servir avec une salade verte.
+
+## Émincé de dinde à la moutarde | plat | facile | 10 | 15 | 4 | française | rapide
+dinde_escalope 500 g
+moutarde 2 cas
+creme_legere 20 cl
+oignon 1
+beurre 15 g
+coquillettes 300 g
+sel qs
+poivre qs
+- Faire dorer la dinde émincée et l'oignon au beurre.
+- Ajouter crème et moutarde, mijoter 5 minutes.
+- Servir avec les pâtes.
+
+## Dinde au paprika | plat | facile | 15 | 25 | 4 | hongroise | mijoté
+dinde_escalope 500 g
+paprika 2 cac
+oignon 2
+poivron_rouge 1
+tomate_concassee 400 g
+creme_fraiche 100 g
+huile_tournesol 2 cas
+riz 300 g
+sel qs
+- Faire revenir oignons et poivron dans l'huile.
+- Ajouter la dinde en cubes et le paprika, dorer 5 minutes.
+- Ajouter les tomates et mijoter 15 minutes, puis la crème.
+- Servir avec le riz.
+
+## Blanquette de dinde express | plat | facile | 15 | 30 | 4 | française | économique
+dinde_escalope 600 g
+carotte 2
+champignon 200 g
+bouillon_volaille 1 cube
+creme_legere 20 cl
+maizena 1 cas
+citron 0.5
+riz 300 g
+sel qs
+- Pocher la dinde en cubes et les carottes 20 minutes dans 50 cl d'eau avec le cube.
+- Ajouter les champignons 5 minutes.
+- Lier le bouillon avec la fécule délayée et la crème, ajouter le jus de citron.
+- Servir avec le riz.
+
+## Wraps au poulet croustillant | plat | facile | 20 | 15 | 4 | américaine | rapide,été
+poulet_blanc 400 g
+tortilla 4
+chapelure 60 g
+oeuf 1
+salade 0.5
+tomate 2
+cheddar 4 tranche
+mayonnaise 3 cas
+huile_tournesol 3 cas
+- Paner les lanières de poulet œuf puis chapelure et les cuire à la poêle.
+- Chauffer les tortillas.
+- Garnir de mayonnaise, salade, tomate, cheddar et poulet.
+- Rouler bien serré et couper en deux.
+
+## Poulet yassa | plat | moyen | 20 | 45 | 4 | sénégalaise | mijoté
+poulet_cuisse 4
+oignon 5
+citron 3
+moutarde 2 cas
+ail 2 gousse
+piment_frais 1
+huile_tournesol 3 cas
+riz 300 g
+sel qs
+- Mariner le poulet avec oignons émincés, jus de citron, moutarde et ail au moins 1 h.
+- Griller le poulet à la poêle, réserver.
+- Faire fondre les oignons de la marinade 15 minutes, ajouter la marinade et 20 cl d'eau.
+- Remettre le poulet et le piment, mijoter 25 minutes. Servir avec le riz.
+
+## Poulet mafé | plat | moyen | 20 | 50 | 4 | sénégalaise | mijoté
+poulet_haut_cuisse 600 g
+beurre_cacahuete 150 g
+tomate_concassee 400 g
+concentre_tomate 2 cas
+oignon 2
+patate_douce 400 g
+carotte 2
+piment_poudre 1 pincee
+riz 300 g
+huile_tournesol 2 cas
+sel qs
+- Faire dorer le poulet et les oignons dans l'huile.
+- Ajouter tomates, concentré et 50 cl d'eau, puis le beurre de cacahuète délayé.
+- Ajouter patate douce et carottes en morceaux, mijoter 40 minutes.
+- Servir avec le riz.
+
+## Poulet tandoori au four | plat | facile | 15 | 35 | 4 | indienne | four
+poulet_cuisse 4
+yaourt_nature 2
+paprika 2 cac
+garam_massala 1 cac
+curcuma 1 cac
+citron 1
+ail 2 gousse
+riz_basmati 300 g
+concombre 0.5
+sel qs
+- Mélanger yaourt, épices, ail, jus de citron et sel, y mariner le poulet entaillé au moins 2 h.
+- Cuire 35 minutes à 210 °C.
+- Servir avec le riz et des rondelles de concombre.
+
+## Poulet satay | plat | facile | 20 | 15 | 4 | indonésienne | barbecue
+poulet_blanc 500 g
+beurre_cacahuete 4 cas
+lait_coco 20 cl
+sauce_soja 2 cas
+curry 1 cac
+citron_vert 1
+sucre_roux 1 cas
+riz 300 g
+concombre 0.5
+- Mariner le poulet en lanières avec la sauce soja et le curry, l'enfiler sur des brochettes.
+- Griller 8 à 10 minutes.
+- Chauffer lait de coco, beurre de cacahuète, sucre et jus de citron vert jusqu'à obtenir une sauce lisse.
+- Servir avec le riz, le concombre et la sauce.
+
+## Fajitas au poulet | plat | facile | 20 | 10 | 4 | mexicaine | convivial
+poulet_blanc 500 g
+tortilla 8
+poivron_rouge 1
+poivron_jaune 1
+oignon 1
+paprika 1 cac
+cumin 1 cac
+citron_vert 1
+creme_fraiche 100 g
+emmental_rape 60 g
+huile_tournesol 2 cas
+- Mariner le poulet émincé avec les épices et le citron vert.
+- Le saisir, puis faire sauter poivrons et oignon.
+- Garnir les tortillas de poulet, légumes, crème et fromage.
+
+## Quesadillas poulet maïs | plat | facile | 15 | 10 | 4 | mexicaine | rapide
+tortilla 8
+poulet_blanc 300 g
+mais_conserve 150 g
+emmental_rape 150 g
+poivron_rouge 1
+cumin 1 cac
+salade 0.5
+- Cuire le poulet émincé avec le cumin et le poivron.
+- Garnir une tortilla de fromage, poulet et maïs, couvrir d'une autre tortilla.
+- Dorer 2 minutes par face dans une poêle sèche.
+- Couper en quartiers, servir avec la salade.
+
+## Burrito bowl au poulet | plat | facile | 20 | 20 | 4 | mexicaine | équilibré
+poulet_blanc 400 g
+riz 250 g
+haricot_rouge 250 g
+mais_conserve 150 g
+tomate 2
+avocat 1
+citron_vert 1
+cumin 1 cac
+paprika 1 cac
+creme_fraiche 100 g
+coriandre 0.5 botte
+sel qs
+- Cuire le riz.
+- Saisir le poulet émincé avec les épices.
+- Répartir dans des bols riz, haricots, maïs, tomates, avocat et poulet.
+- Ajouter crème, coriandre et jus de citron vert.
+
+## Poulet grillé, salade de pâtes au pesto | plat | facile | 15 | 15 | 4 | italienne | été
+poulet_blanc 500 g
+fusilli 300 g
+pesto 100 g
+tomate_cerise 250 g
+mozzarella 1
+roquette 60 g
+huile_olive 1 cas
+sel qs
+- Cuire les pâtes, les rincer à l'eau froide et les mélanger au pesto.
+- Griller le poulet 5 minutes par face, le trancher.
+- Ajouter tomates cerises, mozzarella en dés et roquette.
+- Servir avec le poulet tranché.
+
+## Saltimbocca de poulet | plat | moyen | 15 | 15 | 4 | italienne | rapide
+poulet_blanc 4
+jambon_cru 4 tranche
+basilic 0.5 pot
+vin_blanc 10 cl
+beurre 30 g
+tagliatelles 300 g
+poivre qs
+- Aplatir les blancs, poser une feuille de basilic et une tranche de jambon cru, fixer avec un pique.
+- Cuire au beurre 5 minutes par face.
+- Déglacer au vin blanc et réduire.
+- Servir avec les pâtes nappées de jus.
+
+## Poulet parmigiana | plat | moyen | 20 | 25 | 4 | italienne | four
+poulet_blanc 4
+chapelure 80 g
+oeuf 1
+parmesan 40 g
+coulis_tomate 400 g
+mozzarella 2
+basilic 0.5 pot
+huile_olive 3 cas
+spaghetti 300 g
+- Paner les blancs aplatis œuf puis chapelure mêlée de parmesan, les dorer dans l'huile.
+- Les disposer dans un plat, napper de coulis et couvrir de mozzarella.
+- Gratiner 15 minutes à 200 °C.
+- Servir avec les spaghetti et du basilic.
+
+## Risotto au poulet et champignons | plat | moyen | 15 | 30 | 4 | italienne | réconfortant
+riz_arborio 300 g
+poulet_blanc 300 g
+champignon 250 g
+oignon 1
+vin_blanc 10 cl
+bouillon_volaille 2 cube
+parmesan 50 g
+beurre 30 g
+huile_olive 1 cas
+- Préparer 1 litre de bouillon chaud.
+- Dorer le poulet en dés et les champignons, réserver.
+- Faire nacrer le riz avec l'oignon, déglacer au vin, puis ajouter le bouillon louche par louche pendant 18 minutes.
+- Incorporer poulet, champignons, beurre et parmesan.
+
+## Paëlla | plat | difficile | 30 | 45 | 6 | espagnole | convivial,été
+riz 450 g
+poulet_haut_cuisse 500 g
+chorizo 100 g
+crevette_crue 300 g
+moule 500 g
+calamar 200 g
+poivron_rouge 1
+petit_pois_surg 150 g
+oignon 1
+ail 2 gousse
+tomate_concassee 200 g
+safran 1 dose
+bouillon_volaille 2 cube
+huile_olive 4 cas
+citron 1
+sel qs
+- Dorer le poulet dans l'huile dans une grande poêle, ajouter chorizo, oignon, ail et poivron.
+- Ajouter les calamars et la tomate, puis le riz, et bien enrober.
+- Verser 1,2 litre de bouillon safrané, cuire 15 minutes sans remuer.
+- Ajouter crevettes, moules et petits pois, poursuivre 10 minutes. Servir avec le citron.
+
+## Aiguillettes de poulet au miel et citron | plat | facile | 10 | 15 | 4 | française | rapide
+poulet_blanc 500 g
+miel 2 cas
+citron 1
+sauce_soja 2 cas
+thym 1 cac
+huile_olive 1 cas
+riz 300 g
+haricot_vert_surg 400 g
+- Dorer les aiguillettes dans l'huile 6 minutes.
+- Ajouter miel, jus et zeste de citron, sauce soja et thym, laisser caraméliser.
+- Servir avec le riz et les haricots verts.
+
+## Cuisses de poulet rôties au paprika | plat | facile | 10 | 45 | 4 | française | four,économique
+poulet_cuisse 4
+paprika_fume 2 cac
+ail_semoule 1 cac
+huile_olive 3 cas
+patate_douce 600 g
+oignon_rouge 1
+sel qs
+- Frotter les cuisses d'huile, paprika, ail et sel.
+- Disposer sur une plaque avec la patate douce en cubes et l'oignon en quartiers.
+- Rôtir 45 minutes à 200 °C.
+
+## Poulet au four, légumes du soleil | plat | facile | 15 | 45 | 4 | provençale | four,été
+poulet_haut_cuisse 600 g
+courgette 2
+aubergine 1
+poivron_rouge 1
+tomate 2
+oignon_rouge 1
+herbes_provence 1 cac
+huile_olive 4 cas
+sel qs
+- Couper les légumes en gros morceaux.
+- Les mélanger avec le poulet, l'huile et les herbes dans un plat.
+- Rôtir 45 minutes à 200 °C en remuant à mi-cuisson.
+
+## Waterzoï de poulet | plat | moyen | 25 | 40 | 4 | belge | hiver
+poulet_blanc 600 g
+poireau 2
+carotte 3
+celeri_branche 2
+pomme_de_terre 600 g
+bouillon_volaille 2 cube
+creme_liquide 20 cl
+oeuf 1
+beurre 20 g
+persil 0.5 botte
+sel qs
+- Faire suer les légumes émincés au beurre.
+- Ajouter 1 litre de bouillon, les pommes de terre et le poulet en morceaux, cuire 30 minutes.
+- Lier avec la crème mélangée au jaune d'œuf, sans faire bouillir.
+- Servir en assiette creuse, parsemé de persil.
+
+## Poule au pot express | plat | facile | 20 | 60 | 4 | française | hiver
+poulet_cuisse 4
+carotte 3
+poireau 2
+navet 2
+oignon 1
+clou_girofle 2
+bouillon_volaille 1 cube
+riz 250 g
+thym 1 cac
+sel qs
+- Couvrir les cuisses d'eau avec le cube, l'oignon piqué de clous et le thym.
+- Porter à frémissement 20 minutes, ajouter les légumes, cuire 35 minutes.
+- Cuire le riz dans un peu de bouillon.
+- Servir le poulet et les légumes avec le riz.
+
+## Poulet aux 40 gousses d'ail | plat | facile | 10 | 75 | 4 | provençale | four
+poulet_cuisse 4
+ail 20 gousse
+thym 1 cac
+romarin 1 cac
+huile_olive 3 cas
+vin_blanc 10 cl
+baguette 1
+sel qs
+poivre qs
+- Disposer les cuisses dans une cocotte avec les gousses d'ail en chemise, les herbes et l'huile.
+- Arroser de vin, fermer hermétiquement.
+- Cuire 1 h 15 à 180 °C.
+- Servir avec le pain grillé pour tartiner l'ail confit.
+
+## Poulet shawarma | plat | facile | 20 | 20 | 4 | libanaise | convivial
+poulet_haut_cuisse 600 g
+pain_pita 4
+yaourt_grec 150 g
+tahini 2 cas
+citron 1
+cumin 1 cac
+paprika 1 cac
+cannelle 1 pincee
+ail 2 gousse
+tomate 2
+oignon_rouge 1
+salade 0.5
+huile_olive 2 cas
+sel qs
+- Mariner le poulet avec huile, épices, ail et la moitié du citron.
+- Le griller 15 minutes, puis l'émincer.
+- Mélanger yaourt, tahini et reste de citron pour la sauce.
+- Garnir les pitas de poulet, crudités et sauce.
+
+## Brochettes de poulet yakitori | plat | facile | 20 | 10 | 4 | japonaise | barbecue,apéro
+poulet_haut_cuisse 600 g
+oignon_nouveau 1
+sauce_soja 5 cas
+sucre 2 cas
+miel 1 cas
+gingembre 10 g
+riz 300 g
+graines_sesame 1 cas
+- Faire réduire sauce soja, sucre, miel et gingembre de moitié.
+- Enfiler poulet et tronçons d'oignon nouveau sur des brochettes.
+- Griller en badigeonnant de sauce plusieurs fois.
+- Parsemer de sésame, servir avec le riz.
+
+## Poulet sauce aux poivrons et chorizo | plat | facile | 15 | 30 | 4 | espagnole | mijoté
+poulet_blanc 500 g
+chorizo 80 g
+poivron_rouge 2
+oignon 1
+tomate_concassee 400 g
+paprika_fume 1 cac
+huile_olive 2 cas
+riz 300 g
+- Dorer le chorizo en rondelles puis le poulet en cubes.
+- Ajouter oignon et poivrons émincés, cuire 5 minutes.
+- Ajouter tomates et paprika, mijoter 20 minutes. Servir avec le riz.
+
+## Tagliatelles au poulet et pesto | plat | facile | 10 | 15 | 4 | italienne | rapide
+tagliatelles 350 g
+poulet_blanc 400 g
+pesto 100 g
+creme_legere 10 cl
+tomate_sechee 60 g
+parmesan 30 g
+huile_olive 1 cas
+- Cuire les pâtes.
+- Dorer le poulet en lamelles dans l'huile.
+- Ajouter pesto, crème et tomates séchées, mélanger avec les pâtes.
+- Servir avec le parmesan.
+
+## Gratin de poulet au brocoli | plat | facile | 15 | 30 | 4 | française | four
+poulet_blanc 400 g
+brocoli 1
+beurre 30 g
+farine 30 g
+lait 50 cl
+emmental_rape 80 g
+muscade 1 pincee
+sel qs
+- Cuire le brocoli en fleurettes 5 minutes à la vapeur.
+- Dorer le poulet en dés.
+- Préparer une béchamel avec beurre, farine, lait et muscade.
+- Mélanger le tout dans un plat, parsemer de fromage et gratiner 20 minutes à 200 °C.
+
+## Croquettes de dinde et purée de carottes | plat | facile | 20 | 25 | 4 | française | enfants
+dinde_escalope 400 g
+oeuf 1
+chapelure 60 g
+oignon 1
+persil 0.5 botte
+carotte 800 g
+beurre 30 g
+huile_tournesol 3 cas
+sel qs
+- Mixer la dinde avec l'oignon, le persil, l'œuf et 30 g de chapelure, former des croquettes.
+- Les rouler dans le reste de chapelure et les cuire 10 minutes à la poêle.
+- Cuire les carottes 20 minutes et les mixer avec le beurre.
+
+## Poulet au Boursin et pommes de terre | plat | facile | 10 | 40 | 4 | française | four,familial
+poulet_blanc 4
+fromage_frais_ail 150 g
+pomme_de_terre 800 g
+creme_legere 20 cl
+sel qs
+poivre qs
+- Disposer les pommes de terre en rondelles dans un plat, poser les blancs de poulet dessus.
+- Mélanger le fromage frais et la crème, napper le tout.
+- Couvrir et cuire 40 minutes à 200 °C.
+
+## Pilons de poulet laqués | plat | facile | 10 | 40 | 4 | américaine | four,enfants
+poulet_cuisse 4
+ketchup 3 cas
+miel 2 cas
+sauce_soja 2 cas
+paprika 1 cac
+mais_epi 2
+pomme_de_terre 600 g
+huile_tournesol 2 cas
+- Mélanger ketchup, miel, sauce soja et paprika, enrober le poulet.
+- Cuire 40 minutes à 200 °C en badigeonnant à mi-cuisson.
+- Servir avec les épis de maïs grillés et des pommes de terre rôties.
+
+## Bouillon de poulet aux nouilles | plat | facile | 15 | 30 | 4 | asiatique | hiver,léger
+poulet_blanc 300 g
+nouilles_ble 150 g
+bouillon_volaille 2 cube
+carotte 2
+champignon_shiitake 100 g
+gingembre 15 g
+sauce_soja 3 cas
+oignon_nouveau 0.5
+chou_chinois 200 g
+- Porter 1,5 litre d'eau à ébullition avec les cubes, le gingembre et la sauce soja.
+- Pocher le poulet 15 minutes, l'effilocher.
+- Ajouter carottes, champignons et chou, cuire 8 minutes, puis les nouilles.
+- Remettre le poulet, parsemer d'oignon nouveau.
+
+## Poulet korma | plat | moyen | 15 | 30 | 4 | indienne | doux
+poulet_blanc 600 g
+yaourt_nature 2
+creme_liquide 15 cl
+amande_poudre 40 g
+oignon 1
+ail 2 gousse
+gingembre 10 g
+garam_massala 2 cac
+cardamome 1/2 cac
+beurre 20 g
+riz_basmati 300 g
+sel qs
+- Faire fondre oignon, ail et gingembre au beurre, ajouter les épices.
+- Ajouter le poulet en cubes, le dorer.
+- Ajouter yaourt, crème et poudre d'amande, mijoter 20 minutes.
+- Servir avec le riz.
+
+## Poulet piri-piri et riz aux haricots | plat | facile | 15 | 35 | 4 | portugaise | four,épicé
+poulet_cuisse 4
+piment_poudre 1 cac
+paprika 2 cac
+citron 1
+ail 3 gousse
+huile_olive 4 cas
+riz 250 g
+haricot_rouge 250 g
+sel qs
+- Mixer huile, ail, jus de citron, paprika, piment et sel, badigeonner le poulet.
+- Rôtir 35 minutes à 210 °C.
+- Cuire le riz et y mélanger les haricots chauds.
+
+## Poêlée de gnocchis au poulet et épinards | plat | facile | 5 | 15 | 4 | italienne | rapide
+gnocchis 500 g
+poulet_blanc 300 g
+jeunes_pousses 125 g
+creme_legere 15 cl
+parmesan 30 g
+ail 1 gousse
+huile_olive 1 cas
+- Dorer les gnocchis à la poêle 8 minutes, réserver.
+- Saisir le poulet en dés avec l'ail.
+- Ajouter crème et épinards, laisser tomber 2 minutes.
+- Remettre les gnocchis et parsemer de parmesan.
+
+## Poulet Marengo | plat | moyen | 20 | 50 | 4 | française | mijoté
+poulet_cuisse 4
+tomate_concassee 400 g
+champignon 200 g
+oignon 1
+ail 2 gousse
+vin_blanc 15 cl
+huile_olive 2 cas
+persil 0.5 botte
+pomme_de_terre 800 g
+sel qs
+- Dorer le poulet dans l'huile avec l'oignon.
+- Ajouter ail, vin, tomates, couvrir et mijoter 35 minutes.
+- Ajouter les champignons et poursuivre 15 minutes.
+- Parsemer de persil, servir avec des pommes de terre vapeur.
+
+## Galettes de sarrasin poulet champignons | plat | moyen | 20 | 20 | 4 | bretonne | crêperie
+farine_sarrasin 250 g
+oeuf 1
+poulet_blanc 300 g
+champignon 250 g
+creme_fraiche 100 g
+emmental_rape 80 g
+beurre 30 g
+sel qs
+- Mélanger la farine avec 60 cl d'eau, l'œuf et le sel, reposer 1 h.
+- Cuire le poulet émincé et les champignons, ajouter la crème.
+- Cuire les galettes dans une poêle beurrée, garnir de fromage et de poulet, plier.

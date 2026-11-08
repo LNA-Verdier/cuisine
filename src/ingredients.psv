@@ -1,0 +1,376 @@
+# Référentiel d'ingrédients (séparateur |)
+# key|nom|rayon|base|densite|poids_u|achat_qte|achat_lib|prix_achat|kcal|prot|gluc|lip|allergenes|marqueurs|saison
+# base : unité de stockage (g, ml, u). densite : g par ml (défaut 1, 0,6 pour les poudres en cuillère). poids_u : g comestibles par pièce (hors os, arêtes).
+# achat_qte : quantité vendue (dans l'unité de base). prix_achat : € pour cette quantité (estimation France 2026).
+# nutrition : pour 100 g d'aliment tel qu'utilisé (valeurs proches de Ciqual, à vérifier).
+# allergènes UE : GLU CRU OEU POI ARA SOJ LAI FCO CEL MOU SES SUL LUP MOL
+# marqueurs : V viande, P porc, Po poisson, Cr fruits de mer, L lait, O oeuf, M miel, A alcool, G gélatine
+# saison : mois (ex. 6-9 ou 10-3), "*" toute l'année, "0" jamais de saison en France (importé), vide = non concerné
+# (citrons, gingembre et piment frais sont traités comme condiments : vide)
+#
+# ---------- FRUITS ET LÉGUMES ----------
+ail|Ail|FL|g||5|250|filet de 250 g|2.20|131|5.8|23|0.5|||*
+oignon|Oignon jaune|FL|g||120|1000|filet de 1 kg|1.90|40|1.2|7|0.2|||*
+oignon_rouge|Oignon rouge|FL|g||120|500|filet de 500 g|1.80|40|1.2|7|0.2|||*
+echalote|Échalote|FL|g||30|250|barquette de 250 g|1.90|75|2.5|15|0.1|||*
+oignon_nouveau|Oignon nouveau (cébette)|FL|u||40|1|botte|1.50|30|1.5|5|0.2|||4-7
+pomme_de_terre|Pomme de terre|FL|g||170|2500|sac de 2,5 kg|3.50|80|2|17|0.1|||*
+pomme_de_terre_grenaille|Pomme de terre grenaille|FL|g||40|750|barquette de 750 g|2.60|80|2|17|0.1|||5-9
+patate_douce|Patate douce|FL|g||350|1000|1 kg en vrac|3.50|86|1.6|18|0.1|||10-12
+carotte|Carotte|FL|g||120|1000|sachet de 1 kg|1.50|36|0.8|7|0.2|||*
+poireau|Poireau|FL|g||250|1000|botte de 1 kg|2.80|28|1.5|4|0.3|||9-4
+courgette|Courgette|FL|g||250|1000|1 kg en vrac|2.90|17|1.2|2|0.3|||6-9
+aubergine|Aubergine|FL|g||300|1000|1 kg en vrac|3.20|25|1.1|4|0.2|||6-9
+poivron_rouge|Poivron rouge|FL|g||180|180|pièce|0.90|30|1|5|0.3|||7-10
+poivron_vert|Poivron vert|FL|g||180|180|pièce|0.80|22|0.9|3|0.2|||7-10
+poivron_jaune|Poivron jaune|FL|g||180|180|pièce|0.90|28|1|5|0.2|||7-10
+tomate|Tomate|FL|g||130|1000|1 kg en vrac|3.20|19|0.8|3|0.3|||6-9
+tomate_cerise|Tomate cerise|FL|g||15|250|barquette de 250 g|2.20|24|1|4|0.3|||6-9
+concombre|Concombre|FL|g||400|400|pièce|0.90|13|0.6|2|0.1|||5-9
+salade|Laitue / batavia|FL|u||350|1|pièce|1.20|15|1.2|1.5|0.2|||4-10
+mache|Mâche|FL|g|||150|sachet de 150 g|1.90|22|2|1|0.4|||10-3
+roquette|Roquette|FL|g|||125|sachet de 125 g|1.90|25|2.6|2|0.7|||4-10
+jeunes_pousses|Jeunes pousses d'épinard|FL|g|||125|sachet de 125 g|1.90|23|2.8|1.5|0.4|||3-6,9-11
+epinard|Épinard frais|FL|g|||500|sachet de 500 g|3.50|23|2.8|1.5|0.4|||3-6,9-11
+blette|Blette|FL|g||600|1000|botte de 1 kg|3.00|20|1.8|3|0.2|||5-11
+brocoli|Brocoli|FL|g||450|450|pièce|1.90|34|3|4|0.4|||6-11
+chou_fleur|Chou-fleur|FL|g||900|900|pièce|2.50|25|2|3|0.3|||9-4
+chou_vert|Chou vert|FL|g||1200|1200|pièce|2.20|25|1.5|4|0.2|||9-3
+chou_blanc|Chou blanc|FL|g||1200|1200|pièce|2.00|25|1.3|4|0.2|||9-3
+chou_rouge|Chou rouge|FL|g||1000|1000|pièce|1.90|29|1.4|5|0.2|||9-3
+chou_bruxelles|Chou de Bruxelles|FL|g|||500|barquette de 500 g|3.00|43|3.4|5|0.3|||10-3
+chou_chinois|Chou chinois|FL|g||800|800|pièce|2.20|14|1.2|2|0.2|||10-2
+choucroute|Choucroute crue|CHA|g|||1000|sachet de 1 kg|3.50|25|1.5|2|0.2|SUL||
+endive|Endive|FL|g||120|1000|sachet de 1 kg|3.50|17|1|2.5|0.1|||10-4
+fenouil|Fenouil|FL|g||300|300|pièce|1.20|20|1.2|3|0.2|||6-10
+celeri_rave|Céleri-rave|FL|g||800|800|pièce|2.20|30|1.3|5|0.3|CEL||9-3
+celeri_branche|Céleri branche|FL|g||40|500|pied de 500 g|1.90|16|0.8|2|0.2|CEL||7-11
+navet|Navet|FL|g||150|1000|botte de 1 kg|2.50|20|0.9|3.5|0.1|||10-3
+panais|Panais|FL|g||200|1000|1 kg en vrac|3.50|65|1.4|13|0.3|||10-3
+betterave_cuite|Betterave cuite|FL|g|||500|sachet de 500 g|1.60|43|1.6|8|0.1|||7-3
+radis|Radis|FL|u||250|1|botte|1.40|16|0.8|2|0.1|||4-7
+haricot_vert|Haricot vert frais|FL|g|||500|barquette de 500 g|3.20|30|1.8|4|0.2|||6-9
+petit_pois_frais|Petit pois frais écossé|FL|g|||500|barquette de 500 g|4.50|80|5.5|11|0.4|||5-7
+asperge_verte|Asperge verte|FL|g||25|500|botte de 500 g|5.50|23|2.5|2|0.2|||4-6
+champignon|Champignon de Paris|FL|g||20|500|barquette de 500 g|2.90|22|3|0.5|0.3|||*
+champignon_shiitake|Champignon shiitake|FL|g|||150|barquette de 150 g|3.50|34|2.2|5|0.5|||*
+butternut|Courge butternut|FL|g||1200|1200|pièce|2.80|45|1|10|0.1|||9-2
+potiron|Potiron|FL|g|||1000|1 kg à la coupe|2.50|26|1|5|0.1|||9-2
+potimarron|Potimarron|FL|g||1200|1200|pièce|2.90|40|1|8|0.2|||9-2
+mais_epi|Épi de maïs|FL|u||250|2|lot de 2 épis cuits|2.20|90|3.3|19|1.2|||8-10
+artichaut|Artichaut|FL|u||300|1|pièce|1.50|40|2.5|6|0.2|||5-9
+topinambour|Topinambour|FL|g|||500|500 g en vrac|2.20|56|2|10|0.1|||10-3
+avocat|Avocat|FL|u||200|1|pièce|1.10|160|2|2|15|||0
+citron|Citron jaune|FL|u||120|1|pièce|0.50|30|0.8|3|0.3|||
+citron_vert|Citron vert|FL|u||70|1|pièce|0.45|30|0.7|3|0.2|||
+orange|Orange|FL|u||200|1|pièce|0.45|45|0.9|9|0.2|||12-4
+clementine|Clémentine|FL|u||70|1000|1 kg en vrac|3.00|47|0.8|10|0.2|||11-2
+pamplemousse|Pamplemousse|FL|u||350|1|pièce|0.90|38|0.7|8|0.1|||1-4
+pomme|Pomme|FL|u||170|1000|1 kg en vrac|2.50|53|0.3|11|0.2|||8-5
+poire|Poire|FL|u||180|1000|1 kg en vrac|3.00|55|0.4|12|0.1|||8-1
+banane|Banane|FL|u||120|1000|1 kg en vrac|2.00|90|1.1|20|0.3|||0
+ananas|Ananas|FL|u||1000|1|pièce|2.20|50|0.5|11|0.2|||0
+mangue|Mangue|FL|u||400|1|pièce|1.90|65|0.6|14|0.3|||0
+kiwi|Kiwi|FL|u||80|1|pièce|0.40|58|1|11|0.6|||11-4
+fraise|Fraise|FL|g|||500|barquette de 500 g|4.00|33|0.6|6|0.3|||5-7
+framboise|Framboise|FL|g|||125|barquette de 125 g|2.80|44|1.2|5|0.3|||6-9
+myrtille|Myrtille|FL|g|||125|barquette de 125 g|2.80|50|0.7|10|0.3|||7-9
+cerise|Cerise|FL|g|||500|barquette de 500 g|5.00|60|1|13|0.2|||6-7
+abricot|Abricot|FL|u||45|1000|1 kg en vrac|4.00|45|0.8|9|0.1|||6-8
+peche|Pêche|FL|u||150|1000|1 kg en vrac|3.50|40|0.9|8|0.2|||6-9
+nectarine|Nectarine|FL|u||150|1000|1 kg en vrac|3.50|44|1|9|0.2|||6-9
+prune|Prune / quetsche|FL|u||35|1000|1 kg en vrac|3.50|50|0.7|11|0.2|||7-9
+melon|Melon|FL|u||1000|1|pièce|2.50|35|0.8|8|0.2|||6-9
+pasteque|Pastèque|FL|g|||2000|quart de pastèque (2 kg)|3.00|32|0.6|7|0.2|||7-8
+raisin|Raisin|FL|g|||500|barquette de 500 g|2.50|70|0.6|16|0.2|||8-10
+figue|Figue fraîche|FL|u||50|1|pièce|0.50|70|0.8|16|0.3|||8-10
+rhubarbe|Rhubarbe|FL|g|||500|botte de 500 g|3.00|15|0.9|2|0.1|||4-6
+coing|Coing|FL|u||350|1|pièce|1.20|50|0.4|11|0.1|||10-12
+persil|Persil plat|FL|u||30|1|botte|1.00|40|3|4|0.6|||*
+ciboulette|Ciboulette|FL|u||20|1|botte|1.20|35|3|2|0.6|||3-10
+coriandre|Coriandre fraîche|FL|u||30|1|botte|1.20|30|2|3|0.5|||4-10
+basilic|Basilic frais|FL|u||25|1|pot|2.00|30|3|2|0.6|||6-9
+menthe|Menthe fraîche|FL|u||25|1|botte|1.20|45|3.5|6|0.7|||5-9
+aneth|Aneth frais|FL|u||20|1|botte|1.20|45|3.5|6|1|||5-9
+estragon|Estragon frais|FL|u||20|1|botte|1.30|50|3.5|7|1|||5-9
+gingembre|Gingembre frais|FL|g|||100|morceau de 100 g|1.20|60|1.8|12|0.6|||
+piment_frais|Piment frais|FL|u||10|1|pièce|0.30|40|1.9|7|0.4|||
+#
+# ---------- BOUCHERIE / VOLAILLE ----------
+poulet_blanc|Blanc de poulet|VIA|g||140|500|barquette de 500 g|7.50|115|23|0|2||V|
+poulet_cuisse|Cuisse de poulet|VIA|u||190|4|barquette de 4 cuisses|7.50|170|18|0|11||V|
+poulet_haut_cuisse|Haut de cuisse de poulet|VIA|g||150|600|barquette de 600 g|6.50|180|18|0|12||V|
+poulet_entier|Poulet entier|VIA|u||1000|1|pièce (1,5 kg)|9.50|170|19|0|10||V|
+dinde_escalope|Escalope de dinde|VIA|g||120|500|barquette de 500 g|7.90|108|24|0|1.5||V|
+canard_magret|Magret de canard|VIA|u||350|1|pièce|8.50|200|19|0|14||V|
+canard_cuisse|Cuisse de canard|VIA|u||200|2|lot de 2|7.00|200|18|0|14||V|
+lapin|Lapin découpé|VIA|g|||1200|lapin découpé (1,2 kg)|14.00|135|21|0|5||V|
+boeuf_hache|Bœuf haché 5 %|VIA|g||125|500|barquette de 500 g|7.50|130|21|0|5||V|
+steak_hache|Steak haché 15 %|VIA|u||125|4|boîte de 4|6.20|215|18|0|15||V|
+boeuf_bourguignon|Bœuf à braiser (paleron, joue)|VIA|g|||1000|1 kg|15.50|150|21|0|7||V|
+boeuf_pot_au_feu|Bœuf pot-au-feu (plat de côtes, gîte)|VIA|g|||1500|assortiment 1,5 kg|19.00|180|19|0|11||V|
+boeuf_steak|Steak de bœuf (rumsteck)|VIA|g||150|300|2 pièces (300 g)|8.50|130|22|0|4||V|
+boeuf_emince|Bœuf émincé|VIA|g|||400|barquette de 400 g|8.00|130|22|0|4||V|
+veau_blanquette|Veau à blanquette|VIA|g|||1000|1 kg|18.00|150|19|0|8||V|
+veau_escalope|Escalope de veau|VIA|g||120|240|2 escalopes|7.50|105|22|0|1.5||V|
+porc_echine|Échine de porc|VIA|g|||1000|1 kg|9.00|210|18|0|15||V,P|
+porc_filet_mignon|Filet mignon de porc|VIA|g||500|500|pièce de 500 g|9.50|120|22|0|3.5||V,P|
+porc_cote|Côte de porc|VIA|u||150|2|lot de 2|4.50|190|20|0|12||V,P|
+porc_roti|Rôti de porc|VIA|g|||1000|1 kg|9.50|150|21|0|7||V,P|
+porc_hache|Chair à saucisse|VIA|g|||500|barquette de 500 g|5.50|280|15|0|24||V,P|
+agneau_epaule|Épaule d'agneau|VIA|g|||1200|1,2 kg|19.00|230|18|0|17||V|
+agneau_hache|Agneau haché|VIA|g|||400|barquette de 400 g|7.50|250|17|0|20||V|
+agneau_cote|Côtelette d'agneau|VIA|u||50|6|barquette de 6|9.00|280|16|0|24||V|
+merguez|Merguez|VIA|u||60|6|barquette de 6|4.50|280|15|1|24||V|
+saucisse_toulouse|Saucisse de Toulouse|VIA|u||110|4|barquette de 4|4.90|270|15|0.5|23||V,P|
+saucisse_strasbourg|Saucisse de Strasbourg|CHA|u||35|10|paquet de 10|3.20|270|12|1.5|24||V,P|
+saucisse_morteau|Saucisse de Morteau|CHA|u||350|1|pièce|5.50|320|16|1|28||V,P|
+chipolata|Chipolata|VIA|u||50|6|barquette de 6|4.20|270|14|1|23||V,P|
+foie_volaille|Foie de volaille|VIA|g|||400|barquette de 400 g|3.50|130|19|1|5||V|
+#
+# ---------- CHARCUTERIE ----------
+lardons|Lardons fumés|CHA|g|||200|barquette de 200 g|2.30|260|16|0.5|21||V,P|
+jambon_blanc|Jambon blanc|CHA|u||45|4|paquet de 4 tranches|2.90|115|20|1|3.5||V,P|
+jambon_cru|Jambon cru|CHA|u||15|6|paquet de 6 tranches|3.20|240|28|0.5|14||V,P|
+chorizo|Chorizo|CHA|g|||200|bâton de 200 g|3.00|450|23|2|39|LAI|V,P|
+bacon|Bacon|CHA|u||12|10|paquet de 10 tranches|2.70|130|21|1|4.5||V,P|
+poitrine_fumee|Poitrine fumée en tranches|CHA|u||20|10|paquet de 10 tranches|3.00|300|15|0.5|26||V,P|
+jambon_dinde|Blanc de dinde (tranches)|CHA|u||40|4|paquet de 4 tranches|2.70|105|20|1|2||V|
+#
+# ---------- POISSONNERIE ----------
+saumon_pave|Pavé de saumon|POI|u||125|2|lot de 2 pavés|6.90|200|20|0|13|POI|Po|
+saumon_fume|Saumon fumé|POI|u||25|4|paquet de 4 tranches|4.90|180|22|0|10|POI|Po|
+cabillaud|Dos de cabillaud|POI|u||130|2|lot de 2 dos|7.50|82|18|0|0.7|POI|Po|
+colin|Filet de colin (lieu)|POI|u||120|4|sachet de 4 filets (surgelé)|5.50|80|17|0|1|POI|Po|
+poisson_blanc|Filet de poisson blanc (merlu, colin)|POI|g||120|480|4 filets (480 g)|6.00|80|17|0|1|POI|Po|
+truite|Truite / filet de truite|POI|u||120|2|lot de 2 filets|5.90|150|20|0|7|POI|Po|
+maquereau|Maquereau frais|POI|u||150|2|lot de 2|5.00|190|19|0|13|POI|Po|
+sardine|Sardine fraîche|POI|g|||500|500 g|5.00|150|20|0|8|POI|Po|
+dorade|Dorade entière|POI|u||200|1|pièce|7.00|110|20|0|3|POI|Po|
+crevette|Crevettes décortiquées cuites|POI|g|||200|barquette de 200 g|5.50|95|21|0|1|CRU|Cr|
+crevette_crue|Crevettes crues décortiquées (surgelées)|SUR|g|||400|sachet de 400 g|7.50|80|18|0|1|CRU|Cr|
+moule|Moules|POI|g|||1000|filet de 1 kg|4.50|70|11|3|2|MOL|Cr|
+calamar|Anneaux d'encornet|SUR|g|||500|sachet de 500 g (surgelé)|5.50|80|16|1|1.5|MOL|Cr|
+noix_st_jacques|Noix de Saint-Jacques|SUR|g|||300|sachet de 300 g (surgelé)|11.00|90|17|3|1|MOL|Cr|
+#
+# ---------- CRÈMERIE / ŒUFS ----------
+oeuf|Œuf|CRE|u||55|6|boîte de 6|2.20|140|12.5|0.5|10|OEU|O|
+lait|Lait demi-écrémé|CRE|ml|1.03||1000|bouteille de 1 L|1.05|46|3.3|4.8|1.6|LAI|L|
+beurre|Beurre doux|CRE|g|||250|plaquette de 250 g|2.60|745|0.7|0.6|82|LAI|L|
+beurre_demi_sel|Beurre demi-sel|CRE|g|||250|plaquette de 250 g|2.70|730|0.7|0.6|80|LAI|L|
+creme_liquide|Crème liquide entière|CRE|ml|1.0||200|brique de 20 cl|1.20|300|2.2|3|30|LAI|L|
+creme_legere|Crème liquide légère 15 %|CRE|ml|1.0||200|brique de 20 cl|1.10|160|2.6|4|15|LAI|L|
+creme_fraiche|Crème fraîche épaisse|CRE|g|1.0||200|pot de 20 cl|1.50|300|2.3|3|30|LAI|L|
+yaourt_nature|Yaourt nature|CRE|u||125|4|pack de 4|1.30|60|4|5|3|LAI|L|
+yaourt_grec|Yaourt à la grecque|CRE|g|1.05||500|pot de 500 g|2.50|125|5|4|10|LAI|L|
+fromage_blanc|Fromage blanc|CRE|g|1.05||500|pot de 500 g|1.80|75|7|4|3|LAI|L|
+mascarpone|Mascarpone|CRE|g|1.0||250|pot de 250 g|2.50|420|4.5|3.5|44|LAI|L|
+ricotta|Ricotta|CRE|g|1.0||250|pot de 250 g|2.60|150|8|3|11|LAI|L|
+lait_coco|Lait de coco|EPS|ml|1.0||400|boîte de 40 cl|1.90|180|1.8|3|18|||
+creme_coco|Crème de coco|EPS|ml|1.0||200|brique de 20 cl|1.70|250|2|4|25|||
+boisson_avoine|Boisson à l'avoine|EPS|ml|1.03||1000|brique de 1 L|1.80|45|1|7|1.5|GLU||
+boisson_soja|Boisson au soja|EPS|ml|1.03||1000|brique de 1 L|1.60|38|3.3|2|2|SOJ||
+pate_feuilletee|Pâte feuilletée|CRE|u||230|1|rouleau|1.40|390|5.5|35|25|GLU,LAI|L|
+pate_brisee|Pâte brisée|CRE|u||230|1|rouleau|1.20|380|5.5|40|22|GLU,LAI|L|
+pate_sablee|Pâte sablée|CRE|u||230|1|rouleau|1.50|440|5.5|57|21|GLU,LAI,OEU|L,O|
+pate_pizza|Pâte à pizza|CRE|u||260|1|rouleau|1.50|270|7|50|4|GLU||
+pate_filo|Feuilles de brick|CRE|u||15|10|paquet de 10 feuilles|1.90|300|8|60|2|GLU||
+galette_riz|Galettes de riz (rouleaux de printemps)|EPS|u||8|25|paquet de 25|2.20|340|6|80|0.5|||
+pates_fraiches|Pâtes fraîches (tagliatelles)|CRE|g|||250|paquet de 250 g|1.90|280|11|50|3|GLU,OEU|O|
+gnocchis|Gnocchis à poêler|CRE|g|||500|paquet de 500 g|2.20|160|4|33|0.5|GLU||
+ravioli_frais|Ravioli frais au fromage|CRE|g|||250|paquet de 250 g|2.90|260|10|38|7|GLU,OEU,LAI|O,L|
+tofu|Tofu nature ferme|CRE|g|||200|bloc de 200 g|1.90|130|13|1|8|SOJ||
+tofu_fume|Tofu fumé|CRE|g|||200|bloc de 200 g|2.30|160|16|1|10|SOJ||
+houmous|Houmous|CRE|g|1.0||200|pot de 200 g|2.20|300|7|13|24|SES||
+#
+# ---------- FROMAGES ----------
+emmental_rape|Emmental râpé|FRO|g|||200|sachet de 200 g|2.20|380|28|0|30|LAI|L|
+comte|Comté|FRO|g|||250|morceau de 250 g|5.00|410|28|0|34|LAI|L|
+parmesan|Parmesan|FRO|g|||150|morceau de 150 g|4.20|400|36|0|28|LAI|L|
+mozzarella|Mozzarella|FRO|u||125|1|boule de 125 g|1.00|240|18|1|18|LAI|L|
+burrata|Burrata|FRO|u||125|1|pièce de 125 g|2.50|250|13|1|22|LAI|L|
+feta|Feta|FRO|g|||200|bloc de 200 g|2.40|265|15|1|22|LAI|L|
+chevre_buche|Bûche de chèvre|FRO|g|||180|bûche de 180 g|2.50|300|19|1|24|LAI|L|
+chevre_frais|Chèvre frais|FRO|g|||150|pot de 150 g|2.20|200|11|2|16|LAI|L|
+reblochon|Reblochon|FRO|u||450|1|pièce de 450 g|6.50|330|21|0|27|LAI|L|
+raclette|Fromage à raclette|FRO|g|||400|barquette de 400 g|5.50|340|24|0|27|LAI|L|
+roquefort|Roquefort / bleu|FRO|g|||150|portion de 150 g|3.30|360|20|0|31|LAI|L|
+camembert|Camembert|FRO|u||250|1|pièce de 250 g|2.20|270|20|0|21|LAI|L|
+cheddar|Cheddar|FRO|u||20|10|paquet de 10 tranches|2.40|400|25|0|33|LAI|L|
+fromage_frais_ail|Fromage frais ail et fines herbes|FRO|g|1.0||150|boîte de 150 g|2.00|280|7|3|27|LAI|L|
+st_moret|Fromage frais nature (type carré frais)|FRO|g|1.0||150|boîte de 150 g|1.90|220|7|3|20|LAI|L|
+#
+# ---------- ÉPICERIE SALÉE ----------
+spaghetti|Spaghetti|EPS|g|||500|paquet de 500 g|1.10|355|12|71|1.5|GLU||
+penne|Penne|EPS|g|||500|paquet de 500 g|1.10|355|12|71|1.5|GLU||
+coquillettes|Coquillettes|EPS|g|||500|paquet de 500 g|1.00|355|12|71|1.5|GLU||
+tagliatelles|Tagliatelles sèches|EPS|g|||500|paquet de 500 g|1.50|360|13|70|2|GLU,OEU|O|
+fusilli|Fusilli|EPS|g|||500|paquet de 500 g|1.10|355|12|71|1.5|GLU||
+lasagne|Feuilles de lasagne|EPS|g|||500|boîte de 500 g|1.60|355|12|71|1.5|GLU||
+cannelloni|Cannelloni|EPS|g|||250|boîte de 250 g|1.60|355|12|71|1.5|GLU||
+orzo|Pâtes langues d'oiseau (orzo)|EPS|g|||500|paquet de 500 g|1.50|355|12|71|1.5|GLU||
+nouilles_riz|Nouilles de riz|EPS|g|||250|paquet de 250 g|1.70|360|6|80|0.5|||
+nouilles_ble|Nouilles chinoises aux œufs|EPS|g|||250|paquet de 250 g|1.60|370|12|70|3|GLU,OEU|O|
+riz|Riz long|EPS|g|||1000|paquet de 1 kg|2.00|350|7|78|0.6|||
+riz_basmati|Riz basmati|EPS|g|||1000|paquet de 1 kg|2.90|350|8|77|0.6|||
+riz_arborio|Riz arborio (risotto)|EPS|g|||500|paquet de 500 g|2.30|350|7|78|0.6|||
+riz_rond|Riz rond (dessert)|EPS|g|||500|paquet de 500 g|1.40|350|7|78|0.6|||
+semoule|Semoule de blé moyenne|EPS|g|||1000|paquet de 1 kg|1.80|355|12|72|1.5|GLU||
+boulgour|Boulgour|EPS|g|||500|paquet de 500 g|1.90|345|12|69|1.5|GLU||
+quinoa|Quinoa|EPS|g|||500|paquet de 500 g|3.50|370|14|64|6|||
+polenta|Polenta instantanée|EPS|g|||500|paquet de 500 g|1.90|360|8|77|1.5|||
+lentilles_vertes|Lentilles vertes|EPS|g|||500|paquet de 500 g|2.20|335|24|50|1.5|||
+lentilles_corail|Lentilles corail|EPS|g|||500|paquet de 500 g|2.50|340|24|52|1.5|||
+pois_casses|Pois cassés|EPS|g|||500|paquet de 500 g|1.90|340|22|55|1.5|||
+farine|Farine de blé T55|EPS|g|||1000|paquet de 1 kg|1.10|350|10|73|1.2|GLU||
+farine_complete|Farine complète T150|EPS|g|||1000|paquet de 1 kg|1.90|340|12|63|2|GLU||
+farine_sarrasin|Farine de sarrasin|EPS|g|||1000|paquet de 1 kg|3.20|340|12|70|3|||
+maizena|Fécule de maïs|EPS|g|||400|boîte de 400 g|1.80|360|0.3|88|0|||
+chapelure|Chapelure|EPS|g|||250|paquet de 250 g|1.20|380|12|72|4|GLU||
+flocons_avoine|Flocons d'avoine|EPS|g|||500|paquet de 500 g|1.60|370|13|58|7|GLU||
+pain_mie|Pain de mie|BOUL|u||25|20|paquet de 20 tranches|1.60|270|8|48|4|GLU,SOJ||
+pain_burger|Pains à burger|BOUL|u||75|4|paquet de 4|1.70|280|9|50|5|GLU,SES||
+baguette|Baguette|BOUL|u||250|1|pièce|1.10|270|9|56|1.2|GLU||
+pain_campagne|Pain de campagne|BOUL|g||40|500|pain de 500 g|2.90|250|8.5|50|1.3|GLU||
+tortilla|Tortillas de blé|BOUL|u||40|8|paquet de 8|1.90|310|8|52|7|GLU||
+pain_pita|Pains pita|BOUL|u||70|4|paquet de 4|1.60|275|9|55|1.2|GLU||
+huile_olive|Huile d'olive|EPS|ml|0.92||1000|bouteille de 1 L|9.50|900|0|0|100|||
+huile_tournesol|Huile de tournesol|EPS|ml|0.92||1000|bouteille de 1 L|2.40|900|0|0|100|||
+huile_sesame|Huile de sésame|EPS|ml|0.92||250|bouteille de 25 cl|3.50|900|0|0|100|SES||
+vinaigre|Vinaigre de vin|EPS|ml|1.0||500|bouteille de 50 cl|1.20|20|0|0.5|0|SUL||
+vinaigre_balsamique|Vinaigre balsamique|EPS|ml|1.1||250|bouteille de 25 cl|2.20|110|0.5|25|0|SUL||
+vinaigre_cidre|Vinaigre de cidre|EPS|ml|1.0||500|bouteille de 50 cl|1.60|20|0|1|0|SUL||
+moutarde|Moutarde de Dijon|EPS|g|1.0||200|pot de 200 g|1.30|150|7|4|11|MOU||
+moutarde_ancienne|Moutarde à l'ancienne|EPS|g|1.0||200|pot de 200 g|1.80|160|7|5|11|MOU||
+mayonnaise|Mayonnaise|EPS|g|0.95||235|pot de 235 g|1.80|700|1.5|2|76|OEU,MOU|O|
+ketchup|Ketchup|EPS|g|1.15||560|flacon de 560 g|2.30|110|1.5|25|0.2|||
+sauce_soja|Sauce soja|EPS|ml|1.15||250|bouteille de 25 cl|2.20|60|8|5|0.5|SOJ,GLU||
+sauce_huitre|Sauce d'huître|EPS|ml|1.2||250|bouteille de 25 cl|2.60|60|2|12|0.3|MOL,GLU,SOJ|Cr|
+nuoc_mam|Sauce nuoc-mâm|EPS|ml|1.2||200|bouteille de 20 cl|2.20|40|6|3|0|POI|Po|
+sauce_sriracha|Sauce piment (sriracha)|EPS|ml|1.1||200|bouteille de 20 cl|2.90|90|2|18|1|||
+pesto|Pesto au basilic|EPS|g|1.0||190|pot de 190 g|2.40|450|5|6|45|LAI,FCO|L|
+pate_curry|Pâte de curry rouge|EPS|g|1.0||110|pot de 110 g|2.60|120|2|15|6|CRU|Cr|
+pate_curry_vegan|Pâte de curry (sans crevette)|EPS|g|1.0||110|pot de 110 g|2.60|120|2|15|6|||
+tahini|Purée de sésame (tahini)|EPS|g|1.0||250|pot de 250 g|3.50|600|18|20|52|SES||
+pate_miso|Pâte miso|EPS|g|1.1||200|pot de 200 g|3.50|200|12|26|6|SOJ||
+beurre_cacahuete|Beurre de cacahuète|EPS|g|1.05||340|pot de 340 g|3.20|600|25|17|50|ARA||
+cacahuete|Cacahuètes non salées|EPS|g|||200|sachet de 200 g|1.80|590|26|13|49|ARA||
+bouillon_volaille|Bouillon de volaille (cube)|EPI|u||10|10|boîte de 10 cubes|1.50|250|10|20|15|CEL|V|
+bouillon_legumes|Bouillon de légumes (cube)|EPI|u||10|10|boîte de 10 cubes|1.50|250|5|25|15|CEL||
+bouillon_boeuf|Bouillon de bœuf (cube)|EPI|u||10|10|boîte de 10 cubes|1.50|250|10|20|15|CEL|V|
+fond_veau|Fond de veau déshydraté|EPI|g|||100|boîte de 100 g|2.50|330|9|60|5|GLU,CEL|V|
+#
+# ---------- CONSERVES ----------
+tomate_concassee|Tomates concassées|CON|g|||400|boîte de 400 g|0.95|25|1.2|4|0.2|||
+coulis_tomate|Coulis / passata de tomate|CON|g|||500|bouteille de 500 g|1.10|30|1.3|5|0.2|||
+concentre_tomate|Concentré de tomate|CON|g|1.1||140|boîte de 140 g|0.80|90|4.5|15|0.5|||
+pois_chiche|Pois chiches cuits|CON|g|||265|boîte (265 g égouttés)|0.95|120|7|16|2.5|||
+haricot_rouge|Haricots rouges cuits|CON|g|||250|boîte (250 g égouttés)|0.95|110|7.5|15|0.5|||
+haricot_blanc|Haricots blancs cuits|CON|g|||265|boîte (265 g égouttés)|0.95|100|7|14|0.5|||
+lentilles_cuites|Lentilles cuites|CON|g|||265|boîte (265 g égouttés)|1.10|110|8.5|15|0.5|||
+mais_conserve|Maïs doux|CON|g|||285|boîte (285 g égouttés)|1.10|90|3|16|1.5|||
+thon|Thon au naturel|CON|g|||140|boîte (140 g égouttés)|2.20|115|26|0|1|POI|Po|
+sardine_conserve|Sardines à l'huile|CON|g|||115|boîte de 115 g|1.60|220|24|0|14|POI|Po|
+maquereau_conserve|Maquereaux au vin blanc|CON|g|||176|boîte de 176 g|2.00|180|14|2|13|POI,SUL|Po,A|
+olive_noire|Olives noires dénoyautées|CON|g|||150|bocal (150 g égouttés)|1.80|200|1.5|1|20|||
+olive_verte|Olives vertes dénoyautées|CON|g|||150|bocal (150 g égouttés)|1.80|150|1.2|1|15|||
+capres|Câpres|CON|g|0.6||50|petit bocal (50 g égouttés)|1.50|25|2|2|0.5|||
+cornichon|Cornichons|CON|g|||200|bocal (200 g égouttés)|1.60|20|1|2|0.2|SUL||
+tomate_sechee|Tomates séchées à l'huile|CON|g|||180|bocal de 180 g|2.60|220|4|15|15|||
+poivron_grille|Poivrons grillés en bocal|CON|g|||280|bocal (280 g égouttés)|2.40|30|1|5|0.5|||
+champignon_conserve|Champignons de Paris émincés|CON|g|||230|boîte (230 g égouttés)|1.20|20|2|1|0.3|||
+coeur_artichaut|Cœurs d'artichaut|CON|g|||240|boîte (240 g égouttés)|2.00|30|2|3|0.2|||
+petit_pois_conserve|Petits pois carottes|CON|g|||530|boîte (530 g égouttés)|1.40|60|3.5|8|0.5|||
+pousses_bambou|Pousses de bambou|CON|g|||225|boîte (225 g égouttés)|1.60|20|2|2|0.3|||
+lait_concentre|Lait concentré sucré|CON|g|||397|tube/boîte de 397 g|2.20|330|8|55|8|LAI|L|
+compote|Compote de pommes|CON|g|||400|pot de 400 g|1.60|75|0.3|17|0.2|||
+#
+# ---------- SURGELÉS ----------
+petit_pois_surg|Petits pois surgelés|SUR|g|||1000|sachet de 1 kg|2.30|75|5.5|10|0.4|||
+haricot_vert_surg|Haricots verts surgelés|SUR|g|||1000|sachet de 1 kg|2.30|28|1.8|4|0.2|||
+epinard_surg|Épinards hachés surgelés|SUR|g|||1000|sachet de 1 kg|2.20|25|3|1|0.5|||
+brocoli_surg|Brocoli surgelé|SUR|g|||1000|sachet de 1 kg|2.50|30|3|3|0.3|||
+poelee_legumes_surg|Mélange de légumes surgelés|SUR|g|||1000|sachet de 1 kg|2.60|40|2|6|0.4|||
+edamame_surg|Edamame surgelés écossés|SUR|g|||400|sachet de 400 g|3.20|120|11|7|5|SOJ||
+fruits_rouges_surg|Fruits rouges surgelés|SUR|g|||500|sachet de 500 g|3.50|45|1|8|0.3|||
+feves_surg|Fèves surgelées|SUR|g|||600|sachet de 600 g|3.20|70|6|9|0.5|||
+#
+# ---------- ÉPICERIE SUCRÉE ----------
+sucre|Sucre en poudre|EPC|g|0.85||1000|paquet de 1 kg|1.30|400|0|100|0|||
+sucre_roux|Sucre roux / cassonade|EPC|g|0.85||750|paquet de 750 g|1.90|390|0|98|0|||
+sucre_glace|Sucre glace|EPC|g|0.55||500|paquet de 500 g|1.50|400|0|100|0|||
+sucre_vanille|Sucre vanillé|EPC|u||7.5|10|paquet de 10 sachets|1.20|400|0|100|0|||
+miel|Miel|EPC|g|1.4||500|pot de 500 g|5.50|320|0.4|80|0||M|
+sirop_erable|Sirop d'érable|EPC|ml|1.32||250|bouteille de 25 cl|5.50|260|0|67|0|||
+chocolat_noir|Chocolat noir pâtissier|EPC|g|||200|tablette de 200 g|2.40|540|6|45|35|LAI,SOJ|L|
+chocolat_lait|Chocolat au lait|EPC|g|||200|tablette de 200 g|2.20|545|7|57|31|LAI,SOJ|L|
+chocolat_blanc|Chocolat blanc|EPC|g|||200|tablette de 200 g|2.40|560|6|58|33|LAI,SOJ|L|
+pepites_chocolat|Pépites de chocolat|EPC|g|||100|sachet de 100 g|1.60|500|5|60|27|LAI,SOJ|L|
+cacao|Cacao en poudre non sucré|EPC|g|||250|boîte de 250 g|3.50|380|20|15|21|||
+levure_chimique|Levure chimique|EPC|u||11|6|paquet de 6 sachets|1.10|100|0|25|0|||
+levure_boulanger|Levure de boulanger sèche|EPC|u||5.5|5|paquet de 5 sachets|1.20|320|40|40|5|||
+gelatine|Gélatine en feuilles|EPC|u||2|9|boîte de 9 feuilles|1.90|340|85|0|0||G|
+agar_agar|Agar-agar|EPC|u||2|5|boîte de 5 sachets de 2 g|2.20|300|2|80|0|||
+vanille_extrait|Arôme ou extrait de vanille|EPC|ml|1.0||50|flacon de 5 cl|3.50|290|0|13|0|||
+amande_poudre|Poudre d'amande|EPC|g|||125|sachet de 125 g|2.30|620|21|7|54|FCO||
+amande|Amandes entières|EPC|g|||200|sachet de 200 g|3.00|600|21|8|52|FCO||
+amande_effilee|Amandes effilées|EPC|g|||100|sachet de 100 g|1.90|600|21|8|52|FCO||
+noisette|Noisettes|EPC|g|||125|sachet de 125 g|2.50|650|15|7|61|FCO||
+noix|Cerneaux de noix|EPC|g|||125|sachet de 125 g|2.70|680|15|7|65|FCO||
+noix_cajou|Noix de cajou|EPC|g|||200|sachet de 200 g|3.60|590|18|27|46|FCO||
+pignons|Pignons de pin|EPC|g|||50|sachet de 50 g|3.20|670|14|4|68|||
+graines_sesame|Graines de sésame|EPC|g|||100|sachet de 100 g|1.50|600|18|12|50|SES||
+graines_chia|Graines de chia|EPC|g|||200|sachet de 200 g|3.50|490|17|8|31|||
+raisins_secs|Raisins secs|EPC|g|||250|sachet de 250 g|2.00|300|2.5|70|0.5|SUL||
+abricot_sec|Abricots secs|EPC|g|||250|sachet de 250 g|3.00|260|3|56|0.5|SUL||
+pruneau|Pruneaux dénoyautés|EPC|g|||250|sachet de 250 g|2.90|240|2.5|55|0.5|||
+datte|Dattes|EPC|g|||250|barquette de 250 g|2.50|280|2|65|0.3|||
+noix_coco_rapee|Noix de coco râpée|EPC|g|||125|sachet de 125 g|1.50|650|6|7|62|||
+confiture|Confiture|EPC|g|1.3||370|pot de 370 g|2.20|240|0.4|60|0|||
+pate_tartiner|Pâte à tartiner chocolat-noisette|EPC|g|||400|pot de 400 g|3.20|540|6|57|31|FCO,LAI,SOJ|L|
+biscuit_cuiller|Biscuits à la cuillère|EPC|u||7|30|paquet de 30|2.20|390|8|80|4|GLU,OEU|O|
+speculoos|Speculoos|EPC|u||8|30|paquet de 250 g|2.20|480|5|70|19|GLU,SOJ||
+petit_beurre|Petit-beurre|EPC|u||8|25|paquet de 200 g|1.70|440|7|74|12|GLU,LAI,OEU|L,O|
+caramel_beurre_sale|Caramel au beurre salé (pot)|EPC|g|1.3||200|pot de 200 g|3.00|440|2|60|21|LAI|L|
+muesli|Muesli|EPC|g|||500|paquet de 500 g|2.90|370|9|62|7|GLU,FCO||
+#
+# ---------- ÉPICES, CONDIMENTS, AROMATES ----------
+sel|Sel fin|EPI|g|||1000|paquet de 1 kg|0.80|0|0|0|0|||
+fleur_sel|Fleur de sel|EPI|g|||125|pot de 125 g|3.00|0|0|0|0|||
+poivre|Poivre noir moulu|EPI|g|||50|pot de 50 g|2.30|250|10|40|3|||
+muscade|Noix de muscade moulue|EPI|g|||35|pot de 35 g|2.20|520|6|50|36|||
+cumin|Cumin moulu|EPI|g|||40|pot de 40 g|1.90|375|18|44|22|||
+curry|Curry en poudre|EPI|g|||45|pot de 45 g|1.90|325|13|55|14|MOU||
+curcuma|Curcuma|EPI|g|||45|pot de 45 g|1.90|310|10|65|3|||
+paprika|Paprika|EPI|g|||45|pot de 45 g|1.90|280|14|54|13|||
+paprika_fume|Paprika fumé|EPI|g|||40|pot de 40 g|2.30|280|14|54|13|||
+piment_espelette|Piment d'Espelette|EPI|g|||40|pot de 40 g|5.00|300|12|50|6|||
+piment_poudre|Piment de Cayenne|EPI|g|||40|pot de 40 g|1.90|320|12|50|17|||
+cannelle|Cannelle moulue|EPI|g|||40|pot de 40 g|1.90|250|4|80|1.2|||
+gingembre_poudre|Gingembre moulu|EPI|g|||40|pot de 40 g|1.90|335|9|71|4|||
+ras_el_hanout|Ras el hanout|EPI|g|||40|pot de 40 g|2.10|300|11|50|10|||
+garam_massala|Garam massala|EPI|g|||40|pot de 40 g|2.20|380|15|45|15|||
+cinq_epices|Cinq-épices|EPI|g|||40|pot de 40 g|2.20|350|10|60|8|||
+herbes_provence|Herbes de Provence|EPI|g|||20|pot de 20 g|1.90|270|9|60|7|||
+thym|Thym (séché ou frais)|EPI|g|||15|pot de 15 g|1.60|270|9|60|7|||
+romarin|Romarin (séché ou frais)|EPI|g|||15|pot de 15 g|1.60|330|5|64|15|||
+laurier|Feuille de laurier|EPI|u||0.3|20|sachet de 20 feuilles|1.50|310|8|75|8|||
+origan|Origan séché|EPI|g|||15|pot de 15 g|1.90|270|9|69|4|||
+clou_girofle|Clou de girofle|EPI|u||0.1|50|pot de 25 g|2.20|270|6|65|13|||
+anis_etoile|Badiane (anis étoilé)|EPI|u||0.5|20|sachet de 10 g|2.20|340|18|50|16|||
+graines_fenouil|Graines de fenouil|EPI|g|||40|pot de 40 g|2.00|345|16|52|15|||
+cardamome|Cardamome|EPI|g|||30|pot de 30 g|3.50|310|11|68|7|||
+safran|Safran (dose de 0,1 g)|EPI|u||0.1|2|2 doses|4.50|310|11|65|6|||
+ail_semoule|Ail en poudre|EPI|g|||50|pot de 50 g|2.00|330|17|73|0.7|||
+harissa|Harissa|EPI|g|1.0||70|tube de 70 g|1.60|110|3|15|4|||
+tabasco|Sauce piquante (type Tabasco)|EPI|ml|1.0||60|flacon de 6 cl|2.90|12|1|1|0.5|||
+worcestershire|Sauce Worcestershire|EPI|ml|1.1||150|flacon de 15 cl|2.50|80|0|19|0|POI|Po|
+#
+# ---------- BOISSONS / ALCOOLS DE CUISINE ----------
+vin_blanc|Vin blanc sec|BOI|ml|0.99||750|bouteille de 75 cl|5.00|70|0.1|1|0|SUL|A|
+vin_rouge|Vin rouge|BOI|ml|0.99||750|bouteille de 75 cl|5.00|75|0.1|1|0|SUL|A|
+biere|Bière blonde|BOI|ml|1.0||330|bouteille de 33 cl|1.20|45|0.4|3.5|0|GLU|A|
+cidre|Cidre brut|BOI|ml|1.0||750|bouteille de 75 cl|2.80|40|0|3|0|SUL|A|
+rhum|Rhum ambré|BOI|ml|0.95||350|bouteille de 35 cl|9.00|230|0|0|0||A|
+cafe|Café fort (préparé)|BOI|ml|1.0||1000|1 L (≈ 60 g de café moulu)|1.20|2|0.1|0|0|||
+eau|Eau|BOI|ml|1.0||1000|robinet|0|0|0|0|0|||

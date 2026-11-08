@@ -1,0 +1,446 @@
+#! Accompagnements
+## Purée de pommes de terre maison | accompagnement | facile | 10 | 25 | 4 | française | classique
+pomme_de_terre 1 kg
+lait 25 cl
+beurre 60 g
+muscade 1 pincee
+sel qs
+- Cuire les pommes de terre épluchées 25 minutes à l'eau salée.
+- Les écraser au presse-purée avec le lait chaud et le beurre.
+- Assaisonner de muscade et de sel.
+
+## Purée de patates douces | accompagnement | facile | 10 | 20 | 4 | moderne | automne
+patate_douce 800 g
+beurre 30 g
+cumin 1 pincee
+sel qs
+- Cuire la patate douce en cubes 20 minutes.
+- L'écraser avec le beurre, le cumin et le sel.
+
+## Écrasé de pommes de terre à l'huile d'olive | accompagnement | facile | 10 | 20 | 4 | méditerranéenne | végétal
+pomme_de_terre_grenaille 800 g
+huile_olive 5 cas
+ciboulette 0.5 botte
+fleur_sel qs
+- Cuire les pommes de terre 20 minutes.
+- Les écraser grossièrement à la fourchette avec l'huile, la ciboulette et la fleur de sel.
+
+## Pommes de terre sautées à l'ail | accompagnement | facile | 10 | 25 | 4 | française | végétal
+pomme_de_terre 1 kg
+ail 3 gousse
+persil 0.5 botte
+huile_olive 4 cas
+sel qs
+- Couper les pommes de terre en cubes.
+- Les faire dorer 25 minutes dans l'huile en remuant.
+- Ajouter ail et persil hachés en fin de cuisson.
+
+## Potatoes au paprika | accompagnement | facile | 10 | 35 | 4 | américaine | four,végétal
+pomme_de_terre 1 kg
+huile_olive 3 cas
+paprika 2 cac
+herbes_provence 1 cac
+sel qs
+- Couper les pommes de terre en quartiers.
+- Les enrober d'huile, d'épices et de sel.
+- Cuire 35 minutes à 210 °C en retournant à mi-cuisson.
+
+## Frites de patates douces au four | accompagnement | facile | 10 | 30 | 4 | américaine | four,végétal
+patate_douce 800 g
+maizena 1 cas
+huile_olive 3 cas
+paprika_fume 1 cac
+sel qs
+- Couper en frites, enrober de fécule, d'huile et d'épices.
+- Étaler sans superposer et cuire 30 minutes à 220 °C.
+
+## Pommes de terre grenaille rôties au romarin | accompagnement | facile | 5 | 35 | 4 | française | four,végétal
+pomme_de_terre_grenaille 800 g
+romarin 1 cac
+ail 4 gousse
+huile_olive 3 cas
+fleur_sel qs
+- Mélanger les pommes de terre entières avec l'huile, l'ail en chemise et le romarin.
+- Rôtir 35 minutes à 200 °C.
+
+## Haricots verts persillés | accompagnement | facile | 10 | 12 | 4 | française | végétal
+haricot_vert 600 g
+ail 2 gousse
+persil 0.5 botte
+beurre 20 g
+sel qs
+- Cuire les haricots 8 minutes à l'eau salée.
+- Les faire sauter au beurre avec ail et persil.
+
+## Carottes glacées | accompagnement | facile | 10 | 25 | 4 | française | enfants
+carotte 800 g
+beurre 30 g
+sucre 1 cas
+sel qs
+- Couper les carottes en rondelles, les mettre dans une sauteuse à hauteur d'eau avec beurre, sucre et sel.
+- Cuire à découvert jusqu'à évaporation et les rouler dans le glaçage.
+
+## Légumes rôtis au four | accompagnement | facile | 15 | 35 | 4 | moderne | four,végétal
+carotte 3
+patate_douce 1
+oignon_rouge 2
+butternut 0.5
+huile_olive 4 cas
+thym 1 cac
+sel qs
+- Couper les légumes en morceaux réguliers.
+- Les enrober d'huile, de thym et de sel.
+- Rôtir 35 minutes à 200 °C.
+
+## Poêlée de champignons persillés | accompagnement | facile | 10 | 15 | 4 | française | végétal
+champignon 600 g
+ail 2 gousse
+persil 0.5 botte
+huile_olive 2 cas
+sel qs
+- Saisir les champignons émincés à feu vif jusqu'à évaporation de l'eau.
+- Ajouter ail et persil, saler.
+
+## Épinards à la crème | accompagnement | facile | 5 | 15 | 4 | française | hiver
+epinard_surg 600 g
+creme_fraiche 100 g
+muscade 1 pincee
+beurre 10 g
+sel qs
+- Faire chauffer les épinards au beurre jusqu'à évaporation de l'eau.
+- Ajouter la crème et la muscade, laisser épaissir.
+
+## Petits pois à la française | accompagnement | facile | 10 | 25 | 4 | française | printemps
+petit_pois_frais 500 g
+salade 0.5
+oignon_nouveau 0.5
+beurre 30 g
+sucre 1 cac
+sel qs
+- Mettre petits pois, salade émincée et oignons dans une cocotte avec beurre, sucre et un verre d'eau.
+- Cuire 20 minutes à couvert.
+
+## Fondue de poireaux | accompagnement | facile | 10 | 25 | 4 | française | hiver
+poireau 4
+beurre 30 g
+creme_fraiche 2 cas
+sel qs
+- Émincer les poireaux et les faire fondre au beurre 25 minutes à couvert.
+- Ajouter la crème.
+
+## Choux de Bruxelles rôtis | accompagnement | facile | 10 | 25 | 4 | anglaise | hiver,végétal
+chou_bruxelles 500 g
+huile_olive 3 cas
+vinaigre_balsamique 1 cas
+sel qs
+- Couper les choux en deux, les enrober d'huile et de sel.
+- Rôtir 25 minutes à 210 °C, arroser de vinaigre.
+
+## Ratatouille express à la poêle | accompagnement | facile | 15 | 25 | 4 | provençale | été,végétal
+courgette 2
+poivron_rouge 1
+tomate 2
+oignon 1
+huile_olive 3 cas
+herbes_provence 1 cac
+sel qs
+- Faire revenir l'oignon et le poivron, ajouter la courgette en dés.
+- Ajouter les tomates et les herbes, cuire 20 minutes.
+
+## Semoule aux raisins et amandes | accompagnement | facile | 5 | 5 | 4 | orientale | rapide
+semoule 250 g
+raisins_secs 40 g
+amande_effilee 30 g
+beurre 20 g
+cannelle 1 pincee
+sel qs
+- Verser 25 cl d'eau bouillante salée sur la semoule, couvrir 5 minutes.
+- Égrainer avec le beurre, ajouter raisins, amandes grillées et cannelle.
+
+## Riz basmati parfumé | accompagnement | facile | 5 | 15 | 4 | indienne | végétal
+riz_basmati 300 g
+cardamome 1 pincee
+laurier 1 feuille
+huile_tournesol 1 cas
+sel qs
+- Rincer le riz, le faire revenir dans l'huile avec les épices.
+- Ajouter 1,5 fois son volume d'eau salée, couvrir et cuire 12 minutes.
+
+## Riz à la mexicaine | accompagnement | facile | 10 | 20 | 4 | mexicaine | végétal
+riz 300 g
+tomate_concassee 200 g
+oignon 1
+ail 1 gousse
+cumin 1 cac
+huile_olive 2 cas
+bouillon_legumes 1 cube
+- Faire dorer le riz avec l'oignon et l'ail.
+- Ajouter tomates, cumin et 50 cl de bouillon, couvrir et cuire 18 minutes.
+
+## Lentilles corail au curry | accompagnement | facile | 5 | 15 | 4 | indienne | végétal
+lentilles_corail 200 g
+curry 1 cac
+oignon 1
+huile_olive 1 cas
+sel qs
+- Faire revenir l'oignon et le curry.
+- Ajouter les lentilles et 50 cl d'eau, cuire 12 minutes.
+
+## Galettes de polenta grillées | accompagnement | facile | 10 | 15 | 4 | italienne | végétarien
+polenta 150 g
+parmesan 30 g
+beurre 20 g
+huile_olive 2 cas
+sel qs
+- Cuire la polenta dans 60 cl d'eau salée, ajouter parmesan et beurre.
+- L'étaler et la laisser refroidir, découper des carrés.
+- Les griller à la poêle avec l'huile.
+
+## Gratin de céleri et pommes de terre | accompagnement | facile | 15 | 45 | 4 | française | four,hiver
+celeri_rave 0.5
+pomme_de_terre 500 g
+creme_liquide 20 cl
+lait 15 cl
+emmental_rape 50 g
+sel qs
+- Alterner fines tranches de céleri et de pommes de terre.
+- Verser crème et lait salés, couvrir de fromage.
+- Cuire 45 minutes à 180 °C.
+
+## Brocoli sauté à l'ail et sésame | accompagnement | facile | 5 | 10 | 4 | asiatique | végétal
+brocoli 2
+ail 2 gousse
+sauce_soja 2 cas
+huile_sesame 1 cas
+graines_sesame 1 cas
+- Blanchir le brocoli 3 minutes.
+- Le faire sauter avec l'ail, la sauce soja et l'huile de sésame.
+- Parsemer de sésame.
+
+## Chou rouge braisé aux pommes | accompagnement | facile | 15 | 50 | 6 | alsacienne | hiver,végétal
+chou_rouge 1
+pomme 2
+oignon 1
+vinaigre_cidre 3 cas
+sucre_roux 2 cas
+huile_tournesol 2 cas
+sel qs
+- Faire revenir l'oignon, ajouter le chou émincé et les pommes.
+- Ajouter vinaigre, sucre et un verre d'eau.
+- Couvrir et cuire 50 minutes à feu doux.
+
+## Taboulé express à la menthe | accompagnement | facile | 10 | 0 | 4 | orientale | sans-cuisson,végétal
+semoule 200 g
+menthe 0.5 botte
+citron 1
+huile_olive 3 cas
+tomate 1
+sel qs
+- Mouiller la semoule avec 20 cl d'eau chaude salée, l'égrainer.
+- Ajouter menthe, citron, huile et tomate en dés.
+
+#! Petit-déjeuner et brunch
+## Crêpes | petit-dej | facile | 10 | 30 | 6 | française | goûter,enfants
+farine 250 g
+oeuf 4
+lait 50 cl
+sucre 2 cas
+beurre 50 g
+sel qs
+- Mélanger farine, sucre et sel, ajouter les œufs puis le lait progressivement.
+- Ajouter le beurre fondu, laisser reposer 1 h.
+- Cuire les crêpes dans une poêle chaude légèrement beurrée.
+
+## Pancakes | petit-dej | facile | 10 | 20 | 4 | américaine | brunch,enfants
+farine 200 g
+oeuf 2
+lait 25 cl
+sucre 2 cas
+levure_chimique 1 sachet
+beurre 30 g
+sirop_erable 4 cas
+- Mélanger farine, sucre et levure, ajouter œufs, lait et beurre fondu.
+- Cuire de petites louches de pâte 2 minutes par face.
+- Servir avec le sirop d'érable.
+
+## Gaufres | petit-dej | facile | 10 | 20 | 6 | belge | goûter
+farine 250 g
+oeuf 3
+lait 40 cl
+beurre 80 g
+sucre 40 g
+levure_chimique 1 sachet
+sucre_glace 2 cas
+- Mélanger farine, sucre et levure, ajouter œufs, lait et beurre fondu.
+- Cuire dans un gaufrier chaud.
+- Saupoudrer de sucre glace.
+
+## Pain perdu | petit-dej | facile | 5 | 10 | 4 | française | anti-gaspi,goûter
+pain_campagne 8 tranche
+oeuf 2
+lait 25 cl
+sucre 3 cas
+beurre 30 g
+cannelle 1 pincee
+- Battre œufs, lait, sucre et cannelle.
+- Tremper les tranches de pain rassis.
+- Les dorer au beurre 2 minutes par face.
+
+## Porridge aux fruits | petit-dej | facile | 5 | 5 | 2 | anglaise | rapide
+flocons_avoine 80 g
+lait 40 cl
+banane 1
+miel 1 cas
+cannelle 1 pincee
+- Cuire les flocons dans le lait 5 minutes en remuant.
+- Servir avec la banane en rondelles, le miel et la cannelle.
+
+## Overnight oats | petit-dej | facile | 5 | 0 | 2 | moderne | sans-cuisson
+flocons_avoine 80 g
+lait 20 cl
+yaourt_nature 1
+fruits_rouges_surg 100 g
+miel 1 cas
+- Mélanger flocons, lait, yaourt et miel dans des pots.
+- Réfrigérer une nuit et ajouter les fruits rouges au matin.
+
+## Granola maison | petit-dej | facile | 10 | 25 | 8 | moderne | batch
+flocons_avoine 300 g
+amande 80 g
+noisette 50 g
+miel 4 cas
+huile_tournesol 4 cas
+raisins_secs 50 g
+- Mélanger flocons, fruits secs concassés, miel et huile.
+- Étaler sur une plaque et cuire 25 minutes à 160 °C en remuant.
+- Ajouter les raisins secs une fois refroidi.
+
+## Bowl yaourt, granola et fruits | petit-dej | facile | 5 | 0 | 2 | moderne | rapide
+yaourt_grec 300 g
+muesli 60 g
+banane 1
+kiwi 2
+miel 1 cas
+- Répartir le yaourt dans deux bols.
+- Ajouter muesli, fruits coupés et miel.
+
+## Smoothie banane fraise | petit-dej | facile | 5 | 0 | 2 | moderne | sans-cuisson
+banane 1
+fraise 200 g
+yaourt_nature 1
+lait 20 cl
+miel 1 cas
+- Mixer tous les ingrédients jusqu'à obtenir une texture lisse.
+
+## Avocado toast et œuf poché | petit-dej | facile | 10 | 5 | 2 | moderne | brunch
+pain_campagne 2 tranche
+avocat 1
+oeuf 2
+citron 0.5
+piment_espelette 1 pincee
+vinaigre 1 cas
+sel qs
+- Écraser l'avocat avec citron et sel, tartiner sur le pain grillé.
+- Pocher les œufs 3 minutes dans l'eau vinaigrée.
+- Les poser sur les tartines, parsemer de piment.
+
+## Œufs bénédicte au saumon | petit-dej | difficile | 15 | 15 | 4 | américaine | brunch
+pain_mie 4 tranche
+oeuf 6
+saumon_fume 4 tranche
+beurre 100 g
+citron 0.5
+vinaigre 2 cas
+sel qs
+- Préparer une sauce hollandaise : fouetter 2 jaunes avec un peu d'eau au bain-marie, incorporer le beurre fondu et le citron.
+- Pocher 4 œufs 3 minutes.
+- Poser saumon et œuf sur le pain grillé, napper de sauce.
+
+## Muffins aux myrtilles | petit-dej | facile | 15 | 25 | 12 | américaine | goûter
+farine 250 g
+sucre 120 g
+oeuf 2
+lait 15 cl
+beurre 80 g
+levure_chimique 1 sachet
+myrtille 125 g
+- Mélanger farine, sucre et levure, ajouter œufs, lait et beurre fondu.
+- Incorporer les myrtilles.
+- Remplir des moules à muffins et cuire 25 minutes à 180 °C.
+
+## Banana bread | petit-dej | facile | 15 | 50 | 8 | américaine | goûter,anti-gaspi
+banane 3
+farine 200 g
+sucre_roux 100 g
+oeuf 2
+beurre 80 g
+levure_chimique 1 sachet
+cannelle 1 cac
+noix 50 g
+- Écraser les bananes, ajouter œufs, sucre et beurre fondu.
+- Incorporer farine, levure, cannelle et noix.
+- Cuire 50 minutes à 175 °C dans un moule à cake.
+
+## Brioche perdue aux fruits rouges | petit-dej | facile | 10 | 10 | 4 | française | brunch
+pain_mie 6 tranche
+oeuf 2
+lait 20 cl
+sucre 2 cas
+fruits_rouges_surg 150 g
+beurre 20 g
+- Tremper le pain dans œufs, lait et sucre battus.
+- Le dorer au beurre et servir avec les fruits rouges réchauffés.
+
+## Œufs à la coque et mouillettes | petit-dej | facile | 5 | 4 | 2 | française | rapide,enfants
+oeuf 4
+pain_mie 4 tranche
+beurre 20 g
+sel qs
+- Plonger les œufs dans l'eau bouillante 3 minutes 30.
+- Servir avec les mouillettes beurrées.
+
+## Tartines de fromage frais, radis et ciboulette | petit-dej | facile | 5 | 0 | 2 | française | printemps,sans-cuisson
+pain_campagne 4 tranche
+st_moret 100 g
+radis 0.5 botte
+ciboulette 0.5 botte
+fleur_sel qs
+- Tartiner le pain de fromage frais.
+- Ajouter radis en rondelles, ciboulette et fleur de sel.
+
+## Pain aux bananes et flocons sans sucre ajouté | petit-dej | facile | 10 | 35 | 6 | moderne | goûter
+banane 3
+flocons_avoine 150 g
+oeuf 2
+lait 10 cl
+levure_chimique 0.5 sachet
+cannelle 1 cac
+- Écraser les bananes, ajouter œufs, lait, flocons, levure et cannelle.
+- Verser dans un petit moule et cuire 35 minutes à 180 °C.
+
+## Pancakes à la banane et aux flocons | petit-dej | facile | 5 | 10 | 2 | moderne | rapide
+banane 1
+oeuf 2
+flocons_avoine 50 g
+huile_tournesol 1 cac
+- Mixer banane, œufs et flocons.
+- Cuire de petites galettes 2 minutes par face.
+
+## Chia pudding coco mangue | petit-dej | facile | 5 | 0 | 2 | moderne | sans-cuisson,végétal
+graines_chia 40 g
+lait_coco 25 cl
+mangue 0.5
+sirop_erable 1 cas
+- Mélanger graines de chia, lait de coco et sirop.
+- Réfrigérer une nuit, servir avec la mangue en dés.
+
+## Brunch shakshuka verte | petit-dej | facile | 10 | 15 | 2 | moderne | brunch
+oeuf 4
+epinard 200 g
+poireau 1
+feta 60 g
+huile_olive 2 cas
+pain_campagne 2 tranche
+- Faire fondre le poireau émincé, ajouter les épinards.
+- Creuser des puits, casser les œufs, couvrir 5 minutes.
+- Parsemer de feta, servir avec le pain.

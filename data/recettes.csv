@@ -1,0 +1,504 @@
+id,titre,categorie,difficulte,temps_total_min,portions,cuisine,kcal_portion,cout_portion_eur,regimes,allergenes,mois_saison,tags
+boeuf-bourguignon,Bœuf bourguignon,plat,moyen,210,6,française,564,4.76,sans_lactose,CEL GLU SUL,1 2 3 4 5 6 7 8 9 10 11 12,mijoté hiver familial batch
+pot-au-feu,Pot-au-feu,plat,facile,240,6,française,667,4.32,sans_porc compatible_halal sans_gluten sans_lactose,CEL,1 2 3 10 11 12,mijoté hiver familial
+hachis-parmentier,Hachis parmentier,plat,facile,60,6,française,442,2.16,sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,four familial réconfortant
+chili-con-carne,Chili con carne,plat,facile,80,6,mexicaine,569,2.65,sans_porc compatible_halal sans_gluten sans_lactose,,7 8 9 10,mijoté épicé batch
+spaghetti-bolognaise,Spaghetti bolognaise,plat,facile,75,4,italienne,653,2.59,sans_porc compatible_halal,CEL GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,familial batch
+lasagnes-a-la-bolognaise,Lasagnes à la bolognaise,plat,moyen,85,6,italienne,584,2.24,sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four familial batch
+boulettes-de-boeuf-sauce-tomate,Boulettes de bœuf sauce tomate,plat,facile,55,4,italienne,640,2.94,sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,familial
+steak-frites-maison,Steak frites maison,plat,facile,45,4,française,562,4.74,sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,classique
+burgers-maison,Burgers maison,plat,facile,35,4,américaine,863,3.06,sans_porc compatible_halal,GLU LAI MOU SES SUL,6 7 8 9,familial été
+boeuf-aux-oignons-facon-wok,Bœuf aux oignons façon wok,plat,facile,25,4,chinoise,519,2.68,sans_porc compatible_halal sans_lactose,GLU MOL SOJ,1 2 3 4 5 6 7 8 9 10 11 12,rapide wok
+carbonade-flamande,Carbonade flamande,plat,moyen,175,6,belge,612,4.14,sans_porc,GLU LAI MOU SUL,1 2 3 4 5 6 7 8 9 10 11 12,mijoté hiver
+blanquette-de-veau,Blanquette de veau,plat,moyen,150,6,française,767,4.57,sans_porc compatible_halal,CEL GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,mijoté classique
+escalopes-de-veau-a-la-creme,Escalopes de veau à la crème,plat,facile,30,4,française,620,4.99,sans_porc,GLU LAI OEU SUL,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+osso-buco,Osso buco,plat,moyen,145,4,italienne,593,5.64,sans_porc sans_lactose,CEL GLU SUL,1 2 3 4 5 6 7 8 9 10 11 12,mijoté
+tajine-d-agneau-aux-pruneaux,Tajine d'agneau aux pruneaux,plat,moyen,145,6,marocaine,856,3.67,sans_porc compatible_halal sans_lactose,FCO GLU,1 2 3 4 5 6 7 8 9 10 11 12,mijoté hiver
+navarin-d-agneau,Navarin d'agneau,plat,moyen,135,6,française,608,3.46,sans_porc compatible_halal sans_lactose,GLU,1 2 3 10 11 12,mijoté hiver
+cotelettes-d-agneau-haricots-verts-a-l-ail,"Côtelettes d'agneau, haricots verts à l'ail",plat,facile,25,4,française,556,5.07,sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+kefta-d-agneau-et-semoule,Kefta d'agneau et semoule,plat,facile,35,4,marocaine,667,3.2,sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,barbecue été
+couscous-royal,Couscous royal,plat,difficile,165,8,marocaine,1034,4.42,sans_porc compatible_halal,GLU LAI,,familial hiver
+moussaka,Moussaka,plat,moyen,100,6,grecque,549,2.82,sans_porc compatible_halal,GLU LAI OEU,6 7 8 9,four été
+roti-de-porc-aux-pommes,Rôti de porc aux pommes,plat,facile,90,6,française,431,2.24,sans_gluten,LAI SUL,1 2 3 4 5 8 9 10 11 12,four automne
+filet-mignon-a-la-moutarde,Filet mignon à la moutarde,plat,facile,40,4,française,568,4.24,sans_gluten,LAI MOU SUL,5 6 7 8 9,rapide
+saute-de-porc-au-caramel,Sauté de porc au caramel,plat,facile,60,4,vietnamienne,708,2.2,sans_lactose,GLU POI SOJ,1 2 3 4 5 6 7 8 9 10 11 12,mijoté
+cotes-de-porc-puree-maison,"Côtes de porc, purée maison",plat,facile,40,4,française,635,2.87,sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,familial
+saucisses-lentilles,Saucisses lentilles,plat,facile,50,4,française,655,2.11,sans_gluten sans_lactose,MOU,1 2 3 4 5 6 7 8 9 10 11 12,hiver économique
+petit-sale-aux-lentilles,Petit salé aux lentilles,plat,facile,105,6,française,721,2.62,sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,mijoté hiver
+choucroute-garnie,Choucroute garnie,plat,moyen,110,6,alsacienne,786,3.91,sans_gluten sans_lactose,SUL,1 2 3 4 5 6 7 8 9 10 11 12,hiver mijoté
+tartiflette,Tartiflette,plat,facile,65,6,française,637,2.19,sans_gluten,LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,hiver four réconfortant
+raclette-maison,Raclette maison,plat,facile,40,6,française,847,4.48,sans_gluten,LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,hiver convivial
+croque-monsieur,Croque-monsieur,plat,facile,25,4,française,395,1.49,,GLU LAI SOJ,4 5 6 7 8 9 10,rapide enfants
+pates-carbonara,Pâtes carbonara,plat,facile,22,4,italienne,622,1.58,,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+endives-au-jambon,Endives au jambon,plat,facile,60,4,française,390,2.76,,GLU LAI,1 2 3 4 10 11 12,hiver four
+quiche-lorraine,Quiche lorraine,plat,facile,55,6,française,387,1.01,,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,four classique
+chou-farci,Chou farci,plat,difficile,135,6,française,400,2.11,,CEL GLU LAI OEU SOJ,1 2 3 9 10 11 12,hiver familial
+tomates-farcies,Tomates farcies,plat,moyen,75,4,française,629,2.42,sans_lactose,GLU OEU,6 7 8 9,four été
+courgettes-farcies,Courgettes farcies,plat,moyen,70,4,française,379,1.99,,GLU LAI,6 7 8 9,four été
+parmentier-de-canard,Parmentier de canard,plat,moyen,60,6,française,379,1.64,sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four hiver
+magret-de-canard-au-miel,Magret de canard au miel,plat,moyen,30,4,française,556,4.73,sans_porc compatible_halal sans_gluten sans_lactose,SUL,1 2 3 4 5 6 7 8 9 10 11 12,festif
+lapin-a-la-moutarde,Lapin à la moutarde,plat,moyen,80,4,française,946,4.78,sans_porc,GLU LAI MOU OEU SUL,1 2 3 4 5 6 7 8 9 10 11 12,mijoté
+gratin-de-pates-au-jambon,Gratin de pâtes au jambon,plat,facile,40,4,française,594,1.57,,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,familial enfants économique
+coquillettes-jambon-fromage,Coquillettes jambon fromage,plat,facile,15,4,française,482,1.35,,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,rapide enfants
+pizza-reine,Pizza reine,plat,facile,30,4,italienne,609,2.43,,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four familial
+pizza-chorizo-poivrons,Pizza chorizo poivrons,plat,facile,30,4,italienne,656,2.16,,GLU LAI,7 8 9 10,four
+fajitas-au-boeuf,Fajitas au bœuf,plat,facile,30,4,mexicaine,673,4.12,sans_porc compatible_halal,GLU LAI,,rapide convivial
+tacos-de-porc-effiloche,Tacos de porc effiloché,plat,moyen,200,6,mexicaine,650,2.48,sans_lactose,GLU,1 2 3 9 10 11 12,mijoté convivial
+boeuf-bobun,Bœuf bobun,plat,moyen,40,4,vietnamienne,509,3.58,sans_porc compatible_halal sans_gluten sans_lactose,ARA POI,5 6 7 8 9,été frais
+gyoza-de-porc,Gyoza de porc,plat,difficile,60,4,japonaise,544,1.46,sans_lactose,GLU SES SOJ,1 2 10 11 12,apéro
+hachis-de-boeuf-aux-patates-douces,Hachis de bœuf aux patates douces,plat,facile,50,4,française,454,2.93,sans_porc compatible_halal sans_gluten,LAI,10 11 12,four automne
+brochettes-de-boeuf-marinees,Brochettes de bœuf marinées,plat,facile,30,4,française,363,5.05,sans_porc compatible_halal sans_gluten sans_lactose,,7 8 9,barbecue été
+saucisses-puree-oignons-confits,Saucisses purée oignons confits,plat,facile,45,4,française,659,1.96,sans_gluten,LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,familial réconfortant
+rougail-saucisses,Rougail saucisses,plat,facile,60,4,réunionnaise,855,2.78,sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,mijoté épicé
+jambon-braise-puree-de-celeri,"Jambon braisé, purée de céleri",plat,facile,45,4,française,312,1.63,sans_gluten,CEL LAI,1 2 3 9 10 11 12,hiver
+boeuf-mironton,Bœuf mironton,plat,facile,60,4,française,570,2.73,sans_porc,CEL GLU LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,économique anti-gaspi
+keftedes-a-la-grecque,Keftedes à la grecque,plat,facile,35,4,grecque,591,3.2,sans_porc compatible_halal,GLU LAI OEU,5 6 7 8 9,apéro été
+pates-a-la-saucisse-et-brocoli,Pâtes à la saucisse et brocoli,plat,facile,25,4,italienne,677,1.97,,GLU LAI,6 7 8 9 10 11,rapide
+poulet-roti-et-pommes-de-terre,Poulet rôti et pommes de terre,plat,facile,105,6,française,530,2.06,sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,four familial dimanche
+poulet-basquaise,Poulet basquaise,plat,facile,70,4,basque,787,3.59,sans_porc sans_gluten sans_lactose,SUL,7 8 9,mijoté été
+poulet-au-curry-et-lait-de-coco,Poulet au curry et lait de coco,plat,facile,45,4,indienne,715,3.45,sans_porc compatible_halal sans_gluten sans_lactose,MOU,1 2 3 4 5 6 7 8 9 10 11 12,rapide épicé
+poulet-tikka-masala,Poulet tikka masala,plat,moyen,55,4,indienne,737,3.5,sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,épicé
+poulet-a-la-creme-et-aux-champignons,Poulet à la crème et aux champignons,plat,facile,35,4,française,705,3.54,sans_porc sans_gluten,LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,rapide familial
+coq-au-vin,Coq au vin,plat,moyen,150,6,française,666,3.46,,GLU LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,mijoté hiver
+poulet-vallee-d-auge,Poulet Vallée d'Auge,plat,moyen,70,4,normande,644,2.91,sans_porc sans_gluten,LAI SUL,1 2 3 4 5 8 9 10 11 12,mijoté automne
+poulet-au-citron-et-aux-olives,Poulet au citron et aux olives,plat,facile,65,4,marocaine,790,3.17,sans_porc compatible_halal sans_lactose,GLU,1 2 3 4 5 6 7 8 9 10 11 12,mijoté
+tajine-de-poulet-aux-legumes,Tajine de poulet aux légumes,plat,facile,70,4,marocaine,508,2.86,sans_porc compatible_halal sans_gluten sans_lactose,,6 7 8 9,mijoté
+poulet-teriyaki,Poulet teriyaki,plat,facile,25,4,japonaise,637,2.65,sans_porc compatible_halal sans_lactose,GLU SES SOJ SUL,6 7 8 9 10 11,rapide
+poulet-aux-noix-de-cajou,Poulet aux noix de cajou,plat,facile,30,4,chinoise,639,2.93,sans_porc compatible_halal sans_lactose,FCO GLU MOL SOJ,7 8 9 10,wok rapide
+poulet-aigre-doux,Poulet aigre-doux,plat,facile,35,4,chinoise,661,2.99,sans_porc compatible_halal sans_lactose,GLU SOJ SUL,,familial
+pad-thai-au-poulet,Pad thaï au poulet,plat,moyen,30,4,thaïlandaise,576,2.94,sans_porc compatible_halal sans_lactose,ARA GLU OEU POI SOJ,1 2 3 4 5 6 7 8 9 10 11 12,wok
+riz-cantonais,Riz cantonais,plat,facile,25,4,chinoise,459,1.36,sans_lactose,GLU OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,rapide anti-gaspi
+nouilles-sautees-au-poulet-et-legumes,Nouilles sautées au poulet et légumes,plat,facile,25,4,chinoise,436,2.51,sans_porc compatible_halal sans_lactose,GLU MOL OEU SES SOJ,1 2 10 11 12,wok rapide
+fried-rice-au-poulet-et-ananas,Fried rice au poulet et ananas,plat,facile,25,4,thaïlandaise,584,2.1,sans_porc compatible_halal sans_lactose,FCO GLU MOU OEU POI SOJ,,wok
+curry-vert-de-poulet,Curry vert de poulet,plat,facile,35,4,thaïlandaise,628,3.47,sans_porc compatible_halal sans_gluten sans_lactose,CRU POI,6 7 8 9,épicé
+escalopes-de-poulet-panees,Escalopes de poulet panées,plat,facile,25,4,française,506,2.87,sans_porc compatible_halal sans_lactose,GLU OEU,1 2 3 4 5 6 7 8 9 10 11 12,enfants rapide
+nuggets-maison,Nuggets maison,plat,facile,35,4,américaine,517,2.47,sans_porc compatible_halal sans_lactose,GLU OEU,1 2 3 4 5 6 7 8 9 10 11 12,enfants four
+cordon-bleu-maison,Cordon bleu maison,plat,moyen,35,4,française,531,2.98,,GLU LAI OEU,4 5 6 7 8 9 10,enfants
+emince-de-dinde-a-la-moutarde,Émincé de dinde à la moutarde,plat,facile,25,4,française,532,2.54,sans_porc compatible_halal,GLU LAI MOU,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+dinde-au-paprika,Dinde au paprika,plat,facile,40,4,hongroise,601,2.97,sans_porc compatible_halal sans_gluten,LAI,7 8 9 10,mijoté
+blanquette-de-dinde-express,Blanquette de dinde express,plat,facile,45,4,française,556,3.29,sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 4 5 6 7 8 9 10 11 12,économique
+wraps-au-poulet-croustillant,Wraps au poulet croustillant,plat,facile,35,4,américaine,582,2.61,sans_porc compatible_halal,GLU LAI MOU OEU,6 7 8 9,rapide été
+poulet-yassa,Poulet yassa,plat,moyen,65,4,sénégalaise,781,2.86,sans_porc compatible_halal sans_gluten sans_lactose,MOU,1 2 3 4 5 6 7 8 9 10 11 12,mijoté
+poulet-mafe,Poulet mafé,plat,moyen,70,4,sénégalaise,984,2.99,sans_porc compatible_halal sans_gluten sans_lactose,ARA,10 11 12,mijoté
+poulet-tandoori-au-four,Poulet tandoori au four,plat,facile,50,4,indienne,651,2.65,sans_porc compatible_halal sans_gluten,LAI,5 6 7 8 9,four
+poulet-satay,Poulet satay,plat,facile,35,4,indonésienne,623,2.74,sans_porc compatible_halal sans_lactose,ARA GLU MOU SOJ,5 6 7 8 9,barbecue
+fajitas-au-poulet,Fajitas au poulet,plat,facile,30,4,mexicaine,634,3.41,sans_porc compatible_halal,GLU LAI,7 8 9 10,convivial
+quesadillas-poulet-mais,Quesadillas poulet maïs,plat,facile,25,4,mexicaine,533,2.57,sans_porc compatible_halal,GLU LAI,7 8 9 10,rapide
+burrito-bowl-au-poulet,Burrito bowl au poulet,plat,facile,40,4,mexicaine,615,3.01,sans_porc compatible_halal sans_gluten,LAI,,équilibré
+poulet-grille-salade-de-pates-au-pesto,"Poulet grillé, salade de pâtes au pesto",plat,facile,30,4,italienne,647,3.42,sans_porc compatible_halal,FCO GLU LAI,6 7 8 9,été
+saltimbocca-de-poulet,Saltimbocca de poulet,plat,moyen,30,4,italienne,541,3.35,,GLU LAI OEU SUL,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+poulet-parmigiana,Poulet parmigiana,plat,moyen,45,4,italienne,837,3.81,sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,four
+risotto-au-poulet-et-champignons,Risotto au poulet et champignons,plat,moyen,45,4,italienne,541,2.59,sans_porc sans_gluten,CEL LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,réconfortant
+paella,Paëlla,plat,difficile,75,6,espagnole,756,3.92,sans_gluten,CEL CRU LAI MOL,7 8 9 10,convivial été
+aiguillettes-de-poulet-au-miel-et-citron,Aiguillettes de poulet au miel et citron,plat,facile,25,4,française,515,2.68,sans_porc compatible_halal sans_lactose,GLU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+cuisses-de-poulet-roties-au-paprika,Cuisses de poulet rôties au paprika,plat,facile,55,4,française,564,2.73,sans_porc compatible_halal sans_gluten sans_lactose,,10 11 12,four économique
+poulet-au-four-legumes-du-soleil,"Poulet au four, légumes du soleil",plat,facile,60,4,provençale,474,2.98,sans_porc compatible_halal sans_gluten sans_lactose,,7 8 9,four été
+waterzoi-de-poulet,Waterzoï de poulet,plat,moyen,65,4,belge,584,3.66,sans_porc compatible_halal sans_gluten,CEL LAI OEU,9 10 11,hiver
+poule-au-pot-express,Poule au pot express,plat,facile,80,4,française,645,2.87,sans_porc compatible_halal sans_gluten sans_lactose,CEL,1 2 3 10 11 12,hiver
+poulet-aux-40-gousses-d-ail,Poulet aux 40 gousses d'ail,plat,facile,85,4,provençale,639,2.8,sans_porc sans_lactose,GLU SUL,1 2 3 4 5 6 7 8 9 10 11 12,four
+poulet-shawarma,Poulet shawarma,plat,facile,40,4,libanaise,665,3.07,sans_porc compatible_halal,GLU LAI SES,6 7 8 9,convivial
+brochettes-de-poulet-yakitori,Brochettes de poulet yakitori,plat,facile,30,4,japonaise,606,2.44,sans_porc compatible_halal sans_lactose,GLU SES SOJ,1 2 3 4 5 6 7 8 9 10 11 12,barbecue apéro
+poulet-sauce-aux-poivrons-et-chorizo,Poulet sauce aux poivrons et chorizo,plat,facile,45,4,espagnole,624,3.18,sans_gluten,LAI,7 8 9 10,mijoté
+tagliatelles-au-poulet-et-pesto,Tagliatelles au poulet et pesto,plat,facile,25,4,italienne,677,2.68,sans_porc compatible_halal,FCO GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+gratin-de-poulet-au-brocoli,Gratin de poulet au brocoli,plat,facile,45,4,française,371,2.42,sans_porc compatible_halal,GLU LAI,6 7 8 9 10 11,four
+croquettes-de-dinde-et-puree-de-carottes,Croquettes de dinde et purée de carottes,plat,facile,45,4,française,419,2.33,sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,enfants
+poulet-au-boursin-et-pommes-de-terre,Poulet au Boursin et pommes de terre,plat,facile,50,4,française,506,3.15,sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,four familial
+pilons-de-poulet-laques,Pilons de poulet laqués,plat,facile,50,4,américaine,673,2.92,sans_porc compatible_halal sans_lactose,GLU SOJ,8 9 10,four enfants
+bouillon-de-poulet-aux-nouilles,Bouillon de poulet aux nouilles,plat,facile,45,4,asiatique,286,2.58,sans_porc compatible_halal sans_lactose,CEL GLU OEU SOJ,1 2 10 11 12,hiver léger
+poulet-korma,Poulet korma,plat,moyen,45,4,indienne,708,3.33,sans_porc compatible_halal sans_gluten,FCO LAI,1 2 3 4 5 6 7 8 9 10 11 12,doux
+poulet-piri-piri-et-riz-aux-haricots,Poulet piri-piri et riz aux haricots,plat,facile,50,4,portugaise,755,2.64,sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,four épicé
+poelee-de-gnocchis-au-poulet-et-epinards,Poêlée de gnocchis au poulet et épinards,plat,facile,20,4,italienne,416,2.61,sans_porc compatible_halal,GLU LAI,3 4 5 6 9 10 11,rapide
+poulet-marengo,Poulet Marengo,plat,moyen,70,4,française,624,3.21,sans_porc sans_gluten sans_lactose,SUL,1 2 3 4 5 6 7 8 9 10 11 12,mijoté
+galettes-de-sarrasin-poulet-champignons,Galettes de sarrasin poulet champignons,plat,moyen,40,4,bretonne,539,2.26,sans_porc compatible_halal sans_gluten,LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,crêperie
+saumon-en-papillote-riz-et-citron,"Saumon en papillote, riz et citron",plat,facile,30,4,française,606,4.31,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,POI,6 7 8 9,four léger
+pave-de-saumon-creme-d-epinards-au-citron,"Pavé de saumon, crème d'épinards au citron",plat,facile,25,4,française,583,4.85,pescetarien sans_porc compatible_halal sans_gluten,LAI POI,5 6 9,rapide
+tagliatelles-au-saumon,Tagliatelles au saumon,plat,facile,25,4,italienne,596,2.5,pescetarien sans_porc compatible_halal,GLU LAI OEU POI,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+pates-au-saumon-fume-et-petits-pois,Pâtes au saumon fumé et petits pois,plat,facile,17,4,française,474,1.96,pescetarien sans_porc compatible_halal,GLU LAI POI,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+quiche-saumon-epinards,Quiche saumon épinards,plat,facile,55,6,française,420,1.95,pescetarien sans_porc compatible_halal,GLU LAI OEU POI,1 2 3 4 5 6 7 8 9 10 11 12,four
+poke-bowl-au-saumon,Poké bowl au saumon,plat,facile,35,4,hawaïenne,568,2.8,pescetarien sans_porc compatible_halal sans_lactose,GLU POI SES SOJ SUL,,frais été
+saumon-teriyaki-et-legumes-sautes,Saumon teriyaki et légumes sautés,plat,facile,25,4,japonaise,631,4.48,pescetarien sans_porc compatible_halal sans_lactose,GLU POI SES SOJ,6 7 8 9 10 11,rapide
+gratin-de-saumon-et-pommes-de-terre,Gratin de saumon et pommes de terre,plat,facile,60,4,française,548,2.73,pescetarien sans_porc compatible_halal sans_gluten,LAI POI,1 2 3 4 5 6 7 8 9 10 11 12,four familial
+cabillaud-a-la-provencale,Cabillaud à la provençale,plat,facile,40,4,provençale,534,4.75,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,POI,6 7 8 9,été
+cabillaud-puree-de-brocoli,"Cabillaud, purée de brocoli",plat,facile,30,4,française,265,4.47,pescetarien sans_porc compatible_halal sans_gluten,LAI POI,6 7 8 9 10 11,léger
+fish-and-chips,Fish and chips,plat,moyen,45,4,anglaise,725,2.42,pescetarien sans_porc sans_lactose,GLU MOU OEU POI,1 2 3 4 5 6 7 8 9 10 11 12,friture
+brandade-de-morue-facon-parmentier,Brandade de morue façon parmentier,plat,moyen,55,6,provençale,364,1.78,pescetarien sans_porc compatible_halal,GLU LAI POI,1 2 3 4 5 6 7 8 9 10 11 12,four
+colin-sauce-beurre-blanc,Colin sauce beurre blanc,plat,moyen,30,4,française,472,2.21,pescetarien sans_porc sans_gluten,LAI POI SUL,1 2 3 4 5 6 7 8 9 10 11 12,classique
+filets-de-poisson-panes-puree,"Filets de poisson panés, purée",plat,facile,40,4,française,578,2.28,pescetarien sans_porc compatible_halal,GLU LAI OEU POI,1 2 3 4 5 6 7 8 9 10 11 12,enfants
+curry-de-poisson-au-lait-de-coco,Curry de poisson au lait de coco,plat,facile,35,4,indienne,660,3.03,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU POI,1 2 3 4 5 6 7 8 9 10 11 12,épicé
+moules-marinieres-frites,Moules marinières frites,plat,facile,30,4,belge,783,3.34,pescetarien sans_porc sans_gluten,LAI MOL SUL,1 2 3 4 5 6 7 8 9 10 11 12,convivial
+moules-a-la-creme-et-au-curry,Moules à la crème et au curry,plat,facile,30,4,française,740,3.16,pescetarien sans_porc,GLU LAI MOL MOU SUL,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+crevettes-sautees-a-l-ail-et-persil,Crevettes sautées à l'ail et persil,plat,facile,20,4,française,478,2.48,pescetarien sans_porc compatible_halal sans_gluten,CRU LAI,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+curry-de-crevettes-coco,Curry de crevettes coco,plat,facile,30,4,thaïlandaise,562,3.35,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CRU,7 8 9,épicé
+risotto-aux-crevettes-et-citron,Risotto aux crevettes et citron,plat,moyen,35,4,italienne,469,2.53,pescetarien sans_porc sans_gluten,CEL CRU LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,réconfortant
+spaghetti-aux-crevettes-et-tomates-cerises,Spaghetti aux crevettes et tomates cerises,plat,facile,25,4,italienne,486,2.64,pescetarien sans_porc compatible_halal sans_lactose,CRU GLU,6 7 8 9,été
+thon-a-la-tomate-et-aux-poivrons,Thon à la tomate et aux poivrons,plat,facile,35,4,espagnole,471,2.1,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,POI,7 8 9 10,économique
+pates-au-thon-et-a-la-tomate,Pâtes au thon et à la tomate,plat,facile,20,4,italienne,483,1.4,pescetarien sans_porc compatible_halal sans_lactose,GLU POI,1 2 3 4 5 6 7 8 9 10 11 12,rapide économique
+gratin-de-pates-au-thon,Gratin de pâtes au thon,plat,facile,40,4,française,494,1.41,pescetarien sans_porc compatible_halal,GLU LAI OEU POI,1 2 3 4 5 6 7 8 9 10 11 12,four économique
+tarte-au-thon-et-a-la-moutarde,Tarte au thon et à la moutarde,plat,facile,45,6,française,307,1.19,pescetarien sans_porc compatible_halal,GLU LAI MOU OEU POI,6 7 8 9,four économique
+rillettes-de-thon-et-pain-grille,Rillettes de thon et pain grillé,entree,facile,10,4,française,301,1.54,pescetarien sans_porc compatible_halal,GLU LAI POI,1 2 3 4 5 6 7 8 9 10 11 12,apéro sans-cuisson
+maquereaux-au-four-pommes-de-terre,"Maquereaux au four, pommes de terre",plat,facile,40,4,bretonne,549,3.09,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,POI,1 2 3 4 5 6 7 8 9 10 11 12,four économique
+sardines-grillees-salade-de-tomates,"Sardines grillées, salade de tomates",plat,facile,20,4,portugaise,608,3.03,pescetarien sans_porc compatible_halal sans_lactose,GLU POI,6 7 8 9,barbecue été
+dorade-au-four-et-fenouil,Dorade au four et fenouil,plat,facile,45,4,méditerranéenne,262,4.58,pescetarien sans_porc sans_gluten sans_lactose,POI SUL,6 7 8 9 10,four
+truite-aux-amandes,Truite aux amandes,plat,facile,25,4,française,411,3.68,pescetarien sans_porc compatible_halal,FCO GLU LAI POI,1 2 3 4 5 6 7 8 9 10 11 12,classique
+poisson-blanc-a-la-creme-de-poireaux,Poisson blanc à la crème de poireaux,plat,facile,40,4,française,616,2.69,pescetarien sans_porc sans_gluten,LAI POI SUL,1 2 3 4 9 10 11 12,hiver
+parmentier-de-poisson,Parmentier de poisson,plat,facile,50,4,française,418,2.26,pescetarien sans_porc compatible_halal sans_gluten,LAI POI,1 2 3 4 5 6 7 8 9 10 11 12,four familial
+accras-de-morue,Accras de morue,entree,moyen,40,6,antillaise,300,1.06,pescetarien sans_porc compatible_halal sans_lactose,GLU OEU POI,1 2 3 4 5 6 7 8 9 10 11 12,apéro friture
+tacos-de-poisson,Tacos de poisson,plat,facile,30,4,mexicaine,512,2.72,pescetarien sans_porc compatible_halal,GLU LAI POI,1 2 3 9 10 11 12,été
+calamars-a-la-plancha,Calamars à la plancha,plat,facile,20,4,espagnole,448,2.18,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOL,1 2 3 4 5 6 7 8 9 10 11 12,été
+saint-jacques-poelees-fondue-de-poireaux,"Saint-Jacques poêlées, fondue de poireaux",plat,moyen,40,4,française,530,3.79,pescetarien sans_porc compatible_halal sans_gluten,LAI MOL,1 2 3 4 9 10 11 12,festif
+bouillabaisse-simplifiee,Bouillabaisse simplifiée,plat,difficile,70,6,provençale,545,3.33,pescetarien sans_porc compatible_halal sans_lactose,GLU MOL MOU OEU POI,6 7 8 9 10,festif
+soupe-thai-aux-crevettes,Soupe thaï aux crevettes,soupe,facile,30,4,thaïlandaise,276,2.73,sans_porc compatible_halal sans_gluten sans_lactose,CEL CRU POI,1 2 3 4 5 6 7 8 9 10 11 12,épicé
+salade-nicoise,Salade niçoise,salade,facile,30,4,provençale,347,2.59,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,OEU POI SUL,7 8 9,été sans-four
+saumon-grille-lentilles-vertes,"Saumon grillé, lentilles vertes",plat,facile,35,4,française,567,4.06,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU POI SUL,1 2 3 4 5 6 7 8 9 10 11 12,équilibré
+gravlax-de-saumon,Gravlax de saumon,entree,moyen,15,6,scandinave,214,2.6,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,POI,1 2 3 4 5 6 7 8 9 10 11 12,festif sans-cuisson
+tartare-de-saumon-a-l-avocat,Tartare de saumon à l'avocat,entree,facile,20,4,française,248,2.36,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,POI,,frais sans-cuisson
+crumble-de-poisson-aux-legumes,Crumble de poisson aux légumes,plat,facile,50,4,française,353,2.6,pescetarien sans_porc compatible_halal,GLU LAI POI,6 7 8 9,four
+brochettes-de-crevettes-et-ananas,Brochettes de crevettes et ananas,plat,facile,25,4,asiatique,443,2.68,pescetarien sans_porc compatible_halal sans_lactose,CRU GLU SOJ,,barbecue été
+lieu-noir-sauce-vierge,Lieu noir sauce vierge,plat,facile,30,4,française,548,2.77,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,POI,6 7 8 9,été léger
+sardines-a-la-tomate-sur-toasts,Sardines à la tomate sur toasts,plat,facile,20,4,portugaise,415,1.81,pescetarien sans_porc compatible_halal sans_lactose,GLU POI,6 7 8 9,rapide économique
+cake-au-thon-et-olives,Cake au thon et olives,entree,facile,60,8,française,305,0.88,pescetarien sans_porc compatible_halal,GLU LAI OEU POI,1 2 3 4 5 6 7 8 9 10 11 12,apéro pique-nique
+riz-saute-aux-crevettes,Riz sauté aux crevettes,plat,facile,20,4,chinoise,471,2.18,pescetarien sans_porc compatible_halal sans_lactose,CRU GLU OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,wok rapide
+omelette-aux-crevettes-et-ciboulette,Omelette aux crevettes et ciboulette,plat,facile,13,2,française,311,2.97,pescetarien sans_porc compatible_halal sans_gluten,CRU LAI OEU,4 5 6 7 8 9 10,rapide
+cabillaud-en-croute-de-chorizo,Cabillaud en croûte de chorizo,plat,facile,30,4,espagnole,385,4.6,,GLU LAI POI,5 6 7 8 9,four
+saumon-gravlax-en-poke-au-riz-vinaigre,Saumon gravlax en poke au riz vinaigré,plat,facile,30,4,japonaise,442,2.22,pescetarien sans_porc compatible_halal sans_lactose,GLU POI SES SOJ SUL,,frais
+encornets-a-l-armoricaine,Encornets à l'armoricaine,plat,moyen,55,4,bretonne,517,2.56,pescetarien sans_porc sans_gluten sans_lactose,MOL SUL,1 2 3 4 5 6 7 8 9 10 11 12,mijoté
+colin-aux-legumes-vapeur-et-beurre-citronne,Colin aux légumes vapeur et beurre citronné,plat,facile,30,4,française,313,2.24,pescetarien sans_porc compatible_halal sans_gluten,LAI POI,6 7 8 9,léger
+tartines-de-maquereau-et-fromage-frais,Tartines de maquereau et fromage frais,entree,facile,10,4,française,340,1.61,pescetarien sans_porc,GLU LAI POI SUL,4 5 6 7,apéro rapide
+nouilles-soba-au-saumon,Nouilles soba au saumon,plat,facile,25,4,japonaise,446,2.83,pescetarien sans_porc compatible_halal sans_lactose,GLU OEU POI SES SOJ,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+croquettes-de-saumon-et-pommes-de-terre,Croquettes de saumon et pommes de terre,plat,facile,35,4,française,402,2.39,pescetarien sans_porc compatible_halal sans_lactose,GLU OEU POI,4 5 6 7 8 9 10,enfants
+spaghetti-a-la-tomate-et-au-basilic,Spaghetti à la tomate et au basilic,plat,facile,35,4,italienne,542,1.35,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,rapide économique
+pates-all-arrabbiata,Pâtes all'arrabbiata,plat,facile,25,4,italienne,506,0.98,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,1 2 3 4 5 6 7 8 9 10 11 12,épicé végétal
+spaghetti-aglio-e-olio,Spaghetti aglio e olio,plat,facile,17,4,italienne,612,0.68,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,1 2 3 4 5 6 7 8 9 10 11 12,rapide végétal économique
+pates-au-pesto-haricots-verts-et-pommes-de-terre,"Pâtes au pesto, haricots verts et pommes de terre",plat,facile,25,4,italienne,551,1.21,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,6 7 8 9,été
+pates-aux-legumes-du-soleil-et-feta,Pâtes aux légumes du soleil et feta,plat,facile,35,4,méditerranéenne,591,1.97,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,7 8 9,été
+pates-cremeuses-aux-champignons,Pâtes crémeuses aux champignons,plat,facile,25,4,italienne,569,1.62,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,rapide hiver
+pates-au-potiron-et-a-la-sauge,Pâtes au potiron et à la sauge,plat,facile,40,4,italienne,601,1.31,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,1 2 9 10 11 12,automne
+pates-au-brocoli-et-citron,Pâtes au brocoli et citron,plat,facile,25,4,italienne,548,1.47,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,6 7 8 9 10 11,rapide
+cacio-e-pepe,Cacio e pepe,plat,facile,17,4,italienne,516,1.18,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+lasagnes-aux-legumes,Lasagnes aux légumes,plat,moyen,75,6,italienne,490,2.09,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,7 8 9,four familial
+lasagnes-epinards-ricotta,Lasagnes épinards ricotta,plat,moyen,65,6,italienne,419,1.23,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four
+cannellonis-ricotta-epinards,Cannellonis ricotta épinards,plat,moyen,65,4,italienne,439,1.93,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four
+gnocchis-a-la-sauce-tomate-et-mozzarella,Gnocchis à la sauce tomate et mozzarella,plat,facile,25,4,italienne,414,1.57,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four rapide
+gnocchis-poeles-beurre-et-sauge,"Gnocchis poêlés, beurre et sauge",plat,facile,17,4,italienne,388,1.35,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+ravioli-au-beurre-de-tomates-sechees,Ravioli au beurre de tomates séchées,plat,facile,15,4,italienne,459,2.25,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+mac-and-cheese,Mac and cheese,plat,facile,40,4,américaine,737,1.13,vegetarien pescetarien sans_porc compatible_halal,GLU LAI MOU,1 2 3 4 5 6 7 8 9 10 11 12,four réconfortant
+risotto-aux-champignons,Risotto aux champignons,plat,moyen,40,4,italienne,480,1.9,vegetarien pescetarien sans_porc sans_gluten,CEL LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,réconfortant
+risotto-a-la-courge-butternut,Risotto à la courge butternut,plat,moyen,45,4,italienne,505,1.51,vegetarien pescetarien sans_porc sans_gluten,CEL LAI SUL,1 2 9 10 11 12,automne
+risotto-aux-asperges-et-petits-pois,Risotto aux asperges et petits pois,plat,moyen,40,4,italienne,478,2.54,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,5 6,printemps
+risotto-aux-poireaux-et-chevre,Risotto aux poireaux et chèvre,plat,moyen,40,4,française,451,1.4,vegetarien pescetarien sans_porc sans_gluten,CEL LAI SUL,1 2 3 4 9 10 11 12,hiver
+curry-de-legumes-au-lait-de-coco,Curry de légumes au lait de coco,plat,facile,45,4,indienne,709,1.75,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU,1 2 3 4 9 10 11 12,végétal
+riz-frit-aux-legumes-et-oeuf,Riz frit aux légumes et œuf,plat,facile,20,4,chinoise,432,0.99,vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,rapide anti-gaspi
+biryani-de-legumes,Biryani de légumes,plat,moyen,55,4,indienne,504,1.32,vegetarien pescetarien sans_porc compatible_halal sans_gluten,FCO LAI SUL,1 2 3 4 9 10 11 12,épicé
+bibimbap-vegetarien,Bibimbap végétarien,plat,moyen,45,4,coréenne,487,2.36,vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU OEU SES SOJ,6 9,équilibré
+buddha-bowl-quinoa-patate-douce-et-pois-chiches,"Buddha bowl quinoa, patate douce et pois chiches",plat,facile,45,4,moderne,599,2.07,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,SES,,équilibré végétal
+taboule-libanais,Taboulé libanais,salade,facile,25,4,libanaise,322,2.11,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,6 7 8 9,été frais sans-cuisson
+taboule-de-semoule,Taboulé de semoule,salade,facile,20,4,française,493,1.43,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SUL,7 8 9,été sans-cuisson
+polenta-cremeuse-aux-champignons,Polenta crémeuse aux champignons,plat,facile,25,4,italienne,379,1.48,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,hiver
+boulgour-aux-legumes-a-l-orientale,Boulgour aux légumes à l'orientale,plat,facile,35,4,orientale,405,1.28,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,CEL GLU,7 8 9,végétal
+paella-vegetarienne,Paëlla végétarienne,plat,moyen,55,4,espagnole,501,2.12,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL,7 8 9,végétal
+nouilles-sautees-au-tofu-et-legumes,Nouilles sautées au tofu et légumes,plat,facile,25,4,asiatique,467,1.63,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,ARA GLU SOJ,10,wok végétal
+pad-thai-au-tofu,Pad thaï au tofu,plat,moyen,30,4,thaïlandaise,476,1.67,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,ARA GLU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,wok végétal
+ramen-vegetarien,Ramen végétarien,soupe,moyen,35,4,japonaise,411,2.39,vegetarien pescetarien sans_porc compatible_halal sans_lactose,CEL GLU OEU SES SOJ,1 2 10 11 12,hiver
+pizza-margherita,Pizza margherita,plat,facile,22,4,italienne,660,2.05,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four familial
+pizza-aux-legumes-grilles,Pizza aux légumes grillés,plat,facile,30,4,italienne,647,2.31,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,7 8 9,four été
+pizza-chevre-miel,Pizza chèvre miel,plat,facile,22,4,française,704,2.22,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four
+pizza-quatre-fromages,Pizza quatre fromages,plat,facile,22,4,italienne,597,2.09,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four
+flammekueche-vegetarienne,Flammekueche végétarienne,plat,facile,25,4,alsacienne,553,1.55,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four
+pates-a-la-carbonara-vegetarienne,Pâtes à la carbonara végétarienne,plat,facile,25,4,italienne,575,1.44,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,6 7 8 9,rapide
+one-pot-pasta-tomate-epinards,One pot pasta tomate épinards,plat,facile,25,4,italienne,417,1.66,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,CEL GLU,6 9,rapide végétal
+penne-au-gorgonzola-et-noix,Penne au gorgonzola et noix,plat,facile,17,4,italienne,660,1.38,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+tortellini-a-la-creme-et-aux-petits-pois,Tortellini à la crème et aux petits pois,plat,facile,15,4,italienne,474,2.2,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+riz-pilaf-aux-legumes,Riz pilaf aux légumes,plat,facile,30,4,turque,386,0.5,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 4 5 6 7 8 9 10 11 12,économique
+chili-sin-carne,Chili sin carne,plat,facile,50,4,mexicaine,671,1.9,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,7 8 9 10,végétal batch
+enchiladas-aux-haricots-noirs-et-fromage,Enchiladas aux haricots noirs et fromage,plat,moyen,45,4,mexicaine,684,2.04,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four
+tacos-vegetariens-aux-patates-douces,Tacos végétariens aux patates douces,plat,facile,40,4,mexicaine,589,1.91,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,,végétal
+semoule-aux-sept-legumes,Semoule aux sept légumes,plat,moyen,75,6,marocaine,556,1.39,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,,végétal hiver
+quinoa-saute-aux-legumes-et-cajou,Quinoa sauté aux légumes et cajou,plat,facile,30,4,moderne,433,1.68,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,FCO GLU SES SOJ,7 8 9 10,végétal
+galettes-de-sarrasin-completes-vegetariennes,Galettes de sarrasin complètes végétariennes,plat,moyen,35,4,bretonne,490,1.36,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,crêperie
+nouilles-au-beurre-de-cacahuete,Nouilles au beurre de cacahuète,plat,facile,20,4,asiatique,416,1.19,vegetarien pescetarien sans_porc compatible_halal sans_lactose,ARA GLU OEU SOJ,5 6 7 8 9,rapide végétal
+orzotto-aux-tomates-et-basilic,Orzotto aux tomates et basilic,plat,facile,25,4,italienne,395,1.53,vegetarien pescetarien sans_porc compatible_halal,CEL GLU LAI,6 7 8 9,été
+pates-a-la-ricotta-et-citron,Pâtes à la ricotta et citron,plat,facile,17,4,italienne,499,1.53,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+riz-au-curry-de-pois-chiches-et-epinards,Riz au curry de pois chiches et épinards,plat,facile,30,4,indienne,641,1.54,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,végétal
+gratin-de-macaronis-aux-champignons,Gratin de macaronis aux champignons,plat,facile,35,4,française,567,1.22,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four
+pates-primavera,Pâtes primavera,plat,facile,30,4,italienne,501,1.98,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,6,printemps
+wok-de-legumes-et-riz-jasmin,Wok de légumes et riz jasmin,plat,facile,30,4,asiatique,417,0.83,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SES SOJ,1 2 3 4 5 6 7 8 9 10 11 12,végétal rapide
+dahl-de-lentilles-corail,Dahl de lentilles corail,plat,facile,35,4,indienne,767,1.61,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU,1 2 3 4 5 6 7 8 9 10 11 12,végétal économique
+chana-masala,Chana masala,plat,facile,35,4,indienne,552,1.44,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,végétal
+curry-de-pois-chiches-et-patate-douce,Curry de pois chiches et patate douce,plat,facile,40,4,indienne,716,1.85,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU,10 11,végétal
+falafels-et-sauce-tahini,Falafels et sauce tahini,plat,moyen,40,4,libanaise,682,2.13,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SES,6 7 8 9,végétal
+houmous-bowl-et-legumes-rotis,Houmous bowl et légumes rôtis,plat,facile,45,4,méditerranéenne,560,1.69,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SES,1 2 3 4 9 10 11 12,végétal
+lentilles-vertes-aux-legumes,Lentilles vertes aux légumes,plat,facile,40,4,française,356,0.71,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL MOU,1 2 3 4 5 6 7 8 9 10 11 12,végétal économique
+haricots-blancs-a-la-tomate,Haricots blancs à la tomate,plat,facile,30,4,française,337,1.17,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,1 2 3 4 5 6 7 8 9 10 11 12,végétal économique
+cassoulet-vegetarien,Cassoulet végétarien,plat,moyen,65,4,française,398,1.68,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,four hiver
+steaks-de-haricots-rouges,Steaks de haricots rouges,plat,facile,35,4,moderne,540,1.41,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SES,6 7 8 9,végétal
+galettes-de-pois-chiches-et-carottes,Galettes de pois chiches et carottes,plat,facile,35,4,moderne,287,0.94,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,4 5 6 7 8 9 10,végétal
+tofu-saute-au-gingembre-et-brocoli,Tofu sauté au gingembre et brocoli,plat,facile,25,4,asiatique,569,1.9,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SOJ,6 7 8 9 10 11,végétal wok
+tofu-general-tao,Tofu général Tao,plat,moyen,30,4,chinoise,600,1.45,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SES SOJ SUL,1 2 3 4 5 6 7 8 9 10 11 12,végétal
+curry-de-tofu-et-legumes,Curry de tofu et légumes,plat,facile,35,4,thaïlandaise,588,2.44,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SOJ,7 8 9,végétal
+omelette-aux-fines-herbes,Omelette aux fines herbes,plat,facile,13,2,française,265,1.72,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI OEU,4 5 6 7 8 9 10,rapide
+omelette-aux-pommes-de-terre-tortilla,Omelette aux pommes de terre (tortilla),plat,facile,45,4,espagnole,496,1.1,vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,OEU,1 2 3 4 5 6 7 8 9 10 11 12,apéro pique-nique
+frittata-aux-legumes,Frittata aux légumes,plat,facile,35,4,italienne,293,1.8,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI OEU,7 8 9,four anti-gaspi
+oeufs-cocotte-a-la-creme,Œufs cocotte à la crème,entree,facile,17,4,française,209,0.74,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+shakshuka,Shakshuka,plat,facile,35,4,orientale,468,2.24,vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU OEU,7 8 9 10,végétarien
+oeufs-brouilles-champignons-et-pain-grille,"Œufs brouillés, champignons et pain grillé",plat,facile,15,2,française,508,2.28,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+oeufs-mimosa,Œufs mimosa,entree,facile,25,4,française,225,0.97,vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU OEU,4 5 6 7 8 9 10,classique
+oeufs-en-meurette,Œufs en meurette,plat,moyen,45,4,bourguignonne,525,2.35,vegetarien pescetarien sans_porc,GLU LAI OEU SUL,1 2 3 4 5 6 7 8 9 10 11 12,classique
+quiche-aux-poireaux,Quiche aux poireaux,plat,facile,60,6,française,390,1.1,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 9 10 11 12,four hiver
+quiche-chevre-courgettes,Quiche chèvre courgettes,plat,facile,55,6,française,395,1.24,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,6 7 8 9,four été
+quiche-brocoli-et-comte,Quiche brocoli et comté,plat,facile,55,6,française,386,1.25,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,6 7 8 9 10 11,four
+tarte-a-la-tomate-et-a-la-moutarde,Tarte à la tomate et à la moutarde,plat,facile,50,6,française,271,0.84,vegetarien pescetarien sans_porc compatible_halal,GLU LAI MOU,6 7 8 9,four été
+tarte-fine-aux-legumes-et-chevre,Tarte fine aux légumes et chèvre,plat,facile,40,4,française,413,1.42,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,6 7 8 9,four été
+tarte-aux-oignons,Tarte aux oignons,plat,facile,65,6,alsacienne,370,0.87,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,four hiver
+tarte-butternut-feta-et-noix,"Tarte butternut, feta et noix",plat,facile,55,6,moderne,424,1.17,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI OEU,1 2 9 10 11 12,four automne
+feuillete-epinards-feta,Feuilleté épinards feta,plat,moyen,55,6,grecque,291,1.23,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,four
+gratin-dauphinois,Gratin dauphinois,plat,facile,95,6,française,446,0.85,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,four classique
+gratin-de-chou-fleur,Gratin de chou-fleur,plat,facile,45,4,française,321,1.15,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 9 10 11 12,four hiver
+gratin-de-courgettes,Gratin de courgettes,plat,facile,50,4,française,340,1.47,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI OEU,6 7 8 9,four été
+gratin-de-butternut,Gratin de butternut,plat,facile,50,4,française,362,1.23,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 9 10 11 12,four automne
+gratin-de-pommes-de-terre-et-poireaux,Gratin de pommes de terre et poireaux,plat,facile,65,4,française,496,1.28,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 9 10 11 12,four hiver
+gratin-d-endives-au-comte,Gratin d'endives au comté,plat,facile,50,4,française,331,1.69,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 10 11 12,four hiver
+ratatouille,Ratatouille,plat,facile,75,6,provençale,230,1.62,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,7 8 9,été végétal
+tian-provencal,Tian provençal,plat,facile,70,4,provençale,206,1.32,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,6 7 8 9,four été végétal
+aubergines-a-la-parmigiana,Aubergines à la parmigiana,plat,moyen,65,4,italienne,460,2.34,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,6 7 8 9,four été
+legumes-farcis-au-riz-et-feta,Légumes farcis au riz et feta,plat,moyen,70,4,grecque,420,1.74,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,7 8 9,four été
+champignons-farcis,Champignons farcis,entree,facile,35,4,française,162,1.39,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four apéro
+poelee-de-legumes-et-oeufs-au-plat,Poêlée de légumes et œufs au plat,plat,facile,30,4,française,328,1.18,vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,OEU,7 8 9,rapide anti-gaspi
+pommes-de-terre-au-four-et-fromage-blanc-aux-herbes,Pommes de terre au four et fromage blanc aux herbes,plat,facile,60,4,française,374,1.22,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,4 5 6 7 8 9 10,four économique
+galettes-de-pommes-de-terre-rostis,Galettes de pommes de terre (röstis),plat,facile,35,4,suisse,344,0.77,vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU OEU,4 5 6 7 8 9 10,économique
+croquettes-de-legumes-et-fromage,Croquettes de légumes et fromage,plat,facile,35,4,française,292,0.72,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,6 7 8 9,enfants
+gnocchis-de-patate-douce,Gnocchis de patate douce,plat,difficile,55,4,italienne,418,0.96,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,10 11 12,fait-maison
+crepes-salees-aux-epinards-et-ricotta,Crêpes salées aux épinards et ricotta,plat,moyen,45,4,française,490,1.66,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,four
+chou-fleur-roti-entier-sauce-yaourt,"Chou-fleur rôti entier, sauce yaourt",plat,facile,60,4,orientale,474,1.26,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 9 10 11 12,four
+poelee-de-champignons-et-polenta-grillee,Poêlée de champignons et polenta grillée,plat,facile,30,4,italienne,303,1.28,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,automne
+patates-douces-farcies-aux-haricots,Patates douces farcies aux haricots,plat,facile,55,4,mexicaine,504,2.24,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,,four végétal
+tofu-brouille-aux-legumes,Tofu brouillé aux légumes,plat,facile,15,2,moderne,491,2.71,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SOJ,6 9,végétal rapide
+burger-vegetarien-a-la-feta-grillee,Burger végétarien à la feta grillée,plat,facile,20,4,moderne,531,1.86,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI SES,6 7 8 9,été
+cocotte-de-pommes-de-terre-et-champignons-a-la-creme,Cocotte de pommes de terre et champignons à la crème,plat,facile,45,4,française,340,1.19,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,hiver
+souffle-au-fromage,Soufflé au fromage,plat,difficile,50,4,française,325,1.07,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,four classique
+crozets-facon-tartiflette-vegetarienne,Crozets façon tartiflette végétarienne,plat,facile,40,4,savoyarde,562,1.57,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,four hiver
+moussaka-vegetarienne-aux-lentilles,Moussaka végétarienne aux lentilles,plat,moyen,75,6,grecque,417,1.3,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,6 7 8 9,four
+veloute-de-potiron,Velouté de potiron,soupe,facile,45,4,française,230,0.98,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 9 10 11 12,hiver végétal
+veloute-de-butternut-au-lait-de-coco,Velouté de butternut au lait de coco,soupe,facile,45,4,moderne,278,1.13,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL MOU,1 2 9 10 11 12,automne végétal
+soupe-de-potimarron-aux-noisettes,Soupe de potimarron aux noisettes,soupe,facile,45,4,française,210,1.03,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL FCO LAI,1 2 9 10 11 12,automne
+soupe-de-legumes-d-hiver,Soupe de légumes d'hiver,soupe,facile,55,6,française,159,0.76,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 10 11 12,hiver végétal économique
+soupe-poireaux-pommes-de-terre,Soupe poireaux pommes de terre,soupe,facile,45,4,française,230,0.9,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 4 9 10 11 12,hiver économique
+veloute-de-carottes-au-cumin,Velouté de carottes au cumin,soupe,facile,35,4,française,181,0.64,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL,1 2 3 4 12,végétal économique
+veloute-de-courgettes-au-fromage-frais,Velouté de courgettes au fromage frais,soupe,facile,30,4,française,147,1.17,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,6 7 8 9,été
+veloute-de-champignons,Velouté de champignons,soupe,facile,35,4,française,230,1.22,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 4 5 6 7 8 9 10 11 12,automne
+veloute-de-chou-fleur,Velouté de chou-fleur,soupe,facile,35,4,française,145,0.87,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 4 9 10 11 12,hiver
+veloute-de-brocoli,Velouté de brocoli,soupe,facile,30,4,française,160,1.14,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL,6 7 8 9 10 11,végétal
+creme-de-petits-pois-a-la-menthe,Crème de petits pois à la menthe,soupe,facile,25,4,française,172,0.73,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 4 5 6 7 8 9 10 11 12,printemps
+veloute-d-asperges,Velouté d'asperges,soupe,facile,40,4,française,150,1.68,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,4 5 6,printemps
+gaspacho,Gaspacho,soupe,facile,15,4,espagnole,235,1.4,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SOJ SUL,7 8 9,été sans-cuisson végétal
+soupe-froide-de-concombre-au-yaourt,Soupe froide de concombre au yaourt,soupe,facile,10,4,grecque,189,1.12,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,5 6 7 8 9,été sans-cuisson
+soupe-a-l-oignon-gratinee,Soupe à l'oignon gratinée,soupe,moyen,70,4,française,392,1.43,sans_porc,CEL GLU LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,hiver classique
+minestrone,Minestrone,soupe,facile,55,6,italienne,276,1.0,vegetarien pescetarien sans_porc compatible_halal,CEL GLU LAI,6 7 8 9,végétal
+soupe-au-pistou,Soupe au pistou,soupe,moyen,65,6,provençale,270,1.14,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,6 7 8 9,été
+soupe-de-lentilles-corail,Soupe de lentilles corail,soupe,facile,35,4,orientale,292,0.72,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL,1 2 3 4 5 6 7 8 9 10 11 12,végétal économique
+harira,Harira,soupe,moyen,70,6,marocaine,313,1.62,sans_porc compatible_halal sans_lactose,CEL GLU,1 2 3 4 5 6 7 8 9 10 11 12,hiver
+soupe-de-pois-casses,Soupe de pois cassés,soupe,facile,70,6,française,293,0.56,sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,hiver économique
+soupe-de-pois-casses-vegetale,Soupe de pois cassés végétale,soupe,facile,70,6,française,300,0.48,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL,1 2 3 4 5 6 7 8 9 10 11 12,hiver végétal
+garbure-simplifiee,Garbure simplifiée,soupe,moyen,110,6,béarnaise,309,1.94,sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 10 11 12,hiver
+soupe-miso-aux-nouilles-et-tofu,Soupe miso aux nouilles et tofu,soupe,facile,20,4,japonaise,242,1.93,vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,léger
+pho-au-boeuf-express,Phở au bœuf express,soupe,moyen,50,4,vietnamienne,319,3.25,sans_porc compatible_halal sans_gluten sans_lactose,CEL POI,1 2 3 4 5 6 7 8 9 10 11 12,hiver
+soupe-de-tomates-roties,Soupe de tomates rôties,soupe,facile,45,4,moderne,168,1.41,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,6 7 8 9,été végétal
+veloute-de-patate-douce-et-carotte,Velouté de patate douce et carotte,soupe,facile,35,4,moderne,239,0.89,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL,10 11 12,automne végétal
+veloute-de-panais,Velouté de panais,soupe,facile,35,4,anglaise,274,0.98,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL FCO LAI,1 2 3 10 11 12,hiver
+creme-de-celeri-rave,Crème de céleri-rave,soupe,facile,45,4,française,185,0.83,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 9 10 11 12,hiver
+veloute-de-topinambours,Velouté de topinambours,soupe,facile,40,4,française,197,0.85,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 10 11 12,hiver
+soupe-de-fanes-et-legumes-verts,Soupe de fanes et légumes verts,soupe,facile,35,4,française,130,0.97,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,4 5 6,printemps anti-gaspi
+chorba-aux-vermicelles,Chorba aux vermicelles,soupe,moyen,70,6,algérienne,317,1.58,sans_porc compatible_halal sans_lactose,GLU,6 7 8 9,hiver
+soupe-de-poisson-simple,Soupe de poisson simple,soupe,moyen,50,4,provençale,428,2.93,pescetarien sans_porc compatible_halal,GLU LAI POI,6 7 8 9 10,hiver
+veloute-de-poireaux-au-curry,Velouté de poireaux au curry,soupe,facile,35,4,française,216,0.93,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL MOU,1 2 3 4 9 10 11 12,hiver
+soupe-tomate-lentilles-et-coco,"Soupe tomate, lentilles et coco",soupe,facile,35,4,indienne,267,0.97,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL MOU,1 2 3 4 5 6 7 8 9 10 11 12,végétal
+veloute-de-betterave,Velouté de betterave,soupe,facile,30,4,moderne,125,0.72,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 7 8 9 10 11 12,hiver
+soupe-de-haricots-blancs-et-chou,Soupe de haricots blancs et chou,soupe,facile,50,6,italienne,313,1.03,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,CEL GLU,1 2 3 9 10 11 12,hiver végétal
+veloute-d-epinards,Velouté d'épinards,soupe,facile,30,4,française,185,1.07,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,3 4 5 6 9 10 11,printemps
+bouillon-de-legumes-aux-vermicelles,Bouillon de légumes aux vermicelles,soupe,facile,30,4,française,130,0.49,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,CEL GLU,1 2 3 10 11 12,léger enfants
+soupe-de-mais-facon-chowder,Soupe de maïs façon chowder,soupe,facile,40,4,américaine,248,0.82,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 4 5 6 7 8 9 10 11 12,réconfortant
+veloute-de-lentilles-vertes-au-lard,Velouté de lentilles vertes au lard,soupe,facile,45,4,française,337,0.8,sans_gluten,CEL LAI,1 2 3 4 5 6 7 8 9 10 11 12,hiver
+salade-cesar,Salade César,salade,facile,35,4,américaine,385,2.74,sans_porc compatible_halal,GLU LAI MOU OEU SOJ,4 5 6 7 8 9 10,classique
+salade-de-chevre-chaud,Salade de chèvre chaud,salade,facile,20,4,française,415,1.48,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI SUL,4 5 6 7 8 9 10,classique
+salade-grecque,Salade grecque,salade,facile,15,4,grecque,358,2.03,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,7 8 9,été sans-cuisson
+salade-caprese,Salade caprese,salade,facile,10,4,italienne,269,1.27,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,6 7 8 9,été sans-cuisson
+salade-de-burrata-et-tomates-anciennes,Salade de burrata et tomates anciennes,salade,facile,10,4,italienne,280,2.06,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI SUL,6 7 8 9,été sans-cuisson
+salade-de-lentilles-carottes-et-feta,"Salade de lentilles, carottes et feta",salade,facile,40,4,française,445,1.08,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI MOU SUL,1 2 3 4 5 6 7 8 9 10 11 12,végétarien
+salade-de-pommes-de-terre,Salade de pommes de terre,salade,facile,35,4,allemande,307,0.74,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU SUL,1 2 3 4 5 6 7 8 9 10 11 12,pique-nique
+piemontaise,Piémontaise,salade,facile,40,4,française,332,1.51,sans_gluten sans_lactose,MOU OEU SUL,6 7 8 9,pique-nique été
+salade-de-riz-au-thon,Salade de riz au thon,salade,facile,30,4,française,483,1.6,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,OEU POI SUL,7 8 9,pique-nique été
+salade-de-pates-mediterraneenne,Salade de pâtes méditerranéenne,salade,facile,27,4,italienne,502,1.55,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,6 7 8 9,pique-nique été
+salade-de-quinoa-avocat-et-mais,"Salade de quinoa, avocat et maïs",salade,facile,30,4,moderne,479,1.82,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,,végétal
+salade-de-boulgour-aux-pois-chiches,Salade de boulgour aux pois chiches,salade,facile,25,4,orientale,407,1.18,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,6 7 8 9,végétal
+coleslaw,Coleslaw,salade,facile,15,6,américaine,122,0.36,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI MOU OEU SUL,1 2 3 9 10 11 12,barbecue sans-cuisson
+carottes-rapees-a-l-orange,Carottes râpées à l'orange,entree,facile,10,4,française,166,0.53,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 4 12,sans-cuisson végétal économique
+celeri-remoulade,Céleri rémoulade,entree,facile,15,4,française,140,0.47,vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL MOU OEU,1 2 3 9 10 11 12,sans-cuisson hiver
+concombre-a-la-creme,Concombre à la crème,entree,facile,10,4,française,106,0.85,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,5 6 7 8 9,été sans-cuisson
+taboule-de-chou-fleur,Taboulé de chou-fleur,salade,facile,20,4,moderne,185,1.3,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,9,végétal sans-cuisson
+salade-de-betteraves-et-chevre-frais,Salade de betteraves et chèvre frais,salade,facile,10,4,française,264,1.36,vegetarien pescetarien sans_porc compatible_halal sans_gluten,FCO LAI SUL,1 2 3 10 11 12,hiver sans-cuisson
+salade-d-endives-pommes-et-noix,"Salade d'endives, pommes et noix",salade,facile,10,4,française,259,1.09,vegetarien pescetarien sans_porc compatible_halal sans_gluten,FCO LAI SUL,1 2 3 4 10 11 12,hiver sans-cuisson
+salade-lyonnaise,Salade lyonnaise,salade,moyen,25,4,lyonnaise,319,1.2,sans_lactose,GLU MOU OEU SOJ SUL,4 5 6 7 8 9 10,classique
+salade-de-lentilles-et-saumon-fume,Salade de lentilles et saumon fumé,salade,facile,40,4,française,316,1.78,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU POI SUL,1 2 3 4 5 6 7 8 9 10 11 12,équilibré
+salade-thai-au-boeuf,Salade thaï au bœuf,salade,moyen,25,4,thaïlandaise,203,4.41,sans_porc compatible_halal sans_gluten sans_lactose,POI,6 7 8 9,été
+salade-de-poulet-mangue-et-avocat,"Salade de poulet, mangue et avocat",salade,facile,25,4,exotique,402,2.57,sans_porc compatible_halal sans_gluten sans_lactose,FCO,,été
+salade-de-pasteque-feta-et-menthe,"Salade de pastèque, feta et menthe",salade,facile,10,4,grecque,254,1.21,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,7 8,été sans-cuisson
+salade-de-melon-jambon-cru-et-mozzarella,"Salade de melon, jambon cru et mozzarella",salade,facile,10,4,italienne,357,2.22,sans_gluten,LAI,6 7 8 9,été sans-cuisson
+salade-de-fenouil-et-orange,Salade de fenouil et orange,salade,facile,10,4,sicilienne,188,1.05,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,,hiver sans-cuisson végétal
+salade-de-haricots-verts-tomates-et-echalote,"Salade de haricots verts, tomates et échalote",salade,facile,18,4,française,150,1.13,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU SUL,6 7 8 9,été végétal
+salade-de-chou-rouge-aux-pommes,Salade de chou rouge aux pommes,salade,facile,15,4,allemande,244,0.51,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,FCO SUL,1 2 3 9 10 11 12,hiver sans-cuisson végétal
+salade-de-mache-pommes-de-terre-et-oeuf,"Salade de mâche, pommes de terre et œuf",salade,facile,35,4,française,287,1.46,vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU OEU SUL,,hiver
+salade-de-crevettes-et-pamplemousse,Salade de crevettes et pamplemousse,salade,facile,15,4,française,269,2.47,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CRU,,hiver sans-cuisson
+salade-de-radis-concombre-et-yaourt,"Salade de radis, concombre et yaourt",salade,facile,10,4,moderne,76,0.97,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,5 6 7,printemps sans-cuisson
+salade-de-courgettes-crues-menthe-et-parmesan,"Salade de courgettes crues, menthe et parmesan",salade,facile,10,4,italienne,226,1.69,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,6 7 8 9,été sans-cuisson
+salade-de-pois-chiches-a-la-grecque,Salade de pois chiches à la grecque,salade,facile,10,4,grecque,313,1.33,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,6 7 8 9,végétal sans-cuisson
+salade-de-pates-au-poulet-et-curry,Salade de pâtes au poulet et curry,salade,facile,27,4,française,428,1.56,sans_porc compatible_halal,CEL GLU LAI MOU OEU SUL,1 2 3 4 5 6 7 8 9 10 11 12,pique-nique
+salade-de-jeunes-pousses-quinoa-et-abricots-secs,"Salade de jeunes pousses, quinoa et abricots secs",salade,facile,30,4,moderne,349,1.31,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,FCO MOU SUL,3 4 5 6 9 10 11,végétal
+poireaux-vinaigrette,Poireaux vinaigrette,entree,facile,25,4,française,257,0.94,vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU OEU SUL,1 2 3 4 9 10 11 12,hiver végétal
+asperges-vertes-a-la-vinaigrette-et-oeuf-mollet,Asperges vertes à la vinaigrette et œuf mollet,entree,facile,20,4,française,202,1.87,vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU OEU SUL,4 5 6,printemps
+artichauts-vinaigrette,Artichauts vinaigrette,entree,facile,35,4,bretonne,282,1.59,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU SUL,5 6 7 8 9,printemps végétal
+tomates-mozzarella-en-verrines,Tomates mozzarella en verrines,entree,facile,10,4,italienne,155,0.93,vegetarien pescetarien sans_porc compatible_halal sans_gluten,FCO LAI,6 7 8 9,apéro été
+tzatziki-et-crudites,Tzatziki et crudités,entree,facile,10,4,grecque,167,1.06,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,5 6 7,apéro sans-cuisson
+houmous-maison,Houmous maison,entree,facile,10,6,libanaise,353,0.85,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SES,1 2 3 4 5 6 7 8 9 10 11 12,apéro végétal sans-cuisson
+caviar-d-aubergine,Caviar d'aubergine,entree,facile,50,6,méditerranéenne,203,0.69,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SES,6 7 8 9,apéro végétal
+guacamole-et-chips-de-tortilla,Guacamole et chips de tortilla,entree,facile,18,4,mexicaine,414,1.52,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,,apéro végétal
+bruschetta-a-la-tomate,Bruschetta à la tomate,entree,facile,15,4,italienne,283,0.95,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,6 7 8 9,apéro été
+rillettes-de-sardines,Rillettes de sardines,entree,facile,10,4,bretonne,271,1.47,pescetarien sans_porc compatible_halal,GLU LAI POI,1 2 3 4 5 6 7 8 9 10 11 12,apéro sans-cuisson
+feuilletes-au-fromage,Feuilletés au fromage,entree,facile,25,6,française,235,0.5,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SES,1 2 3 4 5 6 7 8 9 10 11 12,apéro four
+gougeres,Gougères,entree,moyen,40,6,bourguignonne,292,0.74,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,apéro four
+cake-sale-aux-olives-et-jambon,Cake salé aux olives et jambon,entree,facile,60,8,française,305,0.79,,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,apéro pique-nique
+cake-courgette-et-feta,Cake courgette et feta,entree,facile,60,8,française,274,0.71,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,6 7 8 9,apéro pique-nique
+muffins-sales-au-thon-et-tomates-sechees,Muffins salés au thon et tomates séchées,entree,facile,40,6,française,255,0.8,pescetarien sans_porc compatible_halal,GLU LAI OEU POI,1 2 3 4 5 6 7 8 9 10 11 12,apéro
+samoussas-aux-legumes,Samoussas aux légumes,entree,moyen,40,6,indienne,171,0.4,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU MOU,1 2 3 4 5 6 7 8 9 10 11 12,apéro four
+nems-au-poulet-au-four,Nems au poulet au four,entree,moyen,50,6,vietnamienne,241,1.43,sans_porc compatible_halal sans_lactose,GLU POI,4 5 6 7 8 9 10,apéro four
+rouleaux-de-printemps-aux-crevettes,Rouleaux de printemps aux crevettes,entree,moyen,35,4,vietnamienne,215,2.38,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CRU POI,4 5 6 7 8 9 10,été frais
+oeufs-durs-mayonnaise-et-crudites,Œufs durs mayonnaise et crudités,entree,facile,20,4,française,171,0.81,vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU OEU,6 7 8 9,économique
+veloute-glace-de-petits-pois-et-chevre-en-verrine,Velouté glacé de petits pois et chèvre en verrine,entree,facile,20,6,moderne,88,0.52,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 4 5 6 7 8 9 10 11 12,apéro printemps
+pate-de-lentilles,Pâté de lentilles,entree,facile,30,6,moderne,293,0.65,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,FCO GLU,1 2 3 4 5 6 7 8 9 10 11 12,apéro végétal
+tapenade-et-toasts,Tapenade et toasts,entree,facile,15,6,provençale,247,0.63,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,1 2 3 4 5 6 7 8 9 10 11 12,apéro végétal
+salade-de-lentilles-corail-aux-legumes-croquants,Salade de lentilles corail aux légumes croquants,salade,facile,25,4,moderne,296,1.17,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,7 8 9,végétal
+salade-de-patate-douce-rotie-et-feta,Salade de patate douce rôtie et feta,salade,facile,45,4,moderne,361,1.51,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI SES SUL,10,automne
+salade-de-chou-chinois-sauce-sesame,Salade de chou chinois sauce sésame,salade,facile,15,4,asiatique,162,0.88,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SES SOJ SUL,1 2 10 11 12,sans-cuisson végétal
+salade-composee-jambon-emmental-et-mais,"Salade composée jambon, emmental et maïs",salade,facile,10,4,française,307,1.91,sans_gluten,LAI SUL,6 7 8 9,rapide
+salade-de-fruits-de-mer,Salade de fruits de mer,salade,facile,20,4,française,213,2.85,pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CRU MOL,6 7 8 9,été
+puree-de-pommes-de-terre-maison,Purée de pommes de terre maison,accompagnement,facile,35,4,française,342,0.58,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,classique
+puree-de-patates-douces,Purée de patates douces,accompagnement,facile,30,4,moderne,228,0.78,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,10 11 12,automne
+ecrase-de-pommes-de-terre-a-l-huile-d-olive,Écrasé de pommes de terre à l'huile d'olive,accompagnement,facile,30,4,méditerranéenne,316,1.02,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,5 6 7 8 9,végétal
+pommes-de-terre-sautees-a-l-ail,Pommes de terre sautées à l'ail,accompagnement,facile,35,4,française,331,0.65,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,végétal
+potatoes-au-paprika,Potatoes au paprika,accompagnement,facile,45,4,américaine,299,0.59,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,four végétal
+frites-de-patates-douces-au-four,Frites de patates douces au four,accompagnement,facile,40,4,américaine,275,0.86,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,10 11 12,four végétal
+pommes-de-terre-grenaille-roties-au-romarin,Pommes de terre grenaille rôties au romarin,accompagnement,facile,40,4,française,262,0.92,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,5 6 7 8 9,four végétal
+haricots-verts-persilles,Haricots verts persillés,accompagnement,facile,22,4,française,87,1.16,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,6 7 8 9,végétal
+carottes-glacees,Carottes glacées,accompagnement,facile,35,4,française,141,0.38,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,enfants
+legumes-rotis-au-four,Légumes rôtis au four,accompagnement,facile,50,4,moderne,325,1.23,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,10 11 12,four végétal
+poelee-de-champignons-persilles,Poêlée de champignons persillés,accompagnement,facile,25,4,française,100,1.09,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,végétal
+epinards-a-la-creme,Épinards à la crème,accompagnement,facile,20,4,française,132,0.55,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,hiver
+petits-pois-a-la-francaise,Petits pois à la française,accompagnement,facile,35,4,française,168,1.54,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,5 6 7,printemps
+fondue-de-poireaux,Fondue de poireaux,accompagnement,facile,35,4,française,148,0.83,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 9 10 11 12,hiver
+choux-de-bruxelles-rotis,Choux de Bruxelles rôtis,accompagnement,facile,35,4,anglaise,151,0.89,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,SUL,1 2 3 10 11 12,hiver végétal
+ratatouille-express-a-la-poele,Ratatouille express à la poêle,accompagnement,facile,40,4,provençale,154,1.03,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,7 8 9,été végétal
+semoule-aux-raisins-et-amandes,Semoule aux raisins et amandes,accompagnement,facile,10,4,orientale,334,0.39,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+riz-basmati-parfume,Riz basmati parfumé,accompagnement,facile,20,4,indienne,294,0.26,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,végétal
+riz-a-la-mexicaine,Riz à la mexicaine,accompagnement,facile,30,4,mexicaine,360,0.48,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,CEL,1 2 3 4 5 6 7 8 9 10 11 12,végétal
+lentilles-corail-au-curry,Lentilles corail au curry,accompagnement,facile,20,4,indienne,215,0.37,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,MOU,1 2 3 4 5 6 7 8 9 10 11 12,végétal
+galettes-de-polenta-grillees,Galettes de polenta grillées,accompagnement,facile,25,4,italienne,264,0.48,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,végétarien
+gratin-de-celeri-et-pommes-de-terre,Gratin de céleri et pommes de terre,accompagnement,facile,60,4,française,345,0.93,vegetarien pescetarien sans_porc compatible_halal sans_gluten,CEL LAI,1 2 3 9 10 11 12,four hiver
+brocoli-saute-a-l-ail-et-sesame,Brocoli sauté à l'ail et sésame,accompagnement,facile,15,4,asiatique,130,1.12,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU SES SOJ,6 7 8 9 10 11,végétal
+chou-rouge-braise-aux-pommes,Chou rouge braisé aux pommes,accompagnement,facile,65,6,alsacienne,146,0.4,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,SUL,1 2 3 9 10 11 12,hiver végétal
+taboule-express-a-la-menthe,Taboulé express à la menthe,accompagnement,facile,10,4,orientale,287,0.58,vegane vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU,6 7 8 9,sans-cuisson végétal
+crepes,Crêpes,petit-dej,facile,40,6,française,316,0.47,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter enfants
+pancakes,Pancakes,petit-dej,facile,30,4,américaine,379,0.77,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,brunch enfants
+gaufres,Gaufres,petit-dej,facile,30,6,belge,355,0.49,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+pain-perdu,Pain perdu,petit-dej,facile,15,4,française,363,0.81,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,anti-gaspi goûter
+porridge-aux-fruits,Porridge aux fruits,petit-dej,facile,10,2,anglaise,331,0.47,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,,rapide
+overnight-oats,Overnight oats,petit-dej,facile,5,2,moderne,289,0.86,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,sans-cuisson
+granola-maison,Granola maison,petit-dej,facile,35,8,moderne,354,0.58,vegetarien pescetarien sans_porc compatible_halal sans_lactose,FCO GLU SUL,1 2 3 4 5 6 7 8 9 10 11 12,batch
+bowl-yaourt-granola-et-fruits,"Bowl yaourt, granola et fruits",petit-dej,facile,5,2,moderne,432,1.44,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,,rapide
+smoothie-banane-fraise,Smoothie banane fraise,petit-dej,facile,5,2,moderne,205,1.18,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,,sans-cuisson
+avocado-toast-et-oeuf-poche,Avocado toast et œuf poché,petit-dej,facile,15,2,moderne,348,1.32,vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU OEU SUL,,brunch
+oeufs-benedicte-au-saumon,Œufs bénédicte au saumon,petit-dej,difficile,30,4,américaine,420,2.2,pescetarien sans_porc compatible_halal,GLU LAI OEU POI SOJ SUL,1 2 3 4 5 6 7 8 9 10 11 12,brunch
+muffins-aux-myrtilles,Muffins aux myrtilles,petit-dej,facile,40,12,américaine,187,0.43,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+banana-bread,Banana bread,petit-dej,facile,65,8,américaine,315,0.43,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI OEU,,goûter anti-gaspi
+brioche-perdue-aux-fruits-rouges,Brioche perdue aux fruits rouges,petit-dej,facile,20,4,française,243,0.68,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,brunch
+oeufs-a-la-coque-et-mouillettes,Œufs à la coque et mouillettes,petit-dej,facile,9,2,française,364,1.0,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,rapide enfants
+tartines-de-fromage-frais-radis-et-ciboulette,"Tartines de fromage frais, radis et ciboulette",petit-dej,facile,5,2,française,322,1.75,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,4 5 6 7,printemps sans-cuisson
+pain-aux-bananes-et-flocons-sans-sucre-ajoute,Pain aux bananes et flocons sans sucre ajouté,petit-dej,facile,45,6,moderne,182,0.26,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,,goûter
+pancakes-a-la-banane-et-aux-flocons,Pancakes à la banane et aux flocons,petit-dej,facile,15,2,moderne,244,0.45,vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU OEU,,rapide
+chia-pudding-coco-mangue,Chia pudding coco mangue,petit-dej,facile,5,2,moderne,414,1.58,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,,sans-cuisson végétal
+brunch-shakshuka-verte,Brunch shakshuka verte,petit-dej,facile,25,2,moderne,516,2.52,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,3 4 9 10 11,brunch
+mousse-au-chocolat,Mousse au chocolat,dessert,facile,20,6,française,277,0.77,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,classique sans-cuisson
+fondant-au-chocolat,Fondant au chocolat,dessert,facile,40,8,française,410,0.71,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+moelleux-au-chocolat-coeur-coulant,Moelleux au chocolat cœur coulant,dessert,moyen,25,6,française,374,0.68,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,festif
+brownies-aux-noix,Brownies aux noix,dessert,facile,40,12,américaine,347,0.65,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+cookies-aux-pepites-de-chocolat,Cookies aux pépites de chocolat,dessert,facile,27,12,américaine,257,0.39,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,goûter enfants
+gateau-au-yaourt,Gâteau au yaourt,dessert,facile,45,8,française,311,0.3,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter enfants économique
+quatre-quarts,Quatre-quarts,dessert,facile,60,8,bretonne,335,0.42,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+cake-au-citron,Cake au citron,dessert,facile,60,8,française,368,0.53,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter hiver
+cake-marbre,Cake marbré,dessert,facile,65,8,française,381,0.51,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter enfants
+madeleines,Madeleines,dessert,facile,25,20,française,109,0.16,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+financiers-aux-amandes,Financiers aux amandes,dessert,facile,27,12,française,216,0.42,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+clafoutis-aux-cerises,Clafoutis aux cerises,dessert,facile,55,6,limousine,244,1.13,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,6 7,été
+clafoutis-aux-abricots,Clafoutis aux abricots,dessert,facile,55,6,française,240,0.42,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI OEU,6 7 8,été
+far-breton-aux-pruneaux,Far breton aux pruneaux,dessert,facile,65,8,bretonne,324,0.65,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+tarte-aux-pommes,Tarte aux pommes,dessert,facile,55,8,française,218,0.28,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 8 9 10 11 12,automne classique
+tarte-tatin,Tarte Tatin,dessert,moyen,65,8,française,319,0.25,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 8 9 10 11 12,automne
+tarte-au-citron-meringuee,Tarte au citron meringuée,dessert,difficile,60,8,française,362,0.76,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,hiver
+tarte-aux-fraises,Tarte aux fraises,dessert,moyen,50,8,française,261,0.93,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,5 6 7,printemps
+tarte-aux-poires-et-amandes-bourdaloue,Tarte aux poires et amandes (bourdaloue),dessert,moyen,65,8,française,387,0.63,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI OEU,1 8 9 10 11 12,automne
+tarte-aux-prunes,Tarte aux prunes,dessert,facile,50,8,alsacienne,201,0.24,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI,7 8 9,été
+tarte-au-chocolat,Tarte au chocolat,dessert,facile,40,8,française,374,0.72,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,festif
+crumble-aux-pommes,Crumble aux pommes,dessert,facile,50,6,anglaise,368,0.27,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 8 9 10 11 12,automne hiver
+crumble-aux-fruits-rouges,Crumble aux fruits rouges,dessert,facile,40,6,anglaise,321,0.84,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,1 2 3 4 5 6 7 8 9 10 11 12,été
+crumble-poires-chocolat,Crumble poires chocolat,dessert,facile,45,6,française,431,0.41,vegetarien pescetarien sans_porc compatible_halal,GLU LAI SOJ,1 8 9 10 11 12,hiver
+creme-brulee,Crème brûlée,dessert,moyen,65,6,française,443,0.95,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,festif
+creme-caramel,Crème caramel,dessert,moyen,55,6,française,196,0.38,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,classique
+riz-au-lait,Riz au lait,dessert,facile,50,6,française,238,0.29,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,goûter réconfortant
+semoule-au-lait,Semoule au lait,dessert,facile,20,6,française,178,0.24,vegetarien pescetarien sans_porc compatible_halal,GLU LAI SUL,1 2 3 4 5 6 7 8 9 10 11 12,économique
+panna-cotta-aux-fruits-rouges,Panna cotta aux fruits rouges,dessert,facile,20,6,italienne,317,0.93,sans_gluten,LAI,1 2 3 4 5 6 7 8 9 10 11 12,festif
+panna-cotta-a-l-agar-agar-et-coulis-de-mangue,Panna cotta à l'agar-agar et coulis de mangue,dessert,facile,20,6,italienne,334,0.9,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,,sans-gélatine
+tiramisu,Tiramisu,dessert,moyen,25,6,italienne,388,1.01,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,festif sans-cuisson
+tiramisu-aux-fraises-et-speculoos,Tiramisu aux fraises et speculoos,dessert,facile,20,6,moderne,433,1.35,vegetarien pescetarien sans_porc compatible_halal,GLU LAI SOJ,5 6 7,printemps sans-cuisson
+charlotte-aux-poires,Charlotte aux poires,dessert,moyen,30,8,française,376,0.78,,GLU LAI OEU,1 8 9 10 11 12,hiver
+ile-flottante,Île flottante,dessert,moyen,40,6,française,271,0.65,vegetarien pescetarien sans_porc compatible_halal sans_gluten,FCO LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,classique
+mousse-au-citron,Mousse au citron,dessert,facile,25,6,française,236,0.72,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,frais
+mousse-a-la-mangue,Mousse à la mangue,dessert,facile,15,6,exotique,242,0.97,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,,sans-cuisson
+salade-de-fruits-frais,Salade de fruits frais,dessert,facile,15,6,française,170,0.41,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,,sans-cuisson végétal
+salade-de-fruits-d-ete,Salade de fruits d'été,dessert,facile,15,6,française,115,1.31,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,6 7,été sans-cuisson végétal
+compote-pommes-poires,Compote pommes poires,dessert,facile,40,6,française,130,0.01,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,1 8 9 10 11 12,enfants végétal
+pommes-au-four,Pommes au four,dessert,facile,45,4,française,201,0.18,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI SUL,1 2 3 4 5 8 9 10 11 12,hiver économique
+poires-belle-helene,Poires belle-Hélène,dessert,moyen,45,4,française,439,0.58,vegetarien pescetarien sans_porc compatible_halal sans_gluten,FCO LAI SOJ,1 8 9 10 11 12,hiver
+bananes-flambees,Bananes flambées,dessert,facile,15,4,antillaise,223,0.36,vegetarien pescetarien sans_porc sans_gluten,LAI,,rapide
+ananas-roti-a-la-vanille,Ananas rôti à la vanille,dessert,facile,35,4,exotique,226,0.68,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,,four
+fraises-au-sucre-et-chantilly,Fraises au sucre et chantilly,dessert,facile,10,4,française,231,1.33,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,5 6 7,printemps sans-cuisson
+fromage-blanc-au-coulis-de-framboises,Fromage blanc au coulis de framboises,dessert,facile,10,4,française,161,1.86,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,6 7 8 9,léger sans-cuisson
+yaourt-grec-miel-et-noix,"Yaourt grec, miel et noix",dessert,facile,5,4,grecque,325,1.18,vegetarien pescetarien sans_porc compatible_halal sans_gluten,FCO LAI,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+crepes-suzette,Crêpes Suzette,dessert,moyen,40,6,française,472,0.8,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 12,festif
+gateau-aux-pommes-moelleux,Gâteau aux pommes moelleux,dessert,facile,55,8,française,297,0.34,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 8 9 10 11 12,goûter automne
+gateau-a-l-orange,Gâteau à l'orange,dessert,facile,55,8,méditerranéenne,319,0.35,vegetarien pescetarien sans_porc compatible_halal sans_lactose,GLU OEU,1 2 3 4 12,hiver
+gateau-aux-carottes,Gâteau aux carottes,dessert,facile,65,10,américaine,362,0.63,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+gateau-basque,Gâteau basque,dessert,difficile,85,8,basque,458,0.63,vegetarien pescetarien sans_porc compatible_halal,FCO GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,festif
+gateau-au-chocolat-sans-farine,Gâteau au chocolat sans farine,dessert,facile,45,8,française,401,0.84,vegetarien pescetarien sans_porc compatible_halal sans_gluten,FCO LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,sans-gluten
+cheesecake,Cheesecake,dessert,moyen,75,10,américaine,355,1.07,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,festif
+pain-d-epices,Pain d'épices,dessert,facile,65,10,française,201,0.38,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,hiver goûter
+sables-au-beurre,Sablés au beurre,dessert,facile,32,20,bretonne,122,0.12,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+crepes-au-caramel-au-beurre-sale,Crêpes au caramel au beurre salé,dessert,facile,35,6,bretonne,371,0.74,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+beignets-aux-pommes,Beignets aux pommes,dessert,moyen,35,6,alsacienne,340,0.23,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 8 9 10 11 12,goûter friture
+churros,Churros,dessert,moyen,35,6,espagnole,425,0.4,vegetarien pescetarien sans_porc compatible_halal,GLU LAI SOJ,1 2 3 4 5 6 7 8 9 10 11 12,goûter friture
+fondue-au-chocolat-et-fruits,Fondue au chocolat et fruits,dessert,facile,20,6,suisse,371,1.12,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI SOJ,,convivial
+verrines-fromage-blanc-compote-et-speculoos,"Verrines fromage blanc, compote et speculoos",dessert,facile,10,4,moderne,189,0.71,vegetarien pescetarien sans_porc compatible_halal,GLU LAI SOJ,1 2 3 4 5 6 7 8 9 10 11 12,rapide sans-cuisson
+mug-cake-au-chocolat,Mug cake au chocolat,dessert,facile,7,1,moderne,538,0.98,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SOJ,1 2 3 4 5 6 7 8 9 10 11 12,rapide
+truffes-au-chocolat,Truffes au chocolat,dessert,facile,20,8,française,213,0.46,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI SOJ,1 2 3 4 5 6 7 8 9 10 11 12,festif
+rochers-coco,Rochers coco,dessert,facile,25,15,française,134,0.24,vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+creme-au-chocolat-maison,Crème au chocolat maison,dessert,facile,20,4,française,261,0.48,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI SOJ,1 2 3 4 5 6 7 8 9 10 11 12,enfants
+gateau-de-semoule-au-caramel,Gâteau de semoule au caramel,dessert,facile,45,6,française,271,0.37,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU SUL,1 2 3 4 5 6 7 8 9 10 11 12,économique
+muffins-pomme-cannelle,Muffins pomme cannelle,dessert,facile,40,12,américaine,197,0.22,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 8 9 10 11 12,goûter
+flan-patissier,Flan pâtissier,dessert,moyen,60,8,française,306,0.53,vegetarien pescetarien sans_porc compatible_halal,GLU LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,goûter
+soupe-de-fraises-a-la-menthe,Soupe de fraises à la menthe,dessert,facile,10,4,française,87,1.23,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,5 6 7,printemps sans-cuisson végétal
+rhubarbe-et-fraises-en-crumble,Rhubarbe et fraises en crumble,dessert,facile,50,6,anglaise,284,0.96,vegetarien pescetarien sans_porc compatible_halal,GLU LAI,5 6,printemps
+peches-roties-au-miel-et-romarin,Pêches rôties au miel et romarin,dessert,facile,30,4,provençale,175,0.51,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI,6 7 8 9,été
+figues-roties-au-miel-et-chevre-frais,Figues rôties au miel et chèvre frais,dessert,facile,25,4,française,205,1.64,vegetarien pescetarien sans_porc compatible_halal sans_gluten,FCO LAI,8 9 10,automne
+coings-poches-a-la-vanille,Coings pochés à la vanille,dessert,facile,75,4,française,293,1.04,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,10 11 12,automne végétal
+raisins-et-poires-pochees-au-vin,Raisins et poires pochées au vin,dessert,facile,35,4,française,327,1.12,vegane vegetarien pescetarien sans_porc sans_gluten sans_lactose,SUL,8 9 10,automne
+granite-au-melon,Granité au melon,dessert,facile,10,6,italienne,101,0.47,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,6 7 8 9,été sans-cuisson végétal
+sorbet-express-aux-fruits-rouges,Sorbet express aux fruits rouges,dessert,facile,5,4,moderne,110,0.81,vegane vegetarien pescetarien sans_porc compatible_halal sans_gluten sans_lactose,,1 2 3 4 5 6 7 8 9 10 11 12,été sans-cuisson végétal
+brochettes-de-fruits-au-chocolat,Brochettes de fruits au chocolat,dessert,facile,20,6,française,155,0.67,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI SOJ,,enfants été
+bavarois-aux-framboises,Bavarois aux framboises,dessert,moyen,30,8,française,229,1.56,,GLU LAI OEU,6 7 8 9,festif
+petits-pots-de-creme-a-la-vanille,Petits pots de crème à la vanille,dessert,facile,45,6,française,269,0.63,vegetarien pescetarien sans_porc compatible_halal sans_gluten,LAI OEU,1 2 3 4 5 6 7 8 9 10 11 12,enfants
